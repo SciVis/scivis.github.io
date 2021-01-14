@@ -41,6 +41,14 @@
   - title: "Glyph-based Visualization"
     url: "/methods/glyph/"
 
+- title: "Publications"
+  url: "/publications/"
+  side: left
+
+- title: "Funding"
+  url: "/funding/"
+  side: left
+
 - title: News
   url: "/news/"
   side: left

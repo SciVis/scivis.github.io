@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Methods"
+title: "Funding"
 header:
   image_fullwidth: header_unsplash_12.jpg
-permalink: "/methods/"
-
+permalink: "/funding/"
 ---
 
+* Serc
+* Other
