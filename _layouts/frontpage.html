@@ -94,11 +94,17 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts entries='7' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
 
+<div class="row">
+<h1>Staff</h1>
+{% for staff in site.staff %}
+    <h2><a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">{{ staff.name }}</a></h2>
+{% endfor %}
+</div><!-- /.row -->
 
 {% comment %}
 *
