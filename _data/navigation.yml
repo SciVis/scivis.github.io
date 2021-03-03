@@ -5,7 +5,7 @@
 - title: Staff
   url: "/staff/"
   side: left
-  staff: true
+  collection: staff
 
 - title: "Research Activities"
   url: "/research/"
@@ -52,7 +52,7 @@
 - title: Teaching
   url: "/courses/"
   side: left
-  courses: true
+  collection: courses
 
 - title: News
   url: "/news/"
