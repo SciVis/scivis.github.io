@@ -49,6 +49,11 @@
   url: "/funding/"
   side: left
 
+- title: Teaching
+  url: "/courses/"
+  side: left
+  courses: true
+
 - title: News
   url: "/news/"
   side: left

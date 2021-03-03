@@ -9,6 +9,13 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+<div class="row">
+<div class="panel radius">
+<h3>Page currently under construction</h3>
+<p>Visit our <a href="https://liu.se/en/research/scientific-visualization">Group web page at LiU</a> in the meantime.</p>
+<p><a href="https://liu.se/en/research/scientific-visualization">liu.se/en/research/scientific-visualization</a></p>
+</div>    
+</div>
 
 {% comment %}
 *
@@ -57,6 +64,8 @@ format: frontpage
 *
 {% endcomment %}
 
+
+{% comment %}
 {% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
@@ -98,13 +107,17 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
+{% endcomment %}
 
+
+{% comment %}
 <div class="row">
 <h1>Staff</h1>
 {% for staff in site.staff %}
     <h2><a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">{{ staff.name }}</a></h2>
 {% endfor %}
 </div><!-- /.row -->
+{% endcomment %}
 
 {% comment %}
 *
