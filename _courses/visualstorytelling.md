@@ -6,7 +6,7 @@ meta_title: "Visual Storytelling, PhD course"
 # subheadline: "Wufoo-powered contact forms"
 teaser: "PhD course, 6 credits, fall 2021"
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_dome.jpg
   title: Visual Storytelling
 
 # sidebar: right
