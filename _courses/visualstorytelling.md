@@ -1,13 +1,13 @@
 ---
 layout: page
-name: "Visual Story Telling, PhD course, 6 credits, fall 2021"
-title: "Visual Story Telling"
-meta_title: "Visual Story Telling, PhD course"
+name: "Visual Storytelling, PhD course, 6 credits, fall 2021"
+title: "Visual Storytelling"
+meta_title: "Visual Storytelling, PhD course"
 # subheadline: "Wufoo-powered contact forms"
 teaser: "PhD course, 6 credits, fall 2021"
 header:
   image_fullwidth: header_unsplash_12.jpg
-  title: Visual Story Telling
+  title: Visual Storytelling
 
 # sidebar: right
 # comments: true
@@ -69,6 +69,7 @@ The course consists of three parts.
 The first part is a series of sessions (lectures, seminars, workshops, etc) introducing the basic concepts of visual storytelling and communication-oriented visual design. The sessions are focused on overview, enabling the student to identify and learn more about specific concepts and techniques as called for in the specific project (i.e., the third part of the course). 
 
 The second part is a series of studies of the visualization environments available at Campus Norrköping, each involving an analysis of its salient communicative properties from a user-experience point of view. This part ends with a plenary session where the insights are summarized and collated. 
+
 The third and final part is team project pulling together the previous parts. Each team defines a brief for a communication-oriented visual design project, ideally drawing on ongoing research represented in the team. The team then executes a communication-oriented visual design project under supervision, involving at least the following phases: identify communicative intention, ideate, synthesize at least three concepts, select one of them, detail a partial prototype, evaluate concept and prototype relative to communicative intention, revise concept and prototype, present concept and prototype. The expected deliverable of the project is a partially grounded concept for a production in one or more of the visualization environments available at Campus Norrköping. 
 
 In terms of scheduling, the first and second parts overlap and run in parallel on location in Norrköping in the second half of August. The third part – the project – starts in September 2021 with team formation, ideally creating multidisciplinary teams (depending on the backgrounds of the participants). The team formation may be based on availability of good project ideas. The first step of the team’s work is to develop a project brief specifying a topic, a communicative purpose and an analysis of which visualization environments to focus on and why. Each team is assigned a process supervisor with suitable competence for the team’s brief. Moreover, communication design teachers and visualization technology specialists serve as resources for all teams. The project runs for the remainder of the fall 2021, with a final presentation tentatively scheduled for mid-January 2022.
