@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 name: "Visual Storytelling, PhD course, 6 credits, fall 2021"
 title: "Visual Storytelling"
 meta_title: "Visual Storytelling, PhD course"
@@ -22,14 +22,23 @@ permalink:
 homepage: false
 ---
 
-Creating an engaging and effective visualization is only partly a question of mastering the technology. Another important part is to decide what story to tell and how to tell it. This PhD course provides basic concepts and methods in visual communication with a focus on narrative aspects. In the final part of the course, these concepts and methods are applied in a communication-oriented visualization design team project using the state-of-the-art visualization environments available at Campus Norrköping.
-
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Table of Contents**
+Contents
 {: #toc }
 *  TOC
 {:toc}
 </div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+Creating an engaging and effective visualization is only partly a question of mastering the technology. Another important part is to decide what story to tell and how to tell it. This PhD course provides basic concepts and methods in visual communication with a focus on narrative aspects. In the final part of the course, these concepts and methods are applied in a communication-oriented visualization design team project using the state-of-the-art visualization environments available at Campus Norrköping.
+
+This course is sponsored by [SeRC](https://e-science.se).
+
+<span class='noborder'>[![SeRC](/images/serc-logo.png)](https://e-science.se)</span>
 
 ## Prerequisites
 
@@ -86,3 +95,6 @@ The course organizers are Ingrid Hotz (scientific visualization) and Jonas Löwg
 Ingrid Hotz, [ingrid.hotz@liu.se](mailto:ingrid.hotz@liu.se?subject=Visual Story Telling:), +46 11 36 34 62
 
 Jonas Löwgren, [jonas.lowgren@liu.se](jonas.lowgren@liu.se?subject=Visual Story Telling:), +46 11 36 36 54
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
