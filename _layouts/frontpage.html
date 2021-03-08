@@ -9,34 +9,6 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-<div class="row">
-<div class="panel radius">
-<h3>Page currently under construction</h3>
-<p>Visit our <a href="https://liu.se/en/research/scientific-visualization">Group web page at LiU</a> in the meantime.</p>
-<p><a href="https://liu.se/en/research/scientific-visualization">liu.se/en/research/scientific-visualization</a></p>
-</div>    
-</div>
-
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
-<div class="row t60">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
-
-	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
-
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
-</div><!-- /.row -->
-
-
 
 {% comment %}
 *
@@ -109,15 +81,9 @@ format: frontpage
 {% endunless %}
 {% endcomment %}
 
-
-{% comment %}
 <div class="row">
-<h1>Staff</h1>
-{% for staff in site.staff %}
-    <h2><a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">{{ staff.name }}</a></h2>
-{% endfor %}
+    {{ content }}
 </div><!-- /.row -->
-{% endcomment %}
 
 {% comment %}
 *
@@ -125,6 +91,18 @@ format: frontpage
 *
 {% endcomment %}
 
-<div class="row">
-    {{ content }}
+
+<div class="row t60">
+<h1>Some of our software frameworks</h1>
+    {% if page.widget1.image or page.widget1.video or page.widget1.title %}
+        {% include _frontpage-widget.html widget=page.widget1 %}
+    {% endif %}
+
+    {% if page.widget2.image or page.widget2.video or page.widget2.title %}
+        {% include _frontpage-widget.html widget=page.widget2 %}
+    {% endif %}
+
+    {% if page.widget3.image or page.widget3.video or page.widget3.title %}
+        {% include _frontpage-widget.html widget=page.widget3 %}
+    {% endif %}
 </div><!-- /.row -->
