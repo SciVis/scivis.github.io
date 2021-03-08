@@ -1,0 +1,67 @@
+---
+layout: page
+format: post
+---
+
+<div class="row b30" >
+    <div class="medium-4 columns t30">
+        <img class="figure" src='{{ "images/staff/" | append: page.staffimage | absolute_url }}' width="340px">
+    </div>
+    <div class="medium-8 columns t30">
+        <h3 style="margin-top:0px !important">{{ page.name }}</h3>
+        <h4 style="margin:0px">{{ page.position }}</h4>
+
+        <div>
+            <span style="width:2em;display: inline-block;" class="icon-mail"></span>
+            <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>
+        </div>
+        {% if page.contact.phone %}
+        <div>
+            <span style="width:2em;display: inline-block;" class="icon"></span>
+            {{ page.contact.phone}}
+        </div>
+        {% endif %}
+        {% if page.contact.address %}
+        <div>
+            <span style="width:2em;display: inline-block;" class="icon-home"></span>
+            {{ page.contact.address }}
+        </div>
+        {% endif %}
+        {% if page.contact.orcid %}
+        <div>
+            <span style="width:2em;display: inline-block;"><img alt="ORCID logo" src='{{ "/assets/img/orcid_24x24.png" | absolute_url }}' width="24" height="24" /></span>
+            <a href="https://orcid.org/{{ page.contact.orcid }}">{{ page.contact.orcid }}</a>
+        </div>
+        {% endif %}
+        {% comment %}
+        <table>
+            <tr>
+                <td><span class="icon-mail"></span></td>
+                <td><a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a></td>
+            </tr>
+            {% if page.contact.phone %}
+            <tr>
+                <td></td>
+                <td><span class="icon-"></span>{{ page.contact.phone }}</td>
+            </tr>
+            {% endif %}
+            {% if page.contact.address %}
+            <tr>
+                <td><span class="icon-home"></span></td>
+                <td>{{ page.contact.address }}</td>
+            </tr>
+            {% endif %}
+            {% if page.contact.orcid %}
+            <tr>
+                <td><img alt="ORCID logo" src='{{ "/assets/img/orcid_24x24.png" | absolute_url }}' width="24" height="24" /></td>
+                <td><a href="https://orcid.org/{{ page.contact.orcid }}">{{ page.contact.orcid }}</a></td>
+            </tr>
+            {% endif %}
+        </table>
+        {% endcomment %}
+    </div>
+</div>
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
