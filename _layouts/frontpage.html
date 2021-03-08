@@ -85,11 +85,35 @@ format: frontpage
     {{ content }}
 </div><!-- /.row -->
 
+<div class="row b60">
+<h1>Staff</h1>
 {% comment %}
-*
-* Finally, if there is content, spit it out.
-*
+    <div class="grid-x grid-margin-x small-up-2">
+        {% for staff in site.staff %}
+        <div class="cell"><div class="card staff-tile">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
+                <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
+                <h4>{{ staff.name }}</h4>
+                {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}
+            </a>
+        </div></div>
+        {% endfor %}
+    </div>
 {% endcomment %}
+    <div class="row">
+    {% for staff in site.staff %}
+        <div class="column small-2 card staff-tile">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
+                <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
+                <h4>{{ staff.name }}</h4>
+                {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}
+            </a>
+        </div>        
+    {% endfor %}
+        <div class="columns end"></div>
+    </div>
+</div><!-- /.row -->
+
 
 
 <div class="row t60">
