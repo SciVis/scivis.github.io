@@ -1,55 +1,15 @@
 ---
-layout: page
+layout: staff
+title: ''   # we want an empty title, since the name is shown next to the image
 name: Martin Falk
-title: Martin Falk
 position: Senior Lecturer
+staffimage: employee_image_marfa45.jpeg
+contact:
+    email: martin.falk@liu.se
+    phone: +46 11 36 3311
+    address: Kopparhammaren 2, Entrance 10B, Room 2071, Campus Norrköping
+    orcid: 0000-0003-1511-5006
 ---
-
-<div class="row" >
-    <div class="medium-4 columns t30">
-        <img class="figure" src='{{ "/images/employee_image_marfa45.jpg" | absolute_url }}' width="340px">
-    </div>
-    <div class="medium-8 columns t30">
-        <h3 style="margin-top:0px !important">Martin Falk</h3>
-        <h4 style="margin:0px">Senior Lecturer</h4>
-
-        <div>
-            <span style="width:2em;display: inline-block;" class="icon-mail"></span>
-            <a href="mailto:martin.falk@liu.se">martin.falk@liu.se</a>
-        </div>
-        <div>
-            <span style="width:2em;display: inline-block;" class="icon"></span>
-            +46 11 36 3311
-        </div>
-        <div>
-            <span style="width:2em;display: inline-block;" class="icon-home"></span>
-            Kopparhammaren 2, Entrance 10B, Room 2071, Campus Norrköping
-        </div>
-        <div>
-            <span style="width:2em;display: inline-block;"><img alt="ORCID logo" src='{{ "/assets/img/orcid_24x24.png" | absolute_url }}' width="24" height="24" /></span>
-            <a href="https://orcid.org/0000-0003-1511-5006">0000-0003-1511-5006</a>
-        </div>
-        <table>
-            <tr>
-                <td><span class="icon-mail"></span></td>
-                <td><a href="mailto:martin.falk@liu.se">martin.falk@liu.se</a></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><span class="icon-"></span>+46 11 36 3311</td>
-            </tr>
-            <tr>
-                <td><span class="icon-home"></span></td>
-                <td>Kopparhammaren 2, Entrance 10B, Room 2071<br>
-                    Campus Norrköping</td>
-            </tr>
-            <tr>
-                <td><img alt="ORCID logo" src='{{ "/assets/img/orcid_24x24.png" | absolute_url }}' width="24" height="24" /></td>
-                <td><a href="https://orcid.org/0000-0003-1511-5006">        0000-0003-1511-5006</a></td>
-            </tr>
-        </table>
-    </div>
-</div>
 
 Martin Falk is a senior lecturer in the Scientific Visualization Group at Linköping University. He received his Ph.D. degree (Dr. rer. nat.) from the University of Stuttgart in 2013. His research interests include molecular visualization, large-scale volume rendering, visualizations in the context of cryoEM, pathology, and systems biology as well as visualizing uncertainty, large spatio-temporal data, and glyph-based rendering.
 
