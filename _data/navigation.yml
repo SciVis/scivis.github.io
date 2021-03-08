@@ -24,47 +24,47 @@
   - title: "Material Science"
     url: "/research/materials/"
 
-- title: "Methods"
-  url: "/methods/"
-  side: left
-  dropdown:
-  - title: "Flow Visualization"
-    url: "/methods/flow/"
-  - title: "Tensor Field Visualization"
-    url: "/methods/tensor/"
-  - title: "Volume Visualization"
-    url: "/methods/volume/"
-  - title: "Topological Methods"
-    url: "/methods/topological/"
-  - title: "Exploration"
-    url: "/methods/exploration/"
-  - title: "Glyph-based Visualization"
-    url: "/methods/glyph/"
+# - title: "Methods"
+#   url: "/methods/"
+#   side: left
+#   dropdown:
+#   - title: "Flow Visualization"
+#     url: "/methods/flow/"
+#   - title: "Tensor Field Visualization"
+#     url: "/methods/tensor/"
+#   - title: "Volume Visualization"
+#     url: "/methods/volume/"
+#   - title: "Topological Methods"
+#     url: "/methods/topological/"
+#   - title: "Exploration"
+#     url: "/methods/exploration/"
+#   - title: "Glyph-based Visualization"
+#     url: "/methods/glyph/"
 
-- title: "Publications"
-  url: "/publications/"
-  side: left
+# - title: "Publications"
+#   url: "/publications/"
+#   side: left
 
-- title: "Funding"
-  url: "/funding/"
-  side: left
+# - title: "Funding"
+#   url: "/funding/"
+#   side: left
 
 - title: Teaching
   url: "/courses/"
   side: left
   collection: courses
 
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
+# - title: News
+#   url: "/news/"
+#   side: left
+#   dropdown:
+#   - title: "News Archive"
+#     url: "/news/archive/"
 
 - title: "Search"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
