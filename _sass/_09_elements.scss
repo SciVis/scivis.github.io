@@ -42,6 +42,20 @@
 }
 
 
+.staff-tile {
+    border: 1px solid #96c3e9;
+    background: #d5e7f6;
+    padding-top: 0.9375rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 5px;
+}
+
+.staff-tile .column, .staff-tile columns {
+  margin-left: 0.9375em;
+  margin-right: 0.9375em;
+}
+
 
 /* Shadows
 ------------------------------------------------------------------- */
