@@ -42,12 +42,17 @@
 }
 
 
+
+/* Staff tiles
+------------------------------------------------------------------- */
+[class*="block-grid-"] > .staff {
+    padding: 0 0.25rem 0.5rem;
+}
+
 .staff-tile {
     border: 1px solid #96c3e9;
     background: #d5e7f6;
-    padding-top: 0.9375rem;
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
+    padding: 0.5rem;
     border-radius: 5px;
 }
 

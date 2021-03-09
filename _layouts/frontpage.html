@@ -85,34 +85,42 @@ format: frontpage
     {{ content }}
 </div><!-- /.row -->
 
-<div class="row b60">
+<div class="row">
 <h1>Staff</h1>
-{% comment %}
-    <div class="grid-x grid-margin-x small-up-2">
-        {% for staff in site.staff %}
-        <div class="cell"><div class="card staff-tile">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
-                <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
-                <h4>{{ staff.name }}</h4>
-                {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}
-            </a>
-        </div></div>
-        {% endfor %}
-    </div>
-{% endcomment %}
-    <div class="row">
-    {% for staff in site.staff %}
-        <div class="column small-2 card staff-tile">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
-                <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
-                <h4>{{ staff.name }}</h4>
-                {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}
-            </a>
-        </div>        
-    {% endfor %}
-        <div class="columns end"></div>
-    </div>
 </div><!-- /.row -->
+{% comment %}
+<div class="grid-container">
+<div class="grid-x grid-padding-x medium-unstack">
+    {% for staff in site.staff %}
+    <div class="cell small-2 card staff-tile">
+        <div class="card-section">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
+                <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
+                <h4>{{ staff.name }}</h4>
+                {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div></div>
+{% endcomment %}
+
+<div class="row b60">
+    <ul class="small-block-grid-4 medium-block-grid-6">
+{% for staff in site.staff %}
+        <li class="staff"><div class="card staff-tile">
+        <div class="card-section">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
+                <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
+                <h4>{{ staff.name }}</h4>
+                {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}
+            </a>
+        </div>
+        </div>
+        </li>
+{% endfor %}
+    </ul>
+</div>
 
 
 
