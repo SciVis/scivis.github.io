@@ -31,8 +31,12 @@ One example is the development of tools for the analysis of time-varying volumet
 
 A second example is the visualization of space missions, such as New Horizons, Rosetta, or Osiris Rex. A third project is concerned with the high-resolution rendering of planetary surfaces. Centimeter-resolution images are available for large parts of Earth, the Moon, and Mars and are used in this project to provide an accurate and realistic surface context. While the environments can be used in public presentations directly, their main power comes from the usage when visualizing surface operations. In the case of Mars, this is the visualization of rover operations. In the case of the Moon, it is, for example, the dissemination of the Apollo moon missions.
 
- ![Earth fjord.png](/images/alebo68/earth_fjord.png)
- An example of surface rendering as presented in the GlobeBrowsing paper
+<figure>
+    <img src="/images/alebo68/earth_fjord.png" width="100%" alt="Earth fjord.png" itemprop="image">
+    <figcaption class="text-right">
+        An example of surface rendering as presented in the GlobeBrowsing paper.
+    </figcaption>
+</figure>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rDDjcxBP6ag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
