@@ -31,11 +31,8 @@ tr.publication div.thumbnail {
     height: auto;
 }
 
-
 </style>
 
-<!-- <ul class="small-block-grid-1 medium-block-grid-1"> -->
-<table>
 {% assign publications = site.publications | sort: 'year' | reverse %}
 {% for publication in publications %}
     {% if include.start != null and publication.year < include.start %}
@@ -43,46 +40,49 @@ tr.publication div.thumbnail {
     {% endif %}
 
     {% if include.id == null or publication.scivis_authors contains include.id %}
-
-    <tr class="publication"><td>
-    <!-- <li class="publication"> -->
-        <div class="thumbnail"><img src='{{publication.thumbnail}}'></div>
-        <div class="title">{{publication.title}}</div>
-        <div class="authors">{{publication.authors}}</div>
-        <div class="venue">{{publication.venue}}</div>
-        <div class="year">{{publication.year}}</div>
+<div class="row pub">
+    <div class="column medium-3">
+        <img src='{{publication.thumbnail}}' width="100%">
+    </div>
+    <div class="column medium-9 pub">
+        <span class="title">{{publication.title}}</span>
+        <span class="authors">{{publication.authors}}.</span>
+        <span class="venue">{{publication.venue}},</span>
+        <span class="year">{{publication.year}}.</span>
+        {% if publication.doi %}
         <div class="doi">
-            {% if publication.doi %}
-            <a href="https://dx.doi.org/{{publication.doi}}">DOI</a>
-            {% else %}
-            {% endif %}
+            <a href="https://dx.doi.org/{{publication.doi}}">doi:{{ publication.doi }}</a>
         </div>
-        <div class="pdf"><a href="{{publication.pdf}}">Paper</a></div>
-        <div class="bib"><a href="{{publication.bib}}">Bib</a></div>
-        <div class="video">
+        {% endif %}
+        <div class="links">
+            <span class="pdf"><a href="{{publication.pdf}}"><span class="icon-archive"></span> Paper (PDF)</a></span>
+            <span class="bib"><a href="{{publication.bib}}"><span class="icon-feather"></span> Bib</a></span>
             {% if publication.video %}
-                <a href="{{publication.video}}">Video</a>
+            <span class="video">
+                <a href="{{publication.video}}"><span class="icon-video"></span> Video</a>
+            </span>
             {% endif %}
-        </div>
-        <div class="link">
             {% if publication.link %}
-                <a href="{{publication.link}}">
+            <span class="link">
+                <a href="{{publication.link}}"><span class="icon-chevron-right"></span>
                     {% if publication.link_title %}
                         {{publication.link_title}}
                     {% else %}
                         Link
                     {% endif %}
                 </a>
+            </span>
             {% endif %}
         </div>
-        <div class="annotation">{% if publication.annotation %}{{publication.annotation}}{% endif %}</div>
-
-        <div class="description">
+        {% if publication.annotation %}
+        <span class="annotation"><span class="icon-price-tag"></span> {{publication.annotation}}</span>
+        {% endif %}
+        {% if publication.content %}
+        <div class="description t10">
             {{publication.content | markdownify}}
         </div>
-    <!-- </li> -->
-    </td></tr>
+        {% endif %}
+    </div>
+</div>
     {% endif %}
 {% endfor %}
-<!-- </ul> -->
-</table>

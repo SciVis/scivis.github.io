@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+@import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
+
+
+$pub-font-size: $base-font-size - 2px;
+
+.pub {
+    font-size: $pub-font-size;
+    p {
+        font-size: $pub-font-size !important;
+    }
+    p:last-child {
+        margin-bottom: 0px !important;
+    }
+
+    .title {
+        font-weight: 600;
+        display: block;
+    }
+    .authors {
+        display: block;
+    }
+    .venue {
+        font-style: italic;
+        display: block-inline;
+    }
+    .year {
+        font-style: normal;
+        display: block-inline;
+    }
+    .links span + span {
+        margin-left: 1rem;
+    }
+}
+.pub.row ~ .row {
+    padding-top: .75rem;
+}
