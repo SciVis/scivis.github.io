@@ -3,7 +3,7 @@ layout: staff
 title: ''   # we want an empty title, since the name is shown next to the image
 name: Alexander Bock
 position: Research Fellow
-staffimage: dummy.png
+staffimage: employee_image_alebo68.jpg
 contact:
     email: alexander.bock@liu.se
     phone:
@@ -12,8 +12,8 @@ contact:
 ---
 
 # Background
-- 2019 -  : Research Fellow — SCI Institute University of Utah
 - 2019 -  : Lecturer — Linköping University
+- 2019 - 2020: Research Fellow — SCI Institute University of Utah
 - 2017 - 2018: Moore-Sloan Post-Doctoral Research Fellow — New York University
 - 2015: Visiting Research Scholar — NASA Goddard Space Flight Center
 - 2011 - 2018: Ph.D in Visualization and Interaction — Linköping University. Thesis:Tailoring Visualization Applications for Tasks and Users
@@ -31,9 +31,8 @@ One example is the development of tools for the analysis of time-varying volumet
 
 A second example is the visualization of space missions, such as New Horizons, Rosetta, or Osiris Rex. A third project is concerned with the high-resolution rendering of planetary surfaces. Centimeter-resolution images are available for large parts of Earth, the Moon, and Mars and are used in this project to provide an accurate and realistic surface context. While the environments can be used in public presentations directly, their main power comes from the usage when visualizing surface operations. In the case of Mars, this is the visualization of rover operations. In the case of the Moon, it is, for example, the dissemination of the Apollo moon missions.
 
-- [Burma Tibet.png](https://www.dropbox.com/s/n4ocz5dpjo2gbzk/Burma%20Tibet.png?dl=0)
-- [Earth imersed in data.png](https://www.dropbox.com/s/6vtaqn4agghseun/Earth%20imersed%20in%20data.png?dl=0)
-- [Ganges1.png](https://www.dropbox.com/s/x5vckuyiutf04e5/Ganges1.png?dl=0)
+ ![Earth fjord.png](/images/alebo68/earth_fjord.png)
+ An example of surface rendering as presented in the GlobeBrowsing paper
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rDDjcxBP6ag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -43,5 +42,7 @@ A second example is the visualization of space missions, such as New Horizons, R
 - 2014: Best Scientific Visualization Poster 
 
 # Personal webpage
-
 [http://alexanderbock.eu](http://alexanderbock.eu)
+
+# Publications
+{% include publications id='alebo68' %}

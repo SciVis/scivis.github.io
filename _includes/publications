@@ -1,0 +1,88 @@
+{% comment %}
+Adds a publication list to a staff page.
+
+Optional parameters:
+ > id
+ > start
+ > end
+
+`id`:     The LiU ID of the member whose publication list should be generated.  If no id
+          is provided, all publications will be created
+`start`:  The (inclusive) starting year.  No publications before this year will be
+          included.  If no value is provided, there is no filtering on the start time
+`end`:    The (inclusive) ending year.  No publications after this year will be included.
+          If no value is provided, there is no filtering on the end time
+
+Example:
+  {% include publications id='alebo68' start='2018' end='2019' %}
+  {% include publications %}
+  {% include publications id='robsk21' %}
+
+{% endcomment %}
+
+
+<style type="text/css">
+tr.publication {
+    
+}
+
+tr.publication div.thumbnail {
+    width: 25%;
+    height: auto;
+}
+
+
+</style>
+
+<!-- <ul class="small-block-grid-1 medium-block-grid-1"> -->
+<table>
+{% assign publications = site.publications | sort: 'year' | reverse %}
+{% for publication in publications %}
+    {% if include.start != null and publication.year < include.start %}
+        {% continue %}
+    {% endif %}
+
+    {% if include.id == null or publication.scivis_authors contains include.id %}
+
+    <tr class="publication"><td>
+    <!-- <li class="publication"> -->
+        <div class="thumbnail"><img src='{{publication.thumbnail}}'></div>
+        <div class="title">{{publication.title}}</div>
+        <div class="authors">{{publication.authors}}</div>
+        <div class="venue">{{publication.venue}}</div>
+        <div class="year">{{publication.year}}</div>
+        <div class="doi">
+            {% if publication.doi %}
+            <a href="https://dx.doi.org/{{publication.doi}}">DOI</a>
+            {% else %}
+            {% endif %}
+        </div>
+        <div class="pdf"><a href="{{publication.pdf}}">Paper</a></div>
+        <div class="bib"><a href="{{publication.bib}}">Bib</a></div>
+        <div class="video">
+            {% if publication.video %}
+                <a href="{{publication.video}}">Video</a>
+            {% endif %}
+        </div>
+        <div class="link">
+            {% if publication.link %}
+                <a href="{{publication.link}}">
+                    {% if publication.link_title %}
+                        {{publication.link_title}}
+                    {% else %}
+                        Link
+                    {% endif %}
+                </a>
+            {% endif %}
+        </div>
+        <div class="annotation">{% if publication.annotation %}{{publication.annotation}}{% endif %}</div>
+
+        <div class="description">
+            {{publication.content | markdownify}}
+        </div>
+    <!-- </li> -->
+    </td></tr>
+    {% endif %}
+{% endfor %}
+<!-- </ul> -->
+</table>

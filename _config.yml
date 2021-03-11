@@ -85,11 +85,14 @@ compress_html:
 
 collections:
   posts:
-    output : true
+    output: true
   staff:
-    output : true
+    output: true
   courses:
-    output : true
+    output: true
+  publications:
+    output: true
+
 
 defaults:
   -

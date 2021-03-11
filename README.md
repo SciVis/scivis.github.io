@@ -1,66 +1,27 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+# SciVis webpage
+The webpage is built using [Jekyll](https://jekyllrb.com/docs) as a static webpage generator.  Jekyll takes Markdown/HTML hybrid files that are annotated with a YAML front matter and generates static webpages that are then served to the webpage visitor.
 
-# Newsletter: Stay in Touch for Future Updates
+Jekyll itself uses [Liquid](https://jekyllrb.com/docs) as a templating language.
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
-
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
-
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
-
-## A Responsive Jekyll Theme: *Feeling Responsive*
-
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
-
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
-
-And what license is *Feeling Responsive* released under? [This one][2].
-
-
-
-## Why use this theme?
-
-Feeling Responsive is heavily customizable.
-
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
+## How to add new publications
+ 1. Add a new `md` file to the `_publications` folder.  The file name must have the form *yyyy*_*firstauthor*_*secondauthor*_*workingtitle*.md
+ 1. The contents of the file are Markdown with a YAML header.  The header must contain the following information.  Almost all values, with the exception of `scivis_authors`, and `year` are strings
+   1. `title`:  The title of the paper
+   1. `authors`:  The human-readable list of authors as they appear on the paper
+   1. `scivis_authors`:  An array of LiU ids for the authors that belong to the SciVis group
+   1. `venue`:  The venue in which the paper was published
+   1. `year`:  The year in which the paper was published
+   1. `doi`:  The DOI number for the paper *optional*
+   1. `pdf`:  A link to the author-copy of the paper
+   1. `bib`:  A link to a bibfile that other authors can use to cite your paper
+   1. `thumbnail`:  A thumbnail for the paper in 16:9 aspect ratio
+   1. `link`:  A generic link that can be used to point to the source code, a project page, etc *optional*
+   1. `link_title`:  The text label for the provided `link`.  If this value is not provided, the default value "Link" is used
+   1. `video`:  A link to a video showing the paper contents *optional*
+   1. `annotation`:  An optional annotation that provides additional unique information about the paper, for example awards, etc *optional*
+   1. After the front matter, the file should contain a 1-2 sentence description of the paper that is used to entice visitors to read the paper
 
 
-
-## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
-**[Read Changelog ›][6]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
+# Previous links to read about the website generator, the theme, etc
+ - Jekyll: https://jekyllrb.com/docs
+ - Theme: Feeling Responsive (http://phlow.github.io/feeling-responsive/, [Getting Started](https://www.youtube.com/embed/3b5zCFSmVvU))
