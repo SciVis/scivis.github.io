@@ -12,6 +12,8 @@ permalink: "/staff/"
 
 {% comment %}
 
+Anders Ynnerman (andyn27@liu.se)
+
 Alexander Bock (alebo68@liu.se)
 Alexei Abrikossov (aleab47@liu.se)
 Anders Ynnerman (andyn27@liu.se)
