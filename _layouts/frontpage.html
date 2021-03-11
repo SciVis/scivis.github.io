@@ -86,8 +86,7 @@ format: frontpage
 </div><!-- /.row -->
 
 <div class="row">
-<h1>Staff</h1>
-</div><!-- /.row -->
+<h1>Staff</h1>   
 {% comment %}
 <div class="grid-container">
 <div class="grid-x grid-padding-x medium-unstack">
@@ -110,7 +109,7 @@ format: frontpage
 {% for staff in site.staff %}
         <li class="staff"><div class="card staff-tile">
         <div class="card-section">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">
+            <a href="{{ staff.url }}">
                 <img src='images/staff/{% if staff.staffimage %}{{ staff.staffimage }}{% else %}dummy.png{% endif %}'>
                 <h4>{{ staff.name }}</h4>
                 {% if staff.position %}<p>{{ staff.position }}</p>{% endif %}

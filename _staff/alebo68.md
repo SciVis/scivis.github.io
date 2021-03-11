@@ -12,15 +12,15 @@ contact:
 ---
 
 # Background
-- 2019 -  : Lecturer — Linköping University
-- 2019 - 2020: Research Fellow — SCI Institute University of Utah
-- 2017 - 2018: Moore-Sloan Post-Doctoral Research Fellow — New York University
-- 2015: Visiting Research Scholar — NASA Goddard Space Flight Center
-- 2011 - 2018: Ph.D in Visualization and Interaction — Linköping University. Thesis:Tailoring Visualization Applications for Tasks and Users
-- 2005 - 2010: Diploma work in Computer Science (Minor: Applied Physics — University of Münster, Germany. Thesis: Volume Fusion and Material-based Techniques for Multimodal Visualization
+
+| 2019 - | Lecturer, Linköping University |
+| 2019 - 2020 | Research Fellow, SCI Institute University of Utah |
+| 2017 - 2018 | Moore-Sloan Post-Doctoral Research Fellow, New York University |
+| 2015 | Visiting Research Scholar, NASA Goddard Space Flight Center |
+| 2011 - 2018 | Ph.D in Visualization and Interaction, Linköping University. Thesis: [Tailoring Visualization Applications for Tasks and Users](http://liu.diva-portal.org/smash/get/diva2:1208841/FULLTEXT01.pdf) |
+| 2005 - 2010 | Diploma work in Computer Science (Minor: Applied Physics), University of Münster, Germany. Thesis: Volume Fusion and Material-based Techniques for Multimodal Visualization |
 
 # Research Interests
-
 My research interests have always focused on creating visualization applications and algorithms that provide insight for the largest possible number of people. On the one side, there are expert domain scientists that utilize these applications to gain insight into their datasets and either generate new hypotheses or test previously generated theories for a specific dataset. On the other side, visualization applications can be used as an expressive storytelling tool aimed at the general public.
 
 In my PhD thesis I classified these into “Exploration", which are applications where users perform an initial investigation of a new dataset in order to arrive at these novel hypotheses, "Analysis", where an already established technique is repeatedly applied to a larger number of datasets as a means of confirming a specific hypotheses for a particular case. The last layer is "Communication" that covers the use case of disseminating research findings to a wider public audience.
@@ -37,9 +37,10 @@ A second example is the visualization of space missions, such as New Horizons, R
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rDDjcxBP6ag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Awards
-- 2017: Best Scientific Visualization Paper 
-- 2015: Best Scientific Visualization Poster
-- 2014: Best Scientific Visualization Poster 
+
+| 2017 | Best Scientific Visualization Paper |
+| 2015 | Best Scientific Visualization Poster |
+| 2014 | Best Scientific Visualization Poster |
 
 # Personal webpage
 [http://alexanderbock.eu](http://alexanderbock.eu)
