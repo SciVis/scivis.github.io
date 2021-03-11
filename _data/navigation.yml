@@ -7,18 +7,26 @@
   side: left
   collection: staff
 
-# - title: "Research Activities"
-#   url: "/research/"
-#   side: left
-#   dropdown:
+- title: "Research Activities"
+  url: "/research/"
+  side: left
+  dropdown:
+    - title: "Feature Tracking in Climate Data"
+      url: "/research/climate/"
+    - title: "Feature Level-Sets"
+      url: "/research/levelsets/"
+    - title: "Topological Comparisons"
+      url: "/research/comparative/"
+    - title: "Understanding Machine Learning"
+      url: "/research/machinelearning/"
+    - title: "VIA-MD - Molecular Visualization"
+      url: "/research/viamd/"
 #   - title: "Astronomy"
 #     url: "/research/astronomy/"
 #   - title: "Medical Visualization"
 #     url: "/research/medical/"
 #   - title: "Molecular Visualization"
 #     url: "/research/molecular/"
-#   - title: "Climate"
-#     url: "/research/climate/"
 #   - title: "Artificial Intelligence"
 #     url: "/research/ai/"
 #   - title: "Material Science"
