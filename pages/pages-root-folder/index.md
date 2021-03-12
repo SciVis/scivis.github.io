@@ -10,7 +10,7 @@ header:
   image_fullwidth: Haptic-VR-Vetenskaplig-visualisering-lab-MIT-LiU_DSC1439-2.jpg
   caption: 'Photo credits: Thor Balkhed'
 widget1:
-  title: "Open Space"
+  title: "OpenSpace"
   url: 'https://www.openspaceproject.com'
   image: openspace-color-transparent.png
   text: 'OpenSpace is open source interactive data visualization software designed to visualize the entire known universe and portray our ongoing efforts to investigate the cosmos.'

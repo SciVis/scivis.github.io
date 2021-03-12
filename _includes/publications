@@ -55,8 +55,12 @@ tr.publication div.thumbnail {
         </div>
         {% endif %}
         <div class="links">
+            {% if publication.pdf %}
             <span class="pdf"><a href="{{publication.pdf}}"><span class="icon-archive"></span> Paper (PDF)</a></span>
+            {% endif %}
+            {% if publication.bin %}
             <span class="bib"><a href="{{publication.bib}}"><span class="icon-feather"></span> Bib</a></span>
+            {% endif %}
             {% if publication.video %}
             <span class="video">
                 <a href="{{publication.video}}"><span class="icon-video"></span> Video</a>

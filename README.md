@@ -12,9 +12,9 @@ Jekyll itself uses [Liquid](https://jekyllrb.com/docs) as a templating language.
     * `venue`:  The venue in which the paper was published
     * `year`:  The year in which the paper was published
     * `doi`:  The DOI number for the paper *optional*
-    * `pdf`:  A link to the author-copy of the paper
-    * `bib`:  A link to a bibfile that other authors can use to cite your paper
-    * `thumbnail`:  A thumbnail for the paper in 16:9 aspect ratio
+    * `pdf`:  A link to the author-copy of the paper *optional*
+    * `bib`:  A link to a bibfile that other authors can use to cite your paper *optional*
+    * `thumbnail`:  A thumbnail for the paper in 16:9 aspect ratio *optional*
     * `link`:  A generic link that can be used to point to the source code, a project page, etc *optional*
     * `link_title`:  The text label for the provided `link`.  If this value is not provided, the default value "Link" is used
     * `video`:  A link to a video showing the paper contents *optional*
