@@ -7,7 +7,7 @@ year: 2014
 doi: "10.2312/vmv.20141275"
 pdf: "https://alexanderbock.github.io/papers/vmv14-bock-urban_search_and_rescue.pdf"
 bib: "https://alexanderbock.github.io/papers/vmv14-bock-urban_search_and_rescue.bib"
-thumbnail: 
+thumbnail: "/images/publications/2014_bock_kleiner_usar2.png"
 video: "https://www.youtube.com/watch?v=5dRzmcIPl90"
 ---
 

@@ -33,60 +33,60 @@ tr.publication div.thumbnail {
 
 </style>
 
-{% assign publications = site.publications | sort: 'year' | reverse %}
-{% for publication in publications %}
-    {% if include.start != null and publication.year < include.start %}
-        {% continue %}
-    {% endif %}
+{%- assign publications = site.publications | sort: 'year' | reverse -%}
+{%- for publication in publications -%}
+    {%- if include.start != nil and publication.year < include.start -%}
+        {%- continue -%}
+    {%- endif -%}
 
-    {% if include.id == null or publication.scivis_authors contains include.id %}
-<div class="row pub">
+    {%- if include.id == nil or publication.scivis_authors contains include.id -%}
+<div class="row pub {% cycle 'pub-even', 'pub-odd' %}">
     <div class="column medium-3">
-        <img src='{{publication.thumbnail}}' width="100%">
+        <a href="{{publication.thumbnail}}"><img src='{{publication.thumbnail}}' width="100%"></a>
     </div>
     <div class="column medium-9 pub">
         <span class="title">{{publication.title}}</span>
-        <span class="authors">{{publication.authors}}.</span>
+        <span class="authors">{{publication.authors}}</span>
         <span class="venue">{{publication.venue}},</span>
-        <span class="year">{{publication.year}}.</span>
-        {% if publication.doi %}
+        <span class="year">{{publication.year}}</span>
+        {%- if publication.doi -%}
         <div class="doi">
             <a href="https://dx.doi.org/{{publication.doi}}">doi:{{ publication.doi }}</a>
         </div>
-        {% endif %}
+        {%- endif -%}
         <div class="links">
-            {% if publication.pdf %}
+            {%- if publication.pdf -%}
             <span class="pdf"><a href="{{publication.pdf}}"><span class="icon-archive"></span> Paper (PDF)</a></span>
-            {% endif %}
-            {% if publication.bin %}
-            <span class="bib"><a href="{{publication.bib}}"><span class="icon-feather"></span> Bib</a></span>
-            {% endif %}
-            {% if publication.video %}
+            {%- endif -%}
+            {%- if publication.bib -%}
+            <span class="bib"><a href="{{publication.bib}}"><span class="icon-feather"></span> BibTex</a></span>
+            {%- endif -%}
+            {%- if publication.video -%}
             <span class="video">
                 <a href="{{publication.video}}"><span class="icon-video"></span> Video</a>
             </span>
-            {% endif %}
-            {% if publication.link %}
+            {%- endif -%}
+            {%- if publication.link -%}
             <span class="link">
                 <a href="{{publication.link}}"><span class="icon-chevron-right"></span>
-                    {% if publication.link_title %}
+                    {%- if publication.link_title -%}
                         {{publication.link_title}}
-                    {% else %}
+                    {%- else -%}
                         Link
-                    {% endif %}
+                    {%- endif -%}
                 </a>
             </span>
-            {% endif %}
+            {%- endif -%}
         </div>
-        {% if publication.annotation %}
+        {%- if publication.annotation -%}
         <span class="annotation"><span class="icon-price-tag"></span> {{publication.annotation}}</span>
-        {% endif %}
-        {% if publication.content %}
+        {%- endif -%}
+        {%- if publication.content -%}
         <div class="description t10">
             {{publication.content | markdownify}}
         </div>
-        {% endif %}
+        {%- endif -%}
     </div>
 </div>
-    {% endif %}
-{% endfor %}
+    {%- endif -%}
+{%- endfor -%}

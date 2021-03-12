@@ -1,5 +1,5 @@
 ---
-title: "IDEAS: Immersive Dome Experiencesfor Accelerating Science"
+title: "IDEAS: Immersive Dome Experiences for Accelerating Science"
 authors: "J. Faherty, M. SubbaRao, R. Wyatt, A. Ynnerman, N. deGrasse Tyson, A. Geller, M. Weber, P. Rosenfield, W. Steffen, G. Stoeckle, D. Weiskopf, M. Magnor, P. Williams, B. Abbott, L. Marchetti, T. Jarrett, J. Fay, J. Peek, O. Graur, P. Durrell, D. Homeier, H. Preston, T. Müller, J. Vos, D. Brown, P. Giorla, E. Rice, D. Bardalez Gagliuffi, A. Bock, J. Hedberg, D. Rosen, C. Emmart"
 scivis_authors: [ "andyn27", "alebo68" ]
 venue: "ASTRO 2020 White Paper"

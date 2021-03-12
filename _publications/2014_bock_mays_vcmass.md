@@ -6,7 +6,7 @@ venue: "IEEE Vis Poster Session"
 year: 2014
 pdf: "https://alexanderbock.github.io/papers/vis14poster-bock-space_weather-poster.pdf"
 bib: "https://alexanderbock.github.io/papers/vis14poster-bock-space_weather.bib"
-thumbnail: 
-annotations: "Best Scientific Visualization Poster"
+thumbnail: "/images/publications/2014_bock_mays_vcmass.png"
+annotation: "Best Scientific Visualization Poster"
 ---
 

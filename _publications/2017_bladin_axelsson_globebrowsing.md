@@ -8,7 +8,7 @@ doi: "10.1109/TVCG.2017.2743958"
 pdf: "https://alexanderbock.github.io/papers/vis17-bladin-globe_browsing.pdf"
 bib: "https://alexanderbock.github.io/papers/vis17-bladin-globe_browsing.bib"
 thumbnail: "/images/publications/2017_bladin_axelsson_globebrowsing.png"
-annotations: "Best Scientific Visualization Paper"
+annotation: "Best Scientific Visualization Paper"
 link: "https://github.com/OpenSpace/OpenSpace"
 link_title: "Code"
 ---

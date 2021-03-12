@@ -7,6 +7,6 @@ year: 2012
 doi: "10.1145/2425836.2425861"
 pdf: "https://alexanderbock.github.io/papers/ivcnz12-bingchen-dvr_fem.pdf"
 bib: "https://alexanderbock.github.io/papers/ivcnz12-bingchen-dvr_fem.bib"
-thumbnail: 
+thumbnail: "/images/publications/2012_liu_bock_fem.png"
 ---
 

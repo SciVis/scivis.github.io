@@ -7,6 +7,6 @@ year: 2014
 doi: "10.1109/3DVis.2014.7160102"
 pdf: "https://alexanderbock.github.io/papers/3dvis14-sunden-interaction_techniques.pdf"
 bib: "https://alexanderbock.github.io/papers/3dvis14-sunden-interaction_techniques.bib"
-thumbnail: 
+thumbnail: "/images/publications/2014_sunden_bock_interaction.png"
 ---
 

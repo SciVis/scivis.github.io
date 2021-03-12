@@ -6,6 +6,6 @@ venue: "Visual Computing for Biology and Medicine"
 year: 2012
 pdf: "https://alexanderbock.github.io/papers/vcbm12poster-bock-deep_brain_stimulation.pdf"
 bib: "https://alexanderbock.github.io/papers/vcbm12poster-bock-deep_brain_stimulation.bib"
-thumbnail: 
+thumbnail: "/images/publications/2012_bock_lang_dbs.png"
 ---
 
