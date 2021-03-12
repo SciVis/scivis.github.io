@@ -1,7 +1,7 @@
 ---
 title: "OpenSpace: An Open-Source Framework for Data Visualization and Contextualization"
-authors: "Bock, A., Pembroke, A., Mays M.L., Ynnerman, A."
-scivis_authors: [ "alebo68" ]
+authors: "A. Bock, A. Pembroke, M.L. Mays, A. Ynnerman"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "Abstracts at American Geophysical Union, Fall Meeting"
 year: 2015
 pdf: "https://alexanderbock.github.io/papers/agu15-bock-openspace.pdf"

@@ -1,6 +1,6 @@
 ---
 title: "Poor Man’s Rendering Of Segmented Data"
-authors: "Lindholm, S., Bock, A."
+authors: "S. Lindholm, A. Bock"
 scivis_authors: [ "alebo68" ]
 venue: "SIGRAD"
 year: 2013

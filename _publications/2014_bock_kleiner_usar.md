@@ -1,6 +1,6 @@
 ---
 title: "An Interactive Visualization System for Urban Search & Rescue Mission Planning"
-authors: "Bock, A., Kleiner, A., Lundberg, J., Ropinski, T."
+authors: "A. Bock, A. Kleiner, J. Lundberg, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "International Symposium on Safety, Security, and Rescue Robotics"
 year: 2014

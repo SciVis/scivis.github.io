@@ -1,6 +1,6 @@
 ---
 title: "GPU-Accelerated Direct Volume Rendering of Finite Element Data Sets"
-authors: "Liu, B., Bock, A., Ropinski, T., Nash, M., Nielsen, P., Wuensche, B."
+authors: "B. Liu, A. Bock, T. Ropinski, M. Nash, P. Nielsen, B. Wuensche"
 scivis_authors: [ "alebo68" ]
 venue: "Conference on Image and Vision Computing New Zealand"
 year: 2012

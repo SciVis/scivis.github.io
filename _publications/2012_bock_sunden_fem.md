@@ -1,6 +1,6 @@
 ---
 title: "Coherency-Based Curve Compression for High-Order Finite Element Model Visualization"
-authors: "Bock, A., Sundén, E., Bingchen, L., Wuensche, B., Ropinski, T."
+authors: "A. Bock, E. Sundén, L. Bingchen, B. Wuensche, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 year: 2012

@@ -1,0 +1,10 @@
+---
+title: "Tailoring visualization applications for tasks and users"
+authors: "A. Bock"
+scivis_authors: [ "alebo68" ]
+venue: "PhD Thesis"
+year: 2018
+doi: "10.3384/diss.diva-147975"
+pdf: "https://liu.diva-portal.org/smash/get/diva2:1208841/FULLTEXT01.pdf"
+thumbnail: "/images/publications/2018_bock_thesis.jpg"
+---

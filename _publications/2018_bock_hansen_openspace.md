@@ -1,7 +1,7 @@
 ---
 title: "OpenSpace: Bringing NASA Missions to the Public"
-authors: "Bock, A., Hansen, C., Ynnerman, A."
-scivis_authors: [ "alebo68" ]
+authors: "A. Bock, C. Hansen, A. Ynnerman"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Computer Graphics & Applications"
 year: 2018
 doi: "10.1109/MCG.2018.053491735"

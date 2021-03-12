@@ -1,6 +1,6 @@
 ---
 title: "TopoAngler: Interactive Topology-based Extraction of Fishes"
-authors: "Bock, A., Doraiswamy, H., Summers, A., Silva, C."
+authors: "A. Bock, H. Doraiswamy, A. Summers, C. Silva"
 scivis_authors: [ "alebo68" ]
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 year: 2017

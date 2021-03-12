@@ -1,6 +1,6 @@
 ---
 title: "Guiding Deep Brain Stimulation Interventions by Fusing Multimodal Uncertainty Regions"
-authors: "Bock, A., Lang, N., Evangelista, G., Lehrke, R., Ropinski, T."
+authors: "A. Bock, N. Lang, G. Evangelista, R. Lehrke, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "Pacific Visualization"
 year: 2013

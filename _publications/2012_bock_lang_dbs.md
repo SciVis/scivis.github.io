@@ -1,6 +1,6 @@
 ---
 title: "Supporting Deep Brain Stimulation Interventions by Fusing Microelectrode Recordings with Imaging Data"
-authors: "Bock, A., Lang, N., Evangelista, G., Lehrke, R., Ropinski, T."
+authors: "A. Bock, N. Lang, G. Evangelista, R. Lehrke, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "Visual Computing for Biology and Medicine"
 year: 2012

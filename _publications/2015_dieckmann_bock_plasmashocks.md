@@ -1,7 +1,7 @@
 ---
 title: "Shocks in unmagnetized plasma with a shear flow: Stability and magnetic field generation"
-authors: "Dieckmann, M., Bock, A., Ahmed, H., Doria, D., Sarri, G., Ynnerman, A., Borghesi, M."
-scivis_authors: [ "alebo68" ]
+authors: "M. Dieckmann, A. Bock, H. Ahmed, D. Doria, G. Sarri, A. Ynnerman, M. Borghesi"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "Physics of Plasmas"
 year: 2015
 doi: "10.1063/1.4926525"

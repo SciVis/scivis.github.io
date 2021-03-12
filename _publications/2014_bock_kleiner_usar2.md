@@ -1,6 +1,6 @@
 ---
 title: "Supporting Urban Search & Rescue Mission Planning through Visualization-Based Analysis"
-authors: "Bock, A., Kleiner, A., Lundberg, J., Ropinski, T."
+authors: "A. Bock, A. Kleiner, J. Lundberg, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "Vision, Modeling, and Visualization"
 year: 2014

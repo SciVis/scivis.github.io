@@ -1,7 +1,7 @@
 ---
 title: "OpenSpace: An Open-Source Astrovisualization Framework"
-authors: "Bock, A., Axelsson, E., Bladin, K., Costa, J., Payne, G., Territo, M., Kilby, J., Kuznetsova, M., Emmart, C., Ynnerman, A."
-scivis_authors: [ "alebo68" ]
+authors: "A. Bock, E. Axelsson, K. Bladin, J. Costa, G. Payne, M. Territo, J. Kilby, M. Kuznetsova, C. Emmart, A. Ynnerman"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "Journal of Open-Source Software"
 year: 2017
 doi: "10.21105/joss.00281"

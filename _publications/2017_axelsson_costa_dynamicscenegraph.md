@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Scene Graph: Enabling Scaling, Positioning, and Navigation in the Universe"
-authors: "Axelsson, E., Costa, J., Silva, C., Emmart, C., Bock, A., Ynnerman, A."
-scivis_authors: [ "alebo68" ]
+authors: "E. Axelsson, J. Costa, C. Silva, C. Emmart, A. Bock, A. Ynnerman"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "Computer Graphics Forum"
 year: 2017
 doi: "10.1111/cgf.13202"

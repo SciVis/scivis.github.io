@@ -1,7 +1,7 @@
 ---
 title: "OpenSpace: Changing the Narrative of Public Dissemination in Astronomical Visualization from What to How"
-authors: "Bock, A., Axelsson, E., Emmart, C., Kuznetsova, M., Hansen, C., Ynnerman, A."
-scivis_authors: [ "alebo68" ]
+authors: "A. Bock, E. Axelsson, C. Emmart, M. Kuznetsova, C. Hansen, A. Ynnerman"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Computer Graphics & Applications"
 year: 2018
 doi: "10.1109/MCG.2018.032421653"

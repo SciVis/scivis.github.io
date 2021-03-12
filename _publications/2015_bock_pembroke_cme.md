@@ -1,7 +1,7 @@
 ---
 title: "Visual Verification of Space Weather Ensemble Simulations"
-authors: "Bock, A., Pembroke, A., Mays, M.L., Rastaetter, L., Ynnerman, A, Ropinski, T."
-scivis_authors: [ "alebo68" ]
+authors: "A. Bock, A. Pembroke, M.L. Mays, L. Rastaetter, A. Ynnerman, T. Ropinski"
+scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Vis"
 year: 2015
 doi: "10.1109/SciVis.2015.7429487"

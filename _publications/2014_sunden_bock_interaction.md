@@ -1,7 +1,7 @@
 ---
 title: "Interaction Techniques as a Communication Channel when Presenting 3D Visualizations"
-authors: "Sundén, E., Bock, A., Jönsson, D., Ynnerman, A., Ropinski, T."
-scivis_authors: [ "alebo68" ]
+authors: "E. Sundén, A. Bock, D. Jönsson, A. Ynnerman, T. Ropinski"
+scivis_authors: [ "alebo68", "danjo37", "andyn27" ]
 venue: "IEEE VIS International Workshop on 3DVis"
 year: 2014
 doi: "10.1109/3DVis.2014.7160102"

@@ -1,6 +1,6 @@
 ---
 title: "Interactive Urban Search & Rescue Planning"
-authors: "Bock, A., Kleiner, A., Ropinksi, T."
+authors: "A. Bock, A. Kleiner, T. Ropinksi"
 scivis_authors: [ "alebo68" ]
 venue: "Excellence Centre at Linköping-Lund in Information Technology"
 year: 2013

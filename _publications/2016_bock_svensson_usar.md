@@ -1,6 +1,6 @@
 ---
 title: "A Visualization-Based Analysis System for Urban Search & Rescue Mission Planning Support"
-authors: "Bock, A., Svensson, Å., Kleiner, A., Lundberg, J., Ropinski, T."
+authors: "A. Bock, Å. Svensson, A. Kleiner, J. Lundberg, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "Computer Graphics Forum"
 year: 2016
