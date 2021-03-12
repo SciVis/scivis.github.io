@@ -7,7 +7,7 @@ year: 2017
 doi: "10.1109/TVCG.2017.2743980"
 pdf: "https://alexanderbock.github.io/papers/vis17-bock-topoangler.pdf"
 bib: "https://alexanderbock.github.io/papers/vis17-bock-topoangler.bib"
-thumbnail: 
+thumbnail: "/images/publications/2017_bock_doraiswamy_topoangler.png"
 video: "https://www.youtube.com/watch?v=gz22DjMRJjk"
 ---
 

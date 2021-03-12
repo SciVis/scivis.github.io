@@ -7,7 +7,7 @@ year: 2017
 doi: "10.1111/cgf.13202"
 pdf: "https://alexanderbock.github.io/papers/eurovis17-axelsson-dynamic_scene_graph.pdf"
 bib: "https://alexanderbock.github.io/papers/eurovis17-axelsson-dynamic_scene_graph.bib"
-thumbnail: 
+thumbnail: "/images/publications/2017_axelsson_costa_dynamicscenegraph.png"
 video: "https://www.youtube.com/watch?v=om9ruk6xRI4"
 link: "https://github.com/OpenSpace/OpenSpace"
 link_title: "Code"

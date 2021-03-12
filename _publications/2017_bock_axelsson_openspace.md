@@ -7,7 +7,7 @@ year: 2017
 doi: "10.21105/joss.00281"
 pdf: "https://alexanderbock.github.io/papers/joss17-bock-openspace.pdf"
 bib: "https://alexanderbock.github.io/papers/joss17-bock-openspace.bib"
-thumbnail: 
+thumbnail: "/images/publications/2017_bock_axelsson_openspace.png"
 link: "https://github.com/OpenSpace/OpenSpace"
 link_title: "Code"
 ---

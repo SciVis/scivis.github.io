@@ -7,7 +7,7 @@ year: 2018
 doi: "10.1109/MCG.2018.053491735"
 pdf: "https://alexanderbock.github.io/papers/cga18-bock-openspace-public.pdf"
 bib: "https://alexanderbock.github.io/papers/cga18-bock-openspace-public.bib"
-thumbnail: 
+thumbnail: "/images/publications/2018_bock_hansen_openspace.png"
 link: "https://github.com/OpenSpace/OpenSpace"
 link_title: "Code"
 ---

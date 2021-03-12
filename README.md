@@ -1,7 +1,15 @@
 # SciVis webpage
 The webpage is built using [Jekyll](https://jekyllrb.com/docs) as a static webpage generator.  Jekyll takes Markdown/HTML hybrid files that are annotated with a YAML front matter and generates static webpages that are then served to the webpage visitor.
-
 Jekyll itself uses [Liquid](https://jekyllrb.com/docs) as a templating language.
+
+If you want to try some bigger changes without directly committing them, you can [build the webpage locally](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).  Unfortunately, the Jekyll infrastructure doesn't work well on Windows, but it runs very smoothly on the Windows Subsystem for Linux [install](https://docs.microsoft.com/en-us/windows/wsl/install-win10).  Then, to install it on an Ubuntu system:
+1. `sudo apt-get install ruby-full build-essential zlib1g-dev`
+1. `sudo gem install jekyll bundler`
+1. << check out repository and `cd` into it >>
+1. `bundle install` (providing a specific folder or running `bundle` with elevated priviledges both work)
+1. `bundler exec jekyll serve --conf _config.yml,_config_dev.yml`
+
+
 
 ## How to add new publications
 1. Add a new `md` file to the `_publications` folder.  The file name must have the form *yyyy*_*firstauthor*_*secondauthor*_*workingtitle*.md

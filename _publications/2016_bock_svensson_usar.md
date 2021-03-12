@@ -7,7 +7,7 @@ year: 2016
 doi: "10.1111/cgf.12869"
 pdf: "https://alexanderbock.github.io/papers/cgf16-bock-urban-search-and-rescue.pdf"
 bib: "https://alexanderbock.github.io/papers/cgf16-bock-urban-search-and-rescue.bib"
-thumbnail: 
+thumbnail: "/images/publications/2016_bock_svensson_usar.png"
 annotations: "Invited Paper"
 ---
 
