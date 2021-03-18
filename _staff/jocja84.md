@@ -20,3 +20,6 @@ Therefore, my research focuses specifically on tensor field exploration, and fea
 
 # Personal webpage
 [https://weber.itn.liu.se/~jocja84/index.php](jochenjankowai.com)
+
+# Publications
+{% include publications id='jocja84' %}
