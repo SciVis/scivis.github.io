@@ -19,7 +19,7 @@ Synonymously, this task becomes more engaging, the more complex the message/data
 Therefore, my research focuses specifically on tensor field exploration, and feature space exploration and analysis.
 
 # Personal webpage
-[https://weber.itn.liu.se/~jocja84/index.php](jochenjankowai.com)
+[jochenjankowai.com](https://weber.itn.liu.se/~jocja84/index.php)
 
 # Publications
 {% include publications id='jocja84' %}
