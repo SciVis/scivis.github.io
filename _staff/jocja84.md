@@ -17,3 +17,6 @@ Coming from a background in languages, I have a keen interest in transporting th
 Synonymously, this task becomes more engaging, the more complex the message/data is. Will say, I am tackling the challenge of conveying complex data that is not intuitively comprehensible, and application-driven exploration of high-dimensional, high-order data.
 
 Therefore, my research focuses specifically on tensor field exploration, and feature space exploration and analysis.
+
+# Personal webpage
+[https://weber.itn.liu.se/~jocja84/index.php](jochenjankowai.com)
