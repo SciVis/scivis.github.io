@@ -1,5 +1,5 @@
 ---
-title: "Edit Distance between Merge Trees"
+title: "Edit distance between merge trees"
 authors: "Raghavendra Sridharamurthy, Talha Bin Masood, Adhitya Kamakshidasan, Vijay Natarajan"
 scivis_authors: [ "talma90" ]
 venue: "IEEE Transactions on Visualization and Computer Graphics, 26(3), pages 1518-1531"

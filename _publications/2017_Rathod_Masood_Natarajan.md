@@ -1,5 +1,5 @@
 ---
-title: "Approximation algorithms for Max Morse Matching"
+title: "Approximation algorithms for Max Morse matching"
 authors: "Abhishek Rathod, Talha Bin Masood, Vijay Natarajan"
 scivis_authors: [ "talma90" ]
 venue: "Computational Geometry, 61, pages 1-23"

@@ -12,11 +12,10 @@ contact:
 ---
 
 # Background
-I received Ph.D. in Computer Science from Indian Institute of Science, Bangalore under the supervision of [Prof. Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/) in 2018. The title of my Ph.D. thesis was `Geometric and Topological Methods for Biomolecular Visualization'. Before that, I completed Masters in Computer Science and Engineering from the same institute, with my thesis project focussing on extraction of symmetric structures in scalar fields. Since Nov. 2018, I have been part of the SciVis group at Norrköping as a post-doctoral fellow.
+I received Ph.D. in Computer Science from Indian Institute of Science, Bangalore under the supervision of [Prof. Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/) in 2018. The title of my Ph.D. thesis was "Geometric and Topological Methods for Biomolecular Visualization". Before that, I completed Masters in Computer Science and Engineering from the same institute, with my thesis project focussing on extraction of symmetric structures in scalar fields. Since Nov. 2018, I have been part of the SciVis group at Norrköping as a post-doctoral fellow.
 
 # Goal and Research interests
-My goal is to pursue interdisciplinary research using my skills as a computer scientist to solve problems from different scientific domains. I want to contribute in a tangible way towards devising solutions to major challenges faced by humanity today and in the future. My primary research interest is in the area of **data analysis and visualization**. Specifically, I am interested in using techniques from the field of **scientific visualization, computational topology and computational geometry** to solve data analysis problems in varied application domains like **climate science, medical science, structural biology and material science**. I am also interested in designing and
-implementing **parallel algorithms** to handle large datasets more efficiently.
+My goal is to pursue interdisciplinary research using my skills as a computer scientist to solve problems from different scientific domains. I want to contribute in a tangible way towards devising solutions to major challenges faced by humanity today and in the future. My primary research interest is in the area of **data analysis and visualization**. Specifically, I am interested in using techniques from the field of **scientific visualization, computational topology and computational geometry** to solve data analysis problems in varied application domains like **climate science, medical science, structural biology** and **material science**. I am also interested in designing and implementing **parallel algorithms** to handle large datasets more efficiently.
 
 # Publications
 {% include publications id='talma90' %}
