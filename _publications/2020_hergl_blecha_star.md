@@ -5,6 +5,9 @@ scivis_authors: [ "jocja84", "ingho32" ]
 venue: "Computer Graphics Forum"
 year: 2021
 doi: "10.1111/cgf.14209"
+pdf: "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14209"
 bib: "https://weber.itn.liu.se/~jocja84/bib/jankowai2021a.bib"
 thumbnail: "https://weber.itn.liu.se/~jocja84/img/hyper.png"
+link: "http://doi.org/10.1111/cgf.14209"
+link_title: "Wiley Online Library"
 ---
