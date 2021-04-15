@@ -3,7 +3,7 @@ layout: staff
 title: ''   # we want an empty title, since the name is shown next to the image
 subheadline: Explore organ function and doing so in an efficient manner.
 name: Daniel Jönsson
-position: Research Fellow
+position: Assistant Professor
 staffimage: employee_image_danjo37.jpeg
 contact:
     email: daniel.jonsson@liu.se

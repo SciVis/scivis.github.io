@@ -2,7 +2,7 @@
 layout: staff
 title: ''   # we want an empty title, since the name is shown next to the image
 name: Alexander Bock
-position: Research Fellow
+position: Assistant Professor
 staffimage: employee_image_alebo68.jpg
 contact:
     email: alexander.bock@liu.se
