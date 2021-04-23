@@ -83,7 +83,7 @@ The third and final part is team project pulling together the previous parts. Ea
 
 In terms of scheduling, the first and second parts overlap and run in parallel on location in Norrköping in the second half of August. The third part – the project – starts in September 2021 with team formation, ideally creating multidisciplinary teams (depending on the backgrounds of the participants). The team formation may be based on availability of good project ideas. The first step of the team’s work is to develop a project brief specifying a topic, a communicative purpose and an analysis of which visualization environments to focus on and why. Each team is assigned a process supervisor with suitable competence for the team’s brief. Moreover, communication design teachers and visualization technology specialists serve as resources for all teams. The project runs for the remainder of the fall 2021, with a final presentation tentatively scheduled for mid-January 2022.
 
-### Proposed schedule for parts 1-2, participants’ view
+### Proposed schedule for parts 1-2
 
 {% include alert text='<b>Disclaimer:</b> If the pandemic restrictions allow for campus teaching and travel after the summer, we are planning to teach the first two parts of the course in an intensive format on location in Norrköping. Here is a tentative schedule for those parts.' %}
 
