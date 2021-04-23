@@ -83,6 +83,112 @@ The third and final part is team project pulling together the previous parts. Ea
 
 In terms of scheduling, the first and second parts overlap and run in parallel on location in Norrköping in the second half of August. The third part – the project – starts in September 2021 with team formation, ideally creating multidisciplinary teams (depending on the backgrounds of the participants). The team formation may be based on availability of good project ideas. The first step of the team’s work is to develop a project brief specifying a topic, a communicative purpose and an analysis of which visualization environments to focus on and why. Each team is assigned a process supervisor with suitable competence for the team’s brief. Moreover, communication design teachers and visualization technology specialists serve as resources for all teams. The project runs for the remainder of the fall 2021, with a final presentation tentatively scheduled for mid-January 2022.
 
+{% include alert text='<b>Disclaimer:</b> If the pandemic restrictions allow for campus teaching and travel after the summer, we are planning to teach the first two parts of the course in an intensive format on location in Norrköping. Here is a tentative schedule for those parts.' %}
+
+### Proposed schedule for parts 1-2, participants’ view
+
+Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent to weekends are left empty to facilitate some travel needs. Normal text refers to taught sessions, italics are self-guided.
+
+<style>
+.selfguided {
+	color: #334D5C;
+	font-style: italic;
+}
+</style>
+
+<table>
+	<caption></caption>
+	<thead>
+		<tr>
+			<td>Date</td><td>Morning</td><td>Afternoon</td>
+		</tr>
+	</thead>
+	<tr>
+		<th>Aug 16</th>
+		<td></td>
+		<td>
+			Course introduction. <span class='selfguided'>Individual study, preparation.</span>
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 17</th>
+		<td>
+			9:15-11. Foundations of storytelling.<br>
+			11:15-12. Storytelling in classical visual communication.
+		</td>
+		<td>
+			<span class='selfguided'>Individual study, preparation.</span>
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 18</th>
+		<td>
+			Interactive narrative. Storytelling in interaction design and information design. Audiovisual narrative.
+		</td>
+		<td>
+			<span class='selfguided'>Individual study, preparation.</span>
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 19</th>
+		<td>
+			Foundations of communication-oriented visual design.
+		</td>
+		<td>
+			Foundations of communication-oriented visual design, cont.
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 20</th>
+		<td>
+			Visual communication in education.
+		</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Aug 23</th>
+		<td></td>
+		<td>
+			Introduction to experiential analysis of visualization environments. Group formation. 
+			<span class='selfguided'>Groupwork, preparation.</span>
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 24</th>
+		<td>
+			The concept of Exploranation. Introduction to dome and touch tables.
+		</td>
+		<td>
+			Introduction to SIMlab.
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 25</th>
+		<td>
+			Introduction to HMD VR and handheld AR.
+		</td>
+		<td>
+			Introduction to the Decision Arena, VR Arena (tentative).
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 26</th>
+		<td>
+			<span class='selfguided'>Groupwork on analysis, presentation preparation.</span>
+		</td>
+		<td>
+			Seminar. Group presentations, discussions.
+		</td>
+	</tr>
+	<tr>
+		<th>Aug 27</th>
+		<td>
+			Introduction to part 3 (projects). Bootstrapping project briefs, team formation (process continues remotely). 
+		</td>
+		<td></td>
+	</tr>
+</table>
+
 ## Examination
 Active participation in the first and second parts of the course. Adequate contribution to team project demonstrating the fulfillment of the expected learning outcomes.
 
