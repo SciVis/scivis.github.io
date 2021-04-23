@@ -87,7 +87,7 @@ In terms of scheduling, the first and second parts overlap and run in parallel o
 
 {% include alert text='<b>Disclaimer:</b> If the pandemic restrictions allow for campus teaching and travel after the summer, we are planning to teach the first two parts of the course in an intensive format on location in Norrköping. Here is a tentative schedule for those parts.' %}
 
-Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent to weekends are left empty to facilitate some travel needs. Normal text refers to taught sessions, italics are self-guided.
+Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent to weekends are left empty to facilitate some travel needs. Normal text refers to taught sessions, italics & teal-colored are self-guided.
 
 <style>
 .selfguided {
