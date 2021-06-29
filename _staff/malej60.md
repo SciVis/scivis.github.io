@@ -14,10 +14,14 @@ contact:
 Research engineer in the Scientific Visualization Group at Linköping University. Working on the development of the opensource software [OpenSpace](https://www.openspaceproject.com/) that visualizes the entire known universe. Graduated from Linköping University with a Master's degree in Media Technology and Engineering in autumn 2020.
 
 #### Interests
-Programing, C++, software development, visualization, usability, astronomy and games.
+Programing, C++, computer graphics, software development, visualization, usability, astronomy and games.
 
 #### Projects
 * Improved model loading in OpenSpace
 * Add support for animated models in OpenSpace
-* Visualize the James Webb Space Telescope launch in October 31 2021 and it's orbit around L2
-* Create an easier interface in OpenSpace to access and download Horizons trajectory data
+* Visualize the James Webb Space Telescope launch in 2021 and it's orbit around L2
+* Celestial coordinate conversions
+* Easier interface in OpenSpace to access and download Horizons trajectory data
+
+# Publications
+{% include publications id='malej60' %}
