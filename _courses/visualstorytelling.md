@@ -196,8 +196,11 @@ Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent 
 #### Foundations of storytelling 
 
 - [Handout (pdf)](foundations_of_storytelling_handouts.pdf)
+- [Sounds and music handout (pdf)](sounds_and_music_handouts.pdf)
 
 #### Storytelling in classical visual communication
+
+- [Handout (pdf)](VisualStorytelling_basics.pdf)
 
 #### Audiovisual narrative
 
