@@ -191,6 +191,29 @@ Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent 
     </tbody>
 </table>
 
+## Course Material
+
+For the session Audiovisual narrative on Wednesday August 18, please watch the film at this [link](https://vimeo.com/525185218): [https://vimeo.com/525185218]
+The Password has been sent out via email.
+
+While watching the film, reflect on what the “message” of the film is. How is this message narrated? What storytelling elements are used to narrate this? How do these elements work together, relate to each other, or contrast to one other?
+
+After the sessions Foundations of storytelling and Storytelling in classical visual communication on **Tuesday August 17**, you might also reflect upon:
++ Who is the intended audience?
++ What type of narrative structure are used?
++ What is the theme or moral of the story?
++ What roles have the camera scenic, the camera shots, the editing, the sounds, and the music?
++ How is the visual flow used and developed for the narration?
++ Is the storytelling linear, semi-linear, or non-linear?
++ What form elements and principles are used?
++ What semiotics are part of the narration?
+
+### Foundations of storytelling 
+
+- [Handout (pdf)](foundations_of_storytelling_handouts.pdf)
+
+### Storytelling in classical visual communication
+
 ## Examination
 Active participation in the first and second parts of the course. Adequate contribution to team project demonstrating the fulfillment of the expected learning outcomes.
 
