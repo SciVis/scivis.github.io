@@ -193,6 +193,14 @@ Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent 
 
 ## Course Material
 
+#### Foundations of storytelling 
+
+- [Handout (pdf)](foundations_of_storytelling_handouts.pdf)
+
+#### Storytelling in classical visual communication
+
+#### Audiovisual narrative
+
 For the session Audiovisual narrative on Wednesday August 18, please watch the film at this [link](https://vimeo.com/525185218): <https://vimeo.com/525185218>
 
 The Password has been sent out via email.
@@ -208,12 +216,6 @@ After the sessions Foundations of storytelling and Storytelling in classical vis
 + Is the storytelling linear, semi-linear, or non-linear?
 + What form elements and principles are used?
 + What semiotics are part of the narration?
-
-#### Foundations of storytelling 
-
-- [Handout (pdf)](foundations_of_storytelling_handouts.pdf)
-
-#### Storytelling in classical visual communication
 
 ## Examination
 Active participation in the first and second parts of the course. Adequate contribution to team project demonstrating the fulfillment of the expected learning outcomes.
