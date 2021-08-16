@@ -157,7 +157,7 @@ Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent 
         <tr>
             <th>Aug 24</th>
             <td>
-                The concept of Exploranation. Introduction to dome and touch tables.
+                Introduction to HMD VR and handheld AR.
             </td>
             <td>
                 Introduction to SIMlab.
@@ -166,10 +166,10 @@ Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent 
         <tr>
             <th>Aug 25</th>
             <td>
-                Introduction to HMD VR and handheld AR.
+                The concept of Exploranation. Introduction to dome and touch tables.
             </td>
             <td>
-                Introduction to the Decision Arena, VR Arena (tentative).
+                Introduction to the Decision Arena, VR Arena.
             </td>
         </tr>
         <tr>
