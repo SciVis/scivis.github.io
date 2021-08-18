@@ -220,6 +220,15 @@ After the sessions Foundations of storytelling and Storytelling in classical vis
 + What form elements and principles are used?
 + What semiotics are part of the narration?
 
+### Visual storytelling applied to visualization
+
+It may be helpful to see how other scholars have applied concepts from classical storytelling to the field of visualization. Here are a couple of articles that contribute to such connections. They also provide reference lists that may be useful for your own further study. It is notable that most of the literature seems to focus on information visualization as opposed to scientific visualization, but the reasoning used particularly in Segel and Heer (2010) should be quite broadly applicable.
+
+1. Segel, E., Heer, J. (2010). Narrative Visualization: Telling Stories with Data. IEEE Trans. Visualization and Computer Graphics 16(6):1139-1148.
+The authors analyze a broad collection of visualizations using a framework of classical storytelling concepts and constructs, showing the feasibility of such an approach and highlight some white spots in the emerging design space that may warrant further exploration. [pdf](segel_heer_2010.pdf)
+2. Gray, J. (2020). The data epic: Visualization practices for narrating life and death at a distance. In Engebretsen, M., Kennedy, H. (eds.) Data Visualization in Society. Amsterdam University Press.
+This is a case study based on two works of what the author calls “cinematic data visualization”, and it may be inspirational in particular for those of you who think about the problems of visualizing scale. In any case, it provides two fine examples of classical storytelling concepts applied to visualization. [pdf](gray_2020.pdf)
+
 ## Examination
 Active participation in the first and second parts of the course. Adequate contribution to team project demonstrating the fulfillment of the expected learning outcomes.
 
