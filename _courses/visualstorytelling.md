@@ -193,17 +193,14 @@ Suggested default time slots are 9.15-12 (AM) and 13.15-16 (PM). Slots adjacent 
 
 ## Course Material
 
-#### Foundations of storytelling 
-
+<h4>Foundations of storytelling</h4>
 - [Handout (pdf)](foundations_of_storytelling_handouts.pdf)
 - [Sounds and music handout (pdf)](sounds_and_music_handouts.pdf)
 
-#### Storytelling in classical visual communication
-
+<h4>Storytelling in classical visual communication</h4>
 - [Handout (pdf)](VisualStorytelling_basics.pdf)
 
-#### Audiovisual narrative
-
+<h4>Audiovisual narrative</h4>
 For the session Audiovisual narrative on Wednesday August 18, please watch the film at this [link](https://vimeo.com/525185218): <https://vimeo.com/525185218>
 
 The Password has been sent out via email.
@@ -220,8 +217,7 @@ After the sessions Foundations of storytelling and Storytelling in classical vis
 + What form elements and principles are used?
 + What semiotics are part of the narration?
 
-### Visual storytelling applied to visualization
-
+<h4>Visual storytelling applied to visualization</h4>
 It may be helpful to see how other scholars have applied concepts from classical storytelling to the field of visualization. Here are a couple of articles that contribute to such connections. They also provide reference lists that may be useful for your own further study. It is notable that most of the literature seems to focus on information visualization as opposed to scientific visualization, but the reasoning used particularly in Segel and Heer (2010) should be quite broadly applicable.
 
 1. Segel, E., Heer, J. (2010). Narrative Visualization: Telling Stories with Data. IEEE Trans. Visualization and Computer Graphics 16(6):1139-1148.
