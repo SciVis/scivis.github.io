@@ -225,6 +225,19 @@ The authors analyze a broad collection of visualizations using a framework of cl
 2. Gray, J. (2020). The data epic: Visualization practices for narrating life and death at a distance. In Engebretsen, M., Kennedy, H. (eds.) Data Visualization in Society. Amsterdam University Press.
 This is a case study based on two works of what the author calls “cinematic data visualization”, and it may be inspirational in particular for those of you who think about the problems of visualizing scale. In any case, it provides two fine examples of classical storytelling concepts applied to visualization. [pdf](gray_2020.pdf)
 
+<h4>Foundations of communication-oriented visual design</h4>
+- [Slides (pdf)](Jonas_210819.pdf)
+
+<h4>Visual communication in education</h4>
+- [Slides (pdf)](Konrad_210820.pdf)
+
+<h4>Experiential analysis of visualization environments</h4>
+- [Handout (pdf)](week_2_handout.pdf)
+- [Summary of results (pdf)](part_2_results.pdf)
+
+<h4>Part 3: The project</h4>
+- [Instructions (pdf)](part_3_instructions.pdf)
+
 ## Examination
 Active participation in the first and second parts of the course. Adequate contribution to team project demonstrating the fulfillment of the expected learning outcomes.
 
