@@ -217,6 +217,12 @@ After the sessions Foundations of storytelling and Storytelling in classical vis
 + What form elements and principles are used?
 + What semiotics are part of the narration?
 
+<h4>Interactive narrative</h4>
+
+- [Slides (pdf)](Interactive_narrative.pdf)
+- [Pearl VR](https://store.steampowered.com/app/476540/Google_Spotlight_Stories_Pearl/)
+- [Apollo’s Moon Shot AR](https://apps.apple.com/us/app/apollos-moon-shot-ar/id1465827204#?platform=ipad)
+
 <h4>Visual storytelling applied to visualization</h4>
 It may be helpful to see how other scholars have applied concepts from classical storytelling to the field of visualization. Here are a couple of articles that contribute to such connections. They also provide reference lists that may be useful for your own further study. It is notable that most of the literature seems to focus on information visualization as opposed to scientific visualization, but the reasoning used particularly in Segel and Heer (2010) should be quite broadly applicable.
 
