@@ -88,6 +88,7 @@ collections:
     output: true
   staff:
     output: true
+    sort_by: title
   courses:
     output: true
   publications:

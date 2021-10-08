@@ -1,6 +1,6 @@
 ---
 layout: staff
-title: ''   # we want an empty title, since the name is shown next to the image
+title: Daniel Jönsson
 subheadline: Explore organ function and doing so in an efficient manner.
 name: Daniel Jönsson
 position: Assistant Professor

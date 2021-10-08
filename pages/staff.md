@@ -6,7 +6,7 @@ permalink: "/staff/"
 ---
 
 {% for staff in site.staff %}
-* [{{ staff.name }}]({{ site.url }}{{ site.baseurl }}{{ staff.url }})
+  - [{{ staff.name }}]({{ site.url }}{{ site.baseurl }}{{ staff.url }}), {{ staff.position}}
 {% endfor %}
 
 

@@ -1,9 +1,10 @@
 ---
 layout: staff
-title: ''   # we want an empty title, since the name is shown next to the image
+title: Alexei Abrikossov
 name: Alexei Abrikossov
 position: Postdoc
 staffimage: dummy.png
+breadcrumb: true
 contact:
     email: alexei.abrikossov@liu.se
     phone:

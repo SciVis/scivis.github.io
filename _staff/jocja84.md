@@ -1,6 +1,6 @@
 ---
 layout: staff
-title: ''   # we want an empty title, since the name is shown next to the image
+title: Jochen Jankowai
 name: Jochen Jankowai
 position: PhD student
 staffimage: employee_image_jocja84.jpeg

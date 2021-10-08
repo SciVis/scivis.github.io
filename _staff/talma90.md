@@ -1,6 +1,6 @@
 ---
 layout: staff
-title: ''   # we want an empty title, since the name is shown next to the image
+title: Talha Bin Masood
 name: Talha Bin Masood
 position: Principal Research Engineer
 staffimage: employee_image_talma90.jpeg

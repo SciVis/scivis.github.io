@@ -1,6 +1,6 @@
 ---
 layout: staff
-title: ''   # we want an empty title, since the name is shown next to the image
+title: Anders Ynnerman
 subheadline: Head of the MIT Division
 name: Anders Ynnerman
 position: Professor
@@ -19,7 +19,7 @@ I am a visualization researcher who focuses on developing fundamental concepts t
 I am involved in a large number of research projects ranging from low level computer graphics to applied visualization. Applications of my research are found in diverse areas such as medical visualization, astrophysics, autonomous systems, artificial intelligence, and visual learning and communication.
 
 # Talks
-I often present our research at conferences and am frequently invited to give keynotes at research conferences. I also give popular sicence talks on a range of topics related to my research and motivational talks about science and leadership to a general audience.
+I often present our research at conferences and am frequently invited to give keynotes at research conferences. I also give popular science talks on a range of topics related to my research and motivational talks about science and leadership to a general audience.
 
 # Positions and Affiliations 
   - Professor at the [Department of Science and Technology, Linköping University](https://liu.se/en/organisation/liu/itn), Sweden
