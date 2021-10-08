@@ -49,24 +49,24 @@ tr.publication div.thumbnail {
         <span class="authors">{{publication.authors}}</span>
         <span class="venue">{{publication.venue}},</span>
         <span class="year">{{publication.year}}</span>
-        {%- if publication.doi -%}
+        {%- if publication.doi and publication.doi != "" -%}
         <div class="doi">
             <a href="https://dx.doi.org/{{publication.doi}}">doi:{{ publication.doi }}</a>
         </div>
         {%- endif -%}
         <div class="links">
-            {%- if publication.pdf -%}
+            {%- if publication.pdf and publication.pdf != "" -%}
             <span class="pdf"><a href="{{publication.pdf}}"><span class="icon-archive"></span> Paper (PDF)</a></span>
             {%- endif -%}
-            {%- if publication.bib -%}
+            {%- if publication.bib and publication.bib != "" -%}
             <span class="bib"><a href="{{publication.bib}}"><span class="icon-feather"></span> BibTex</a></span>
             {%- endif -%}
-            {%- if publication.video -%}
+            {%- if publication.video and publication.video != "" -%}
             <span class="video">
                 <a href="{{publication.video}}"><span class="icon-video"></span> Video</a>
             </span>
             {%- endif -%}
-            {%- if publication.link -%}
+            {%- if publication.link and publication.link != "" -%}
             <span class="link">
                 <a href="{{publication.link}}"><span class="icon-chevron-right"></span>
                     {%- if publication.link_title -%}
@@ -78,10 +78,10 @@ tr.publication div.thumbnail {
             </span>
             {%- endif -%}
         </div>
-        {%- if publication.annotation -%}
+        {%- if publication.annotation and publication.annotation != "" -%}
         <span class="annotation"><span class="icon-price-tag"></span> {{publication.annotation}}</span>
         {%- endif -%}
-        {%- if publication.content -%}
+        {%- if publication.content and publication.content != "" -%}
         <div class="description t10">
             {{publication.content | markdownify}}
         </div>
