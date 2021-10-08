@@ -4,6 +4,7 @@ title: Martin Falk
 name: Martin Falk
 position: Senior Lecturer
 staffimage: employee_image_marfa45.jpeg
+breadcrumb: true
 contact:
     email: martin.falk@liu.se
     phone: +46 11 36 3311

@@ -5,6 +5,7 @@ subheadline: Head of the MIT Division
 name: Anders Ynnerman
 position: Professor
 staffimage: employee_image_andyn27.jpeg
+breadcrumb: true
 contact:
     email: anders.ynnerman@liu.se
     phone: +46 11 36 33 09

@@ -4,6 +4,7 @@ title: Farhan Rasheed
 name: Farhan Rasheed
 position: PhD student
 staffimage: employee_image_farra01.jpeg
+breadcrumb: true
 contact:
     email: farhan.rasheed@liu.se
     phone: 

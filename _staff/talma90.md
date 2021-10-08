@@ -4,6 +4,7 @@ title: Talha Bin Masood
 name: Talha Bin Masood
 position: Principal Research Engineer
 staffimage: employee_image_talma90.jpeg
+breadcrumb: true
 contact:
     email: talha.bin.masood@liu.se
     phone:

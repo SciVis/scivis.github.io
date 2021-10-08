@@ -4,6 +4,7 @@ title: Mathieu Linares
 name: Mathieu Linares
 position: Senior Lecturer
 staffimage: employee_image_matli20.jpeg
+breadcrumb: true
 contact:
     email: mathieu.linares@liu.se
     phone: +46 13 28 4484

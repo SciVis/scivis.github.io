@@ -5,6 +5,7 @@ subheadline: Explore organ function and doing so in an efficient manner.
 name: Daniel Jönsson
 position: Assistant Professor
 staffimage: employee_image_danjo37.jpeg
+breadcrumb: true
 contact:
     email: daniel.jonsson@liu.se
     phone: +46 11 36

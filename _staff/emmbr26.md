@@ -4,6 +4,7 @@ title: Emma Broman
 name: Emma Broman
 position: Research Engineer
 staffimage: dummy.png
+breadcrumb: true
 contact:
     email: emma.broman@liu.se
     phone: +46 11 36 33 88

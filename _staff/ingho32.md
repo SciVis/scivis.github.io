@@ -4,6 +4,7 @@ title: Ingrid Hotz
 name: Ingrid Hotz
 position: Professor
 staffimage: employee_image_ingho32.jpeg
+breadcrumb: true
 contact:
     email: ingrid.hotz@liu.se
     phone: +46 11 36 3462

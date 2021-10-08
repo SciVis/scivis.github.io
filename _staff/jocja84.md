@@ -4,6 +4,7 @@ title: Jochen Jankowai
 name: Jochen Jankowai
 position: PhD student
 staffimage: employee_image_jocja84.jpeg
+breadcrumb: true
 contact:
     email: jochen.jankowai@liu.se
     phone: +46 11 36 33 91

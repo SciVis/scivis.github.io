@@ -4,6 +4,7 @@ title: Alexander Bock
 name: Alexander Bock
 position: Assistant Professor
 staffimage: employee_image_alebo68.jpg
+breadcrumb: true
 contact:
     email: alexander.bock@liu.se
     phone:

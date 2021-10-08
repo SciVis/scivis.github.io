@@ -4,6 +4,7 @@ title: Robin Skånberg
 name: Robin Skånberg
 position: PhD student
 staffimage: employee_image_robsk21.jpeg
+breadcrumb: true
 contact:
     email: robin.skanberg@liu.se
     phone: +46 11 36 3346

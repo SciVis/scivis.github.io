@@ -4,6 +4,7 @@ title: Malin Ejdbo
 name: Malin Ejdbo
 position: Research Engineer
 staffimage: employee_image_malej60.jpeg
+breadcrumb: true
 contact:
     email: malin.ejdbo@liu.se
     phone:

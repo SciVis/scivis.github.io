@@ -4,6 +4,7 @@ title: Emma Nilsson
 name: Emma Nilsson
 position: PhD student
 staffimage: dummy.png
+breadcrumb: true
 contact:
     email: emma.nilsson@liu.se
     phone: 

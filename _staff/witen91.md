@@ -4,6 +4,7 @@ title: Wito Engelke
 name: Wito Engelke
 position: PhD student
 staffimage: employee_image_witen91.jpeg
+breadcrumb: true
 contact:
     email: wito.engelke@liu.se
     phone: +46 11 36 3599

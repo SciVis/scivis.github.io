@@ -4,6 +4,7 @@ title: Peter Steneteg
 name: Peter Steneteg 
 position: Principal Research Engineer
 staffimage: employee_image_petst55.jpeg
+breadcrumb: true
 contact:
     email: peter.steneteg@liu.se
     phone: 
