@@ -16,7 +16,7 @@ widget1:
   text: 'OpenSpace is open source interactive data visualization software designed to visualize the entire known universe and portray our ongoing efforts to investigate the cosmos.'
 widget2:
   title: "Inviwo"
-  url: 'inviwo.org'
+  url: 'https://www.inviwo.org'
   image: inviwo-logo-512px.png
   text: 'Inviwo is a software framework for the rapid prototyping visualizations. It is written in C++, exploits modern graphics hardware, and is available under BSD license, which permits free use in any setup - also commercially'
 widget3:
