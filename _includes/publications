@@ -22,15 +22,10 @@ Example:
 
 
 <style type="text/css">
-tr.publication {
-    
-}
-
 tr.publication div.thumbnail {
     width: 25%;
     height: auto;
 }
-
 </style>
 
 {%- assign publications = site.publications | sort: 'year' | reverse -%}

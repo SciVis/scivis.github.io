@@ -11,6 +11,8 @@
   url: "/research/"
   side: left
   dropdown:
+#    - title: "Astronomy"
+#      url: "/research/astronomy/"
     - title: "Feature Tracking in Climate Data"
       url: "/research/climate/"
     - title: "Feature Level-Sets"
@@ -21,8 +23,6 @@
       url: "/research/machinelearning/"
     - title: "VIA-MD - Molecular Visualization"
       url: "/research/viamd/"
-#   - title: "Astronomy"
-#     url: "/research/astronomy/"
 #   - title: "Medical Visualization"
 #     url: "/research/medical/"
 #   - title: "Molecular Visualization"
@@ -68,6 +68,11 @@
 #   dropdown:
 #   - title: "News Archive"
 #     url: "/news/archive/"
+
+- title: Master Theses
+  url: "/exjobb/"
+  side: left
+  collection: exjobb
 
 - title: "Search"
   url: "/search/"

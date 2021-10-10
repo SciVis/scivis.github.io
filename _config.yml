@@ -93,6 +93,11 @@ collections:
     output: true
   publications:
     output: true
+  exjobb:
+    output: true
+    sort_by: title
+  projects:
+    output: true
 
 
 defaults:

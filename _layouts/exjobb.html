@@ -1,0 +1,57 @@
+---
+layout: page
+format: post
+---
+
+<style type="text/css">
+img.exjobb-image {
+    width: auto;
+    max-height: 300pt;
+}
+div.exjobb-header {
+    background-color: #e2e2e2;
+}
+</style>
+
+<div class="row">
+    <div class="column medium-6 exjobb-header">
+        <h5>Location</h5>
+        {{page.place}}
+
+        {% if page.project and page.project != "" %}
+        <h5>Project</h5>
+        {% for project in site.projects %}
+            {% if project.name == page.project %}
+                <a href="{{project.link}}">{{project.name}}</a>
+            {% endif %}
+        {% endfor %}
+        {% endif %}
+
+        {% if page.people %}
+        <h5>Number of people</h5>
+        {{page.people}}
+        {% endif %}
+
+        <h5>Contact</h5>
+        <ul>
+        {% for contact in page.contact %}
+            {% for staff in site.staff %}
+                {% assign name = staff.path | split:"/" | last | split:"." | first %}
+                {% if name == contact %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">{{ staff.name }}</a></li>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="column medium-6">
+        {% if page.image %}
+        <a href="{{page.image}}"><img class="exjobb-image" src="{{page.image}}" width="100%"></a>
+        {% endif %}
+    </div>
+</div>
+
+<div class="row">
+<h5>Description</h5>
+{{ content }}
+</div>

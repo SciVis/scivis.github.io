@@ -6,7 +6,9 @@ permalink: "/staff/"
 ---
 
 {% for staff in site.staff %}
-  - [{{ staff.name }}]({{ site.url }}{{ site.baseurl }}{{ staff.url }}), {{ staff.position}}
+<div class="row">
+  <a href="{{ site.url }}{{ site.baseurl }}{{ staff.url }}">{{staff.name}}</a>, {{staff.position}}
+</div>
 {% endfor %}
 
 
