@@ -7,5 +7,5 @@ year: 2021
 doi: "10.1007/978-3-030-83500-2_18"
 pdf: "https://hal.archives-ouvertes.fr/hal-02950541/document"
 bib: "https://citation-needed.springer.com/v2/references/10.1007/978-3-030-83500-2_18?format=bibtex&flavour=citation"
-thumbnail: "/images/publications/2021_Lukasczyk_Beran_Hackathon.md.png"
+thumbnail: "/images/publications/2021_Lukasczyk_Beran_Hackathon.png"
 ---
