@@ -3,7 +3,7 @@ layout: exjobb
 title: A Cosmic View of Life on Earth
 name: A Cosmic View of Life on Earth
 contact: [ "alebo68" ]
-place: American Museum of Natural History
+place: American Museum of Natural History, New York City
 people: 1-2
 project: OpenSpace
 ---
