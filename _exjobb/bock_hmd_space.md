@@ -3,7 +3,7 @@ layout: exjobb
 title: Immersive User Interfaces in Head-Mounted Displays for Astronomy
 name: Immersive User Interfaces in Head-Mounted Displays for Astronomy
 contact: [ "alebo68" ]
-place: Visualiseringscenter C, Norrköping
+place: Visualization Center C, Norrköping
 people: 1-2
 project: OpenSpace
 ---
