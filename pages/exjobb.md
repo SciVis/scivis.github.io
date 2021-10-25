@@ -6,6 +6,11 @@ permalink: "/exjobb/"
 ---
 
 {%- assign exjobb_projects = site.exjobb | group_by:"project" | sort: "name" -%}
+  <div class="row">
+    <div class="column medium-7"><i>Title</i></div>
+    <div class="column medium-4"><i>Location</i></div>
+    <div class="column medium-1"><i>Students</i></div>
+  </div>
 {%- for project in exjobb_projects -%}
     <h3>{{project.name}}</h3>
     {%- for items in project.items -%}
