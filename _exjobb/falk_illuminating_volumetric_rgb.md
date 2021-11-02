@@ -3,6 +3,7 @@ layout: exjobb
 title: Illuminating Volumetric RGB Data
 name: Illuminating Volumetric RGB Data
 contact: [ "marfa45" ]
+image: /images/exjobb/falk_illuminating_volumetric_rgb.png
 place: Norrköping
 people: 1
 project: Inviwo

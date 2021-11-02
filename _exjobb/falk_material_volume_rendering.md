@@ -3,6 +3,7 @@ layout: exjobb
 title: Material-based Volume Rendering
 name: Material-based Volume Rendering
 contact: [ "marfa45", "petst55" ]
+image: /images/exjobb/falk_material_volume_rendering.png
 place: Norrköping
 people: 1
 project: Inviwo

@@ -3,6 +3,7 @@ layout: exjobb
 title: Visualization of Crystal Structures
 name: Visualization of Crystal Structures
 contact: [ "petst55", "marfa45" ]
+image: /images/exjobb/steneteg_crystal_structures.png
 place: Norrköping
 people: 1
 project: Inviwo

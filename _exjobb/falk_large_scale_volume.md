@@ -3,6 +3,7 @@ layout: exjobb
 title: Efficient Large-scale Volume Rendering
 name: Efficient Large-scale Volume Rendering
 contact: [ "marfa45", "petst55" ]
+image: /images/exjobb/falk_large_scale_volume.png
 place: Norrköping
 people: 1
 project: Inviwo

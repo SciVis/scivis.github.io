@@ -3,6 +3,7 @@ layout: exjobb
 title: Surface Extraction in Volumetric RGB Data
 name: Surface Extraction in Volumetric RGB Data
 contact: [ "marfa45" ]
+image: /images/exjobb/falk_surface_extraction_rgb.png
 place: Norrköping
 people: 1
 project: Inviwo
