@@ -8,9 +8,6 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   title: Indo-Swedish joint network project
 
-breadcrumb: true
-show_meta: true
-meta_description:
 permalink: "/indoSwedProject/"
 homepage: false
 ---
