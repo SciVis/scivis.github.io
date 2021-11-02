@@ -11,3 +11,6 @@ contact:
     address: Kopparhammaren 2, Campus Norrköping
     orcid: 
 ---
+
+# Publications
+{% include publications id='sigsi52' %}

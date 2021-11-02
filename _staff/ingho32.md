@@ -23,3 +23,6 @@ Since 2015 she is a Professor in Scientific Visualization at the Linköping Univ
 The main focus of her research lies in the area of data analysis and scientific visualization, ranging from basic research questions to effective solutions to visualization problems in applications including flow analysis, engineering and physics, medical applications, and mechanical engineering ranging from small- to large-scale simulations.
 
 Her research builds on ideas and methods originating from different areas of computer sciences and mathematics, such as computer graphics, computer vision, dynamical systems, computational geometry, and combinatorial topology.
+
+# Publications
+{% include publications id='ingho32' %}

@@ -13,3 +13,6 @@ contact:
 ---
 
 Mathieu Linares is on leave of absense from IFM, working at Department of Science and Technology (ITN) at Linköpings University, Campus Norrköping. 
+
+# Publications
+{% include publications id='matli20' %}
