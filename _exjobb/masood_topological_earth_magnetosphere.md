@@ -3,7 +3,7 @@ layout: exjobb
 title: Topological Analysis of Earth’s Magnetosphere
 name: Topological Analysis of Earth’s Magnetosphere
 contact: [ "talma90", "alebo68" ]
-place: NASA Goddard Space Flight Center, Community Coordinated Modeling Center, Maryland (**remote**)
+place: Community Coordinated Modeling Center, Goddard Space Flight Center, Greenbelt, Maryland (placed in Norrköping until travelling is possible and safe)
 people: 2
 project: OpenSpace
 ---
