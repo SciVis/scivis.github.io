@@ -29,7 +29,3 @@ I often present our research at conferences and am frequently invited to give ke
   - Research Professor at the [Scientific Imaging and Computing Institute, School of Computing, University of Utah](http://www.sci.utah.edu/home.html), USA
   - Research Fellow at the [American Museum of Natural History](https://www.amnh.org/), New York, USA
   - Affiliated Professor at the [Royal Institute of Technology, Stockholm](https://www.kth.se/en), Sweden
-
-
-# Publications
-{% include publications id='andyn27' %}
