@@ -105,7 +105,7 @@
                 <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
                   <ul class="dropdown">
                     {% for elem in site[link.collection] %}
-                      <li><a href="{{ site.url }}{{ site.baseurl }}{{ elem.url }}">{{ elem.name | escape }}</a></li>
+                      <li><a href="{{ site.url }}{{ site.baseurl }}{{ elem.url }}">{% if elem.name %}{{ elem.name | escape }}{% else %}{{ elem.title | escape }}{% endif %}</a></li>
                     {% endfor %}
                   </ul>
               </li>
