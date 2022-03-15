@@ -18,7 +18,7 @@ widget2:
   title: "Inviwo"
   url: 'https://www.inviwo.org'
   image: inviwo-logo-512px.png
-  text: 'Inviwo is a software framework for the rapid prototyping visualizations. It is written in C++, exploits modern graphics hardware, and is available under BSD license, which permits free use in any setup - also commercially'
+  text: 'Inviwo is a software framework for the rapid prototyping visualizations. It is written in C++, exploits modern graphics hardware, and is available under BSD license, which permits free use in any setup - also commercially.'
 widget3:
   title: "VIA MD"
   url: 'https://github.com/scanberg/viamd'
