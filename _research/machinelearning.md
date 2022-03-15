@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Visualization for Understanding and Developing Machine Learning"
+name: Understanding Machine Learning
 permalink: "/research/machinelearning/"
 ---
 

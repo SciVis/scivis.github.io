@@ -98,6 +98,9 @@ collections:
     sort_by: title
   projects:
     output: true
+  research:
+    output: true
+    sort_by: name
 
 
 defaults:

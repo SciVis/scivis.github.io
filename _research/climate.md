@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Topology-Based Tracking of Features in Weather/Climate Data"
+name: Feature Tracking in Climate Data
 permalink: "/research/climate/"
 ---
 
