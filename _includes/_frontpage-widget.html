@@ -18,9 +18,9 @@
 	{% elsif widget_url == empty %}
 		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
 	{% else %}
-		<a href="{{ widget_url }}">
+		<p><a class="noborder" href="{{ widget_url }}">
 			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
-		</a>
+		</a></p>
 	{% endif %}
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
 

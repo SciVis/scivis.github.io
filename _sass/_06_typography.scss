@@ -68,8 +68,8 @@ p a:hover,
 article a:hover {
     border-bottom: 2px solid;
 }
-p .noborder a,
-article .noborder a {
+p a.noborder,
+article a.noborder {
   border-bottom: none;
 }
 p a.button,
