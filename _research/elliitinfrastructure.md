@@ -28,7 +28,7 @@ homepage: false
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-Contents
+<h4>Contents</h4>
 {: #toc }
 *  TOC
 {:toc}
@@ -53,25 +53,25 @@ This project is funded by [ELLIIT](https://elliit.se).
 <div class="row b60">
     <ul class="medium-block-grid-3">
         <li class="staff"><div class="card staff-tile">
-        <div class="card-section">
-            <a href="https://liu.se/en/employee/marfa45">
-                <img src='/images/staff/employee_image_marfa45.jpeg'>
-                <h4>Martin Falk</h4>
+            <a href="/staff/marfa45">
+                <div class="card-section">
+                    <img src='/images/staff/employee_image_marfa45.jpeg'>
+                    <h4>Martin Falk</h4>
+                    <p><b>Visualization Consultant, Software Development</b></p> 
+                    <p>Dept. of Science and Technology, Linköping University</p>
+                </div>
             </a>
-            <p><b>Visualization Consultant, Software Development</b></p> 
-            <p>Dept. of Science and Technology, Linköping University</p>
-        </div>
         </div>
         </li>
         <li class="staff"><div class="card staff-tile">
-        <div class="card-section">
-            <a href="https://liu.se/en/employee/ingho32">
-                <img src='/images/staff/employee_image_ingho32.jpeg'>
-                <h4>Ingrid Hotz</h4>
+            <a href="/staff/ingho32">
+                <div class="card-section">
+                    <img src='/images/staff/employee_image_ingho32.jpeg'>
+                    <h4>Ingrid Hotz</h4>
+                    <p><b>Visualization Consultant, Project Lead</b></p> 
+                    <p>Dept. of Science and Technology, Linköping University</p>
+                </div>
             </a>
-            <p><b>Visualization Consultant, Project Lead</b></p> 
-            <p>Dept. of Science and Technology, Linköping University</p>
-        </div>
         </div>
         </li>
     </ul>
