@@ -1,6 +1,8 @@
 ---
 layout: page
+name: "VIA-MD"
 title: "VIA-MD"
+breadcrumb: true
 permalink: "/research/viamd/"
 ---
 
@@ -48,5 +50,5 @@ The source code is available on our [Github repository](https://github.com/scanb
 - [Ingrid Hotz](/staff/ingho32/)
 - [Anders Ynnerman](https://liu.se/en/employee/andyn27)
 
-## Funding ##
+## Funding
 - SERC

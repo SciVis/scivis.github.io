@@ -2,6 +2,7 @@
 layout: page
 title: Comparing Scalar Field with Topological Descriptors
 name: Topological Comparison
+breadcrumb: true
 permalink: "/research/topology/"
 ---
 

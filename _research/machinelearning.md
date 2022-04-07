@@ -2,6 +2,7 @@
 layout: page
 title: "Visualization for Understanding and Developing Machine Learning"
 name: Understanding Machine Learning
+breadcrumb: true
 permalink: "/research/machinelearning/"
 ---
 

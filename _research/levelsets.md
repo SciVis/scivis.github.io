@@ -1,6 +1,8 @@
 ---
 layout: page
+name: "Feature Level-Sets"
 title: "Feature Level-Sets"
+breadcrumb: true
 permalink: "/research/levelsets/"
 ---
 
