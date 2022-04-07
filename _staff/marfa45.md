@@ -19,7 +19,15 @@ Martin Falk is a senior lecturer in the Scientific Visualization Group at Linkö
 
 ### Ongoing Projects
 
-<h4>Visualization in CryoEM</h4>
+- <h4><a href="/research/infrastructure/">ELLIIT Visualization Infrastructure</a></h4>
+- <h4>Visualization in cryo electron microscopy (Cryo-EM)</h4>
+
+<figure>
+    <img class="thumbnail" src="/images/marfa45/residueplot.png" width="100%" alt="Residue Plot" itemprop="image">
+    <figcaption class="text-right">
+        A heatmap depicting various quality metrics of a molecular structure, which was obtained using cryo-EM.
+    </figcaption>
+</figure>
 
 ### Completed Projects
 
@@ -27,7 +35,22 @@ Martin Falk is a senior lecturer in the Scientific Visualization Group at Linkö
 
 The aim of the project is to develop efficient multi-scale visualizations of 3D stacks of collections of large-scale slide images used in pathology. These slide image, obtained by scanning of such tissue samples, can exceed resolutions of 100,000 by 100,000 pixels at an optical magnification of 40x. A stack of images can thus easily result in more than 100 GiB per tissue sample.
 
-More information is available on the project website.
+<figure>
+    <div class="row">
+        <div class="columns small-6 noborder">
+            <a class="thumbnail" href="/images/marfa45/barretts.jpg"><img class="thumbnail" src="/images/marfa45/barretts_small.jpg" width="100%" alt="Residue Plot" itemprop="image"></a>
+        </div>
+        <div class="columns small-3 noborder">
+            <a class="thumbnail" href="/images/marfa45/barretts-closeup1_small.jpg"><img class="thumbnail" src="/images/marfa45/barretts-closeup1_small.jpg" width="100%" alt="Close-up of Barrett's esophagus" itemprop="image"></a>
+        </div>
+        <div class="columns small-3 noborder">
+            <a class="thumbnail" href="/images/marfa45/barretts-closeup2_small.jpg"><img src="/images/marfa45/barretts-closeup2_small.jpg" width="100%" alt="Close-up and cut-away of Barrett's esophagus" itemprop="image"></a>
+        </div>
+    </div>
+    <figcaption class="text-right">
+        A heatmap depicting various quality metrics of a molecular structure, which was obtained using cryo-EM.
+    </figcaption>
+</figure>
 
 <h4>Visualization of charge transports in organic solar cells</h4>
 
