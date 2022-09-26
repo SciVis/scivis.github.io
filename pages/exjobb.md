@@ -14,7 +14,7 @@ permalink: "/exjobb/"
 {%- for project in exjobb_projects -%}
   <h3>{{project.name}}</h3>
   {%- for item in project.items -%}
-    {% if item.hidden %}
+    {% if item.hidden  %}
       <div class="row">
           <div class="column medium-7"><a href="{{site.url}}{{site.baseurl}}{{item.url}}">{{item.name}}</a></div>
           <div class="column medium-4">{{item.place}}</div>
