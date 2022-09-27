@@ -9,9 +9,6 @@ If you want to try some bigger changes without directly committing them, you can
 1. `bundle install` (providing a specific folder or running `bundle` with elevated priviledges both work)
 1. `bundler exec jekyll serve --conf _config.yml,_config_dev.yml`
 
-Note that an error might occur at the 5th step if using Ruby 3.0. You may have to add webrick manually, as it is no longer a bundled gem in Ruby 3.0. 
-[Here's more info on the issue](https://github.com/jekyll/jekyll/issues/8523). Fix this by calling `bundle add webrick` after the `bundle install` step above. 
-
 ## How to add new publications
 1. Add a new `md` file to the `_publications` folder.  The file name must have the form *yyyy*_*firstauthor*_*secondauthor*_*workingtitle*.md
 1. The contents of the file are Markdown with a YAML header.  The header must contain the following information.  Almost all values, with the exception of `scivis_authors`, and `year` are strings
