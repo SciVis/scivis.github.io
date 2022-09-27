@@ -6,6 +6,7 @@ contact: [ "alebo68" ]
 place: Visualization Center C, Norrköping
 people: 1-2
 project: OpenSpace
+published: false
 ---
 
 The OpenSpace software is used with great success in collaborative immersive environments, but the support for head-mounted display is as of yet underutilized.  The usage of virtual reality headsets provides a much more immersive experience to users that would be vastly beneficial for the general public (for example to be able to experience the real-world scale of planetary surfaces) as well as astronomy scientists when interacting with their datasets in an intuitive way.
