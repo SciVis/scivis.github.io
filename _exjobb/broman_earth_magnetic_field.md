@@ -43,6 +43,6 @@ OpenSpace is developed using C++ but for a stand alone software we are open for 
 
 
 ## Application
-Please send an email indicating your interest for this or other thesis works to [emma.broman@liu.se](mailto:emma.broman@liu.se) including your CV and a Ladok transcript of courses until EOD **15th of October, 2022**. If you are already a pair wanting to work on the thesis together or you are interested in multiple thesis works, a single email will suffice. 
+Please send an email indicating your interest for this or other thesis works to [emma.broman@liu.se](mailto:emma.broman@liu.se) including your CV/LinkedIn and a Ladok transcript of courses until EOD **15th of October, 2022**. If you are already a pair wanting to work on the thesis together or you are interested in multiple thesis works, a single email will suffice. 
 
 Applications are accepted on a rolling basis.
