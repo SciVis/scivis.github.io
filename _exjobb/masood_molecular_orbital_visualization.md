@@ -1,7 +1,7 @@
 ---
 layout: exjobb
-title: Interactive visualization of Molecular Orbitals
-name: Interactive visualization of Molecular Orbitals
+title: Interactive Visualization of Molecular Orbitals
+name: Interactive Visualization of Molecular Orbitals
 contact: [ "talma90", "matli20", "ingho32" ]
 image: /images/exjobb/masood_molecular_orbitals.png
 place: Norrköping

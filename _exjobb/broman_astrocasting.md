@@ -1,7 +1,7 @@
 ---
 layout: exjobb
-title: Connecting OpenSpace users across the globe using AstroCasting 
-name: Connecting OpenSpace users across the globe using AstroCasting 
+title: Connecting OpenSpace Users Across the Globe Using AstroCasting 
+name: Connecting OpenSpace Users Across the Globe Using AstroCasting 
 contact: ["emmbr26", "alebo68"]
 place:  Scientific Computing and Imaging Institute, University of Utah, Salt Lake City
 people: 2
