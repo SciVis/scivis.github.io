@@ -9,7 +9,7 @@ published: true
 ---
 
 <figure>
-    <img src="/images/emmbr26/ExoplanetExplorer_onecolor_sidebyside.PNG" alt="Exoplanet Explorer overview" itemprop="image">
+    <img src="/images/emmbr26/ExoplanetExplorer_onecolor_sidebyside.png" alt="Exoplanet Explorer overview" itemprop="image">
     <figcaption class="text-center">
         Overview of the different views in the OpenSpace ExoplanetExplorer. Left: 3D spatial view, Right: parallel coordinates
     </figcaption>
