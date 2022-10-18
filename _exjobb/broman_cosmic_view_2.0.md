@@ -7,6 +7,7 @@ place:  American Museum of Natural History, New York City
 people: 1
 project: OpenSpace
 published: true
+applications: false
 ---
 
 We are engaged in a multidisciplinary project that brings astrophysics and bioinformatics datasets together through data visualization. We will examine and communicate high quality gene barcode sequences for 50,000 species within a three-dimensional, immersive realm using OpenSpace. Collaborators in Basel, Switzerland have curated the DNA dataset via dimensionality reduction methods, and will collaborate to synthesize these data into a sensible 3-D representation that is informed by science.
@@ -21,6 +22,10 @@ This project requires familiarity with C++ and OpenGL. Some background/interest 
 - [Previous thesis work report](https://weber.itn.liu.se/~emmbr26/Cosmic%20View%20of%20Life%20on%20Earth_paper%20draft.pdf) (Not yet published. The defense is currently being planned)
 
 ## Application
+<!--
 Please send an email indicating your interest for this or other thesis works to [emma.broman@liu.se](mailto:emma.broman@liu.se) including your CV/LinkedIn and a Ladok transcript of courses until EOD **15th of October, 2022**. If you are already a pair wanting to work on the thesis together or you are interested in multiple thesis works, a single email will suffice. 
 
 Applications are accepted on a rolling basis.
+-->
+
+Applications for this thesis work are now closed.
