@@ -26,4 +26,4 @@ Please send an email indicating your interest for this or other thesis works to 
 Applications are accepted on a rolling basis.
 -->
 
-Applications for this project are still accepted. Please send an email indicating your interest for this thesis work to [emma.broman@liu.se](mailto:emma.broman@liu.se) ASAP, including your CV/LinkedIn and a Ladok transcript of courses. If you are already a pair wanting to work on the thesis together or you are interested in multiple thesis works, a single email will suffice.
+Applications for this project are still accepted. Please send an email indicating your interest for this thesis work to [emma.broman@liu.se](mailto:emma.broman@liu.se), including your CV/LinkedIn and a Ladok transcript of courses. If you are already a pair wanting to work on the thesis together or you are interested in multiple thesis works, a single email will suffice.
