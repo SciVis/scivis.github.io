@@ -1,7 +1,7 @@
 ---
 layout: exjobb
-title: Visual Interactive analysis of Molecular Dynamics
-name: Visual Interactive analysis of Molecular Dynamics
+title: Visual Interactive Analysis of Molecular Dynamics
+name: Visual Interactive Analysis of Molecular Dynamics
 contact: [ "matli20", "robsk21" ,"ingho32"]
 image: /images/viamd-env.png
 place: Norrköping
