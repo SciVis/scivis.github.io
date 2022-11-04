@@ -7,6 +7,8 @@ place:  Norrköping
 people: 1-2
 project: OpenSpace
 published: true
+applications: true
+ongoing: false
 ---
 
 Two of the software packages developed at the MIT division are [OpenSpace](https://openspaceproject.com), an open-source astrovisualization software placing our known universe into context, and [VIAMD](https://github.com/scanberg/viamd), which is a powerful analysis tool for dynamic molecular simulations.  The goal of this thesis work is to combine the ability of OpenSpace to render in immersive display environments and the analysis capabilities of VIAMD which are designed for single flat-screen interaction.  The combination of these two software packages will enable the domain scientists to perform their analysis of complex molecular processes in, for example, planetariums, using VR headsets and more.  This project will require familiarity with C++.

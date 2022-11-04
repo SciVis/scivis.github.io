@@ -9,6 +9,7 @@ people: 1
 project: Inviwo
 published: true
 applications: false
+ongoing: false
 ---
 
 When exploring new datasets, one often uses multiple views and visualizations at the same time. These views are typically linked, that is when performing a selection in one view this is reflected in all others. Finding appropriate sets of selection and filtering primitives across different views and fulfilling user expectations can be challenging. 

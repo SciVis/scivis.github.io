@@ -7,6 +7,9 @@ image: /images/exjobb/falk_surface_extraction_rgb.png
 place: Norrköping
 people: 1
 project: Inviwo
+published: true
+applications: true
+ongoing: false
 ---
 
 Large full-color volume datasets of tissue samples often contain three-dimensional structures hidden inside the otherwise dense data. The form and shape of structures like blood vessels or cavities are usually of particular interest. 
