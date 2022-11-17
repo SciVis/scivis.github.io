@@ -5,6 +5,8 @@ meta_title: "Master theses"
 permalink: "/exjobb/"
 ---
 
+We also welcome you to contact us if you have other ideas or interests, so we can have a discussion about what you would like to study and the topics we are researching in order to tailor a thesis project for you. For more information please contact <a href="mailto:ingrid.hotz@liu.se">Ingrid Hotz</a>.
+
 {%- assign exjobb_projects = site.exjobb | group_by:"project" | sort: "name" -%}
 {%- assign exjobb_finished = site.exjobb | where: "finished" | group_by:"project" | sort: "name" -%}
   <div class="row">
