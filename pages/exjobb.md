@@ -47,7 +47,6 @@ We also welcome you to contact us if you have other ideas or interests, so we ca
             <div class="column medium-4">{{item.place}}</div>
             <div class="column medium-1">{{item.people}}</div>
         </div>
-        {%- endif -%}
     {%- endfor -%}
   {%- endfor -%}
 {%- endunless %}
