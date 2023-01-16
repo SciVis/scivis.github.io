@@ -8,8 +8,7 @@ place: Norrköping
 people: 1
 project: Inviwo
 published: true
-applications: true
-ongoing: false
+state: open
 ---
 
 With today's microscopes it is possible to acquire large-scale full-color volume datasets where each voxel holds a color value. Shading and illumination can provide important depth cues to better comprehend the structures hidden within the volume.

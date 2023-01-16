@@ -7,6 +7,8 @@ image: /images/exjobb/masood_molecular_orbitals.png
 place: Norrköping
 people: 1
 project: Molecular Visualization
+published: true
+state: open
 ---
 
 Molecular orbitals specify the spatial distribution of electrons in a molecule. 

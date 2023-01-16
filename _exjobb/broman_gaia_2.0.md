@@ -7,7 +7,7 @@ place:  American Museum of Natural History, New York City
 people: 2
 project: OpenSpace
 published: true
-applications: false
+state: closed
 ---
 
 Gaia is a revolutionary observatory from the European Space agency that has cataloged the distances, motions and fundamental parameters of almost 2 billion stars.  Gaia data provides a multi-dimensional view of the Milky Way in unprecedented detail.  Examining subsets of the catalog provides an opportunity to examine the structural cohesiveness of the Galaxy, the diverse chemical history, and the velocity evolution over time.  Ingesting and visualizing this dataset is a data analysis challenge with rewards both for public dissemination and scientific advancement.  A former Masters student from Linköping successfully employed an octree data structure to visualize the Gaia catalog and with this thesis we aim to build upon that fruitful project. 

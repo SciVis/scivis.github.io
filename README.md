@@ -27,6 +27,8 @@ If you want to try some bigger changes without directly committing them, you can
     * `annotation`:  An optional annotation that provides additional unique information about the paper, for example awards, etc *optional*
     * After the front matter, the file should contain a 1-2 sentence description of the paper that is used to entice visitors to read the paper
 
+## Exjobb
+1. An exjobb can have one of the follwing states: `state: open | closed | ongoing | finished`
 
 # Previous links to read about the website generator, the theme, etc
  - Jekyll: https://jekyllrb.com/docs

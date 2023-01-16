@@ -7,7 +7,7 @@ place:  NASA Goddard Space Flight Center, Greenbelt, Maryland
 people: 2
 project: OpenSpace
 published: true
-applications: false
+state: ongoing
 ---
 
 This is a project that will be carried out by 2 students as a master thesis project. This opportunity will be carried out within the software OpenSpace for the Community Coordinated Modeling Center (CCMC) team at NASA Goddard Space Flight Center.

@@ -7,6 +7,7 @@ place:  Scientific Computing and Imaging Institute, University of Utah, Salt Lak
 people: 2
 project: OpenSpace
 published: true
+state: open
 ---
 
 [OpenSpace](https://openspaceproject.com) is an open-source software that aims to visualize our entire known universe in its accurate context.  It is a mature software that can be used by anyone to tell stories about the cosmos and our place in it.  One of the fundamental goals from early in the design was the desire for users to share live presentations from geographically distant locations;  being able to experience the same presentation from different places on Earth.  This feature enables multiple presenters to hand-off control between each other for a truly collaborative presentation to multiple audiences.  Thus far, this goal has remained elusive.  The support for ad-hoc sessions exists, but it requires a level of setup that is infeasible for the average user.  This project will require familiarity with C++ and JavaScript/TypeScript.

@@ -8,8 +8,7 @@ place: Norrköping
 people: 1
 project: Inviwo
 published: true
-applications: true
-ongoing: false
+state: open
 ---
 
 Large full-color volume datasets of tissue samples often contain three-dimensional structures hidden inside the otherwise dense data. The form and shape of structures like blood vessels or cavities are usually of particular interest. 

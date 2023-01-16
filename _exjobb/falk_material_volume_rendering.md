@@ -8,8 +8,7 @@ place: Norrköping
 people: 1
 project: Inviwo
 published: true
-applications: true
-ongoing: false
+state: open
 ---
 
 Volume dataset acquired with a CT or MR scanner often look very bland when visualized using volume rendering. This can be attributed to the fact that material properties are not taken into account. For example, different types of tissue, e.g. bone, blood vessels, muscles, etc., have different optical properties like color, shininess, and light absorption. These need to be considered to produce high-quality and realistic-looking results.

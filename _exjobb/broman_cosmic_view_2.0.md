@@ -7,7 +7,7 @@ place:  American Museum of Natural History, New York City
 people: 1
 project: OpenSpace
 published: true
-applications: false
+state: closed
 ---
 
 We are engaged in a multidisciplinary project that brings astrophysics and bioinformatics datasets together through data visualization. We will examine and communicate high quality gene barcode sequences for 50,000 species within a three-dimensional, immersive realm using OpenSpace. Collaborators in Basel, Switzerland have curated the DNA dataset via dimensionality reduction methods, and will collaborate to synthesize these data into a sensible 3-D representation that is informed by science.

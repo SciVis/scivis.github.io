@@ -8,8 +8,7 @@ place: Norrköping
 people: 1
 project: Inviwo
 published: true
-applications: true
-ongoing: false
+state: open
 ---
 
 Out-of-core rendering of datasets, i.e. rendering of dataset which do not fit into memory, requires special techniques in order to provide interactive framerates. This also applies to volume rendering of large datasets since GPU memory, despite growing over the last years, is rather limited. Thus, tile-based approaches are often utilized to optimize the transfer of the visible data to the GPU.

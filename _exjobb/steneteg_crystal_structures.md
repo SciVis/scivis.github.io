@@ -8,8 +8,7 @@ place: Norrköping
 people: 1
 project: Inviwo
 published: true
-applications: true
-ongoing: false
+state: open
 ---
 
 The crystal structures of new materials are of particular interest in the field of material science. The dense three dimensional data originates from simulations and different visualizations are used for inspection and to gain insight.
