@@ -11,3 +11,6 @@ contact:
     address: Kopparhammaren 2, Entrance 10B, Room 2073, Campus Norrköping
     orcid: 
 ---
+
+# Publications
+{% include publications id='farra01' %}

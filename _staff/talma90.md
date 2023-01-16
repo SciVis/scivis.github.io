@@ -2,7 +2,7 @@
 layout: staff
 title: Talha Bin Masood
 name: Talha Bin Masood
-position: Principal Research Engineer
+position: Assistant Professor
 staffimage: employee_image_talma90.jpeg
 breadcrumb: true
 contact:
