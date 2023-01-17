@@ -4,6 +4,7 @@ authors: "Talha Bin Masood, Joseph Budin, Martin Falk, Guillaume Favelier, Chris
 scivis_authors: [ "talma90", "marfa45", "petst55" ]
 venue: "In Topological Methods in Data Analysis and Visualization VI. Ingrid Hotz, Talha Bin Masood, Filip Sadlo, Julien Tierny (Eds.), Springer Nature, Mathematics and Visualization Series, pages 327–342"
 year: 2021
+date: "01-08-2021"
 doi: "10.1007/978-3-030-83500-2_16"
 pdf: "https://hal.archives-ouvertes.fr/hal-02159838/file/paper.pdf"
 bib: "https://citation-needed.springer.com/v2/references/10.1007/978-3-030-83500-2_16?format=bibtex&flavour=citation"

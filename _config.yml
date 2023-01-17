@@ -93,6 +93,7 @@ collections:
     output: true
   publications:
     output: true
+    sort_by: date
   exjobb:
     output: true
     sort_by: title

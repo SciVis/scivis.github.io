@@ -4,6 +4,7 @@ authors: "Raghavendra Sridharamurthy, Talha Bin Masood, Harish Doraiswamy, Siddh
 scivis_authors: [ "talma90" ]
 venue: "In Visualization in Medicine and Life Sciences III. Lars Linsen, Hans-Christian Hege, and Bernd Hamann (Eds.) Springer-Verlag, Mathematics and Visualization Series, pages 329–349"
 year: 2016
+date: "01-03-2016"
 doi: "10.1007/978-3-319-24523-2_15"
 pdf: "https://vgl.csa.iisc.ac.in/pdf/pub/RobustCavities_VMLS.pdf"
 bib: "https://dblp.org/rec/books/sp/16/SridharamurthyMDPVN16.bib"
