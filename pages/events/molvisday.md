@@ -10,7 +10,7 @@ To illustrate this feature, we will have the chance to hear a keynote lecture fr
   
 In a second part of the day, all participants are welcome to present their own molecular simulation. the time by presenter (10-15 minutes) will depend on the number of submissions.
   
-Please follow this link for registration.
+Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
   
 The organizaing Committee: Robin Skånberg, Alexei Abrikosov, Alexander Boch and Mathieu Linares 
   
