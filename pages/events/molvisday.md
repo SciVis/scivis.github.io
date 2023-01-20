@@ -20,12 +20,8 @@ The focus of the day is to present our recent progresses regarding molecular vis
   
 To illustrate this feature, we will have the chance to hear a keynote lecture by [Professor Erik Lindahl](https://www.scilifelab.se/researchers/erik-lindahl/) that will integrate MD visualization in the dome.
   
-In the second part of the day, all participants are welcome to present their own molecular simulation. The time per presenter (about 10-15 minutes) will depend on the number of submissions.
-  
-Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
-  
-The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Bock, and Mathieu Linares 
-  
+In the second part of the day, all participants are welcome to present their own molecular simulation. To do so, please check the box in the registration form and upload your data together with a short description using the link provided. Preferred format for the trajectory include pdb, gro+xtc. The time per presenter (about 10-15 minutes) will depend on the number of submissions. 
+ 
 # Tentative Program
   * 11:00-11:10 - Introduction and Presentation of the day
   * 11:10-11:35 - VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
@@ -35,5 +31,10 @@ The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Bock, and
   
   * 13:00-14:00 - Presentation from Professor Erk Lindahl - TBA
   * 14:00-16:00 - Presentation from participants
+
+# Registration
+Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
+  
+The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Bock, and Mathieu Linares 
 
 <div style="margin-bottom: 10rem;"></div>
