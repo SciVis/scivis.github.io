@@ -1,6 +1,6 @@
 # Welcome to the Molecular Visualization Day!
 
-We are happy to announce the Molecular Visualization Day that will take place at the [Visualisering Center C](https://visualiseringscenter.se/en) in Norrköping the 16th of Mars from 10:30 to 16:00.
+We are happy to announce the Molecular Visualization Day that will take place at the [Visualisering Center C](https://visualiseringscenter.se/en) in Norrköping the 16th of Mars from 11:00 to 16:00.
 
 <center><img src="https://user-images.githubusercontent.com/38646069/213687592-a275fa4f-9107-4685-a663-fe602ddf6d9b.jpg"  width="500"><center>
 
