@@ -1,17 +1,20 @@
 ---
 layout: page
-title: "Molecular Visualization Day 2023"
+title: "Welcome to the Molecular Visualization Day 2023"
 meta_title: "Molecular Visualization Day 2023"
 subheadline: 
-teaser: 
-permalink:
+header:
+  title: ''
+  image_fullwidth: header_dome.jpg
+  caption: ''
+permalink: "/events/molvisday/"
+skip_boilerplate: true
 ---
-
-# Welcome to the Molecular Visualization Day 2023!
 
 We are happy to announce the Molecular Visualization Day taking place at the [Visualisering Center C](https://visualiseringscenter.se/en) in Norrköping on the 16th of March 2023 from 11:00 to 16:00.
 
-<center><img src="https://user-images.githubusercontent.com/38646069/213687592-a275fa4f-9107-4685-a663-fe602ddf6d9b.jpg"  width="500"><center>
+
+<center><img src="https://user-images.githubusercontent.com/38646069/213687592-a275fa4f-9107-4685-a663-fe602ddf6d9b.jpg"  width="500"></center>
 
 The focus of the day is to present our recent progresses regarding molecular visualization to the researchers of the domain. In particular, we are now able to visualize Molecular Dynamics in the dome theater of the Visualization Center C here in Norrköping. This provides a unique opportunity for domain scientist to present their work in an immersive environment. 
   
@@ -33,3 +36,4 @@ The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Boch, and
   * 13:00-14:00 - Presentation from Professor Erk Lindahl - TBA
   * 14:00-16:00 - Presentation from participants
 
+<div style="margin-bottom: 10rem;"></div>
