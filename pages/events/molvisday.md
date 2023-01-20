@@ -24,12 +24,12 @@ In the second part of the day, all participants are welcome to present their own
   
 Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
   
-The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Boch, and Mathieu Linares 
+The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Bock, and Mathieu Linares 
   
 # Tentative Program
   * 11:00-11:10 - Introduction and Presentation of the day
   * 11:10-11:35 - VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
-  * 11:35-12:00 - Moliverse: Contextually embedding the Microcosme in the Universe - Alexander Boch
+  * 11:35-12:00 - Moliverse: Contextually embedding the Microcosme in the Universe - Alexander Bock
   
   * 12:00-13:00 - Lunch Break
   
