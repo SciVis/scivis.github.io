@@ -4,8 +4,6 @@ We are happy to announce the Molecular Visualization Day that will take place at
 
 <center><img src="https://user-images.githubusercontent.com/38646069/213687592-a275fa4f-9107-4685-a663-fe602ddf6d9b.jpg"  width="500"><center>
 
-<a href="https://visualiseringscenter.se/en" target="_blank" rel="noopener">Link</a>
-  
 The point of the day is to present our recent progresses regarding molecular visualization to the researchers of the domain. In particular, we are now able to visualize Molecular Dynamics in the dome which gives a unique opportunity for domain scientist to present their work in an immersive environment. 
   
 To illustrate this feature, we will have the chance to hear a keynote lecture from [Professor Erik Lindahl](https://www.scilifelab.se/researchers/erik-lindahl/) that will integrate MD visualization in the dome.
