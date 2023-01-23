@@ -17,6 +17,7 @@ If you want to try some bigger changes without directly committing them, you can
     * `scivis_authors`:  An array of LiU ids for the authors that belong to the SciVis group
     * `venue`:  The venue in which the paper was published
     * `year`:  The year in which the paper was published
+    * `date`:  publication date in ISO format (YYYY-MM-DD), used for sorting
     * `doi`:  The DOI number for the paper *optional*
     * `pdf`:  A link to the author-copy of the paper *optional*
     * `bib`:  A link to a bibfile that other authors can use to cite your paper *optional*

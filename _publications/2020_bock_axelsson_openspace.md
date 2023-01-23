@@ -4,6 +4,7 @@ authors: "A. Bock, E. Axelsson, J. Costa, G. Payne, M. Acinapura, V. Trakinski, 
 scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 year: 2020
+date: 2020-01-01
 doi: "10.1109/TVCG.2019.2934259"
 pdf: "http://alexanderbock.eu/papers/vis19-bock-openspace-system.pdf"
 bib: "http://alexanderbock.eu/papers/vis19-bock-openspace-system.bib"

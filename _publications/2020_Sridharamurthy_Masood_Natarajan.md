@@ -4,7 +4,7 @@ authors: "Raghavendra Sridharamurthy, Talha Bin Masood, Adhitya Kamakshidasan, V
 scivis_authors: [ "talma90" ]
 venue: "IEEE Transactions on Visualization and Computer Graphics, 26(3), pages 1518-1531"
 year: 2020
-date: "01-01-2020"
+date: 2020-01-01
 doi: "10.1109/TVCG.2018.2873612"
 pdf: "https://vgl.csa.iisc.ac.in/pdf/pub/EditDistanceMergeTreesTVCG.pdf"
 bib: "https://dblp.org/rec/journals/tvcg/SridharamurthyM20.bib"

@@ -4,4 +4,5 @@ authors: "J. Faherty, B. Abbott, A. Alsegård, C. Emmart, A. Bock, E. Axelsson, 
 scivis_authors: [ "alebo68", "andyn27" ]
 venue: "American Astronomical Society meeting #235"
 year: 2020
+date: 2020-01-04
 ---

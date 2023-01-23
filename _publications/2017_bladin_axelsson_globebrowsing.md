@@ -4,6 +4,7 @@ authors: "K. Bladin, E. Axelsson, E. Broberg, C. Emmart, P. Ljung, A. Bock, A. Y
 scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Transactions on Visualization and Computer Graphics"
 year: 2017
+date: 2017-08-29
 doi: "10.1109/TVCG.2017.2743958"
 pdf: "https://alexanderbock.github.io/papers/vis17-bladin-globe_browsing.pdf"
 bib: "https://alexanderbock.github.io/papers/vis17-bladin-globe_browsing.bib"

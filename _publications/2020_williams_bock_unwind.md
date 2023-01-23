@@ -4,6 +4,7 @@ authors: "F. Williams, A. Bock, H. Doraiswamy, C. Donatelli, K. Hall, A. Summers
 scivis_authors: [ "alebo68" ]
 venue: "CHI Conference on Human Factors in Computing Systems"
 year: 2020
+date: 2020-04-23
 doi: "10.1145/3313831.3376846"
 pdf: "https://arxiv.org/pdf/1904.04890.pdf"
 bib: "http://alexanderbock.eu/papers/chi20-williams-unwind.bib"

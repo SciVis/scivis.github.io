@@ -4,6 +4,7 @@ authors: "A. Bock, A. Pembroke, M.L. Mays, L. Rastaetter, A. Ynnerman, T. Ropins
 scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Vis"
 year: 2015
+date: 2015-10-25
 doi: "10.1109/SciVis.2015.7429487"
 pdf: "https://alexanderbock.github.io/papers/vis15-bock-space_weather.pdf"
 bib: "https://alexanderbock.github.io/papers/vis15-bock-space_weather.bib"

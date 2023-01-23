@@ -4,6 +4,7 @@ authors: "E. Axelsson, J. Costa, C. Silva, C. Emmart, A. Bock, A. Ynnerman"
 scivis_authors: [ "alebo68", "andyn27" ]
 venue: "Computer Graphics Forum"
 year: 2017
+date: 2017-07-04
 doi: "10.1111/cgf.13202"
 pdf: "https://alexanderbock.github.io/papers/eurovis17-axelsson-dynamic_scene_graph.pdf"
 bib: "https://alexanderbock.github.io/papers/eurovis17-axelsson-dynamic_scene_graph.bib"

@@ -4,6 +4,7 @@ authors: "J. Faherty, M. SubbaRao, R. Wyatt, A. Ynnerman, N. deGrasse Tyson, A. 
 scivis_authors: [ "andyn27", "alebo68" ]
 venue: "ASTRO 2020 White Paper"
 year: 2019
+date: 2019-07-11
 thumbnail: "/images/publications/2019_faherty_subbarao_immersivedome.png"
 pdf: "https://arxiv.org/ftp/arxiv/papers/1907/1907.05383.pdf"
 ---

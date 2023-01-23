@@ -4,6 +4,7 @@ authors: "A. Bock, Å. Svensson, A. Kleiner, J. Lundberg, T. Ropinski"
 scivis_authors: [ "alebo68" ]
 venue: "Computer Graphics Forum"
 year: 2016
+date: 2016-04-15
 doi: "10.1111/cgf.12869"
 pdf: "https://alexanderbock.github.io/papers/cgf16-bock-urban-search-and-rescue.pdf"
 bib: "https://alexanderbock.github.io/papers/cgf16-bock-urban-search-and-rescue.bib"

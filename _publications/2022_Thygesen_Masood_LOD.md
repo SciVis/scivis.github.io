@@ -4,7 +4,7 @@ authors: "Signe Sidwall Thygesen, Talha Bin Masood, Mathieu Linares, Vijay Natar
 scivis_authors: [ "sigsi52", "talma90", "matli20", "ingho32", "indoSwed" ]
 venue: "EuroVis 2022, Computer Graphics Forum, 41(3), pages 333-344"
 year: 2022
-date: "01-07-2022"
+date: 2022-07-01
 doi: "10.1111/cgf.14544"
 pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14544"
 bib: "https://dblp.org/rec/journals/cgf/ThygesenMLNH22.bib"

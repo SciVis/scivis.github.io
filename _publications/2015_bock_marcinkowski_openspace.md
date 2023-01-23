@@ -4,6 +4,7 @@ authors: "A. Bock, M. Marcinkowski, J. Kilby, C. Emmart, A. Ynnerman"
 scivis_authors: [ "alebo68", "andyn27" ]
 venue: "IEEE Vis Poster Session"
 year: 2015
+date: 2015-10-25
 doi: "10.1109/SciVis.2015.7429503"
 pdf: "https://alexanderbock.github.io/papers/vis15poster-bock-openspace-poster.pdf"
 bib: "https://alexanderbock.github.io/papers/vis15poster-bock-openspace.bib"

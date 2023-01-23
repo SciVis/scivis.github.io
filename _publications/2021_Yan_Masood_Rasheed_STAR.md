@@ -4,7 +4,7 @@ authors: "Lin Yan, Talha Bin Masood, Raghavendra Sridharamurthy, Farhan Rasheed,
 scivis_authors: [ "talma90", "farra01", "ingho32", "indoSwed" ]
 venue: "EuroVis 2021, Computer Graphics Forum, 40(3), pages 599-633"
 year: 2021
-date: "01-07-2021"
+date: 2021-07-01
 doi: "10.1111/cgf.14331"
 pdf: "https://arxiv.org/pdf/2106.00157.pdf"
 bib: "https://dblp.org/rec/journals/cgf/YanMSRNHW21.bib"
