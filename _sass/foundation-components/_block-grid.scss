@@ -2,8 +2,6 @@
 // foundation.zurb.com
 // Licensed under MIT Open Source
 
-@use "sass:math";
-
 @import "global";
 
 //
@@ -45,7 +43,7 @@ $block-grid-media-queries: true !default;
     @if $align-block-grid-to-grid {
       margin: 0;
     } @else {
-      margin: 0 math.div(-$spacing, 2);
+      margin: 0 (-$spacing/2);
     }
     @include clearfix;
 
@@ -54,16 +52,16 @@ $block-grid-media-queries: true !default;
       height: auto;
       float: $default-float;
       @if $include-spacing {
-        padding: 0 math.div($spacing, 2) $spacing;
+        padding: 0 ($spacing/2) $spacing;
       }
     }
   }
 
   @if $per-row {
     &>li {
-      width: math.div(100%, $per-row);
+      width: 100%/$per-row;
       @if $include-spacing {
-        padding: 0 math.div($spacing, 2) $spacing;
+        padding: 0 ($spacing/2) $spacing;
       }
       list-style: none;
 
