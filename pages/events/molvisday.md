@@ -37,4 +37,10 @@ Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
   
 The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Bock, and Mathieu Linares 
 
+<div align="center">
+  <span ><img src="https://i0.wp.com/infravis.se/wp-content/uploads/2022/05/logo-Infravis-2048-300x130-1.jpeg" width="200" style="border:0"></span>
+  <span style="background-color: black;" ><img src="https://e-science.se/wp-content/uploads/2017/10/serc_logo_lores.png"  width="200" style="border:0"> </span>
+</div>
+
+
 <div style="margin-bottom: 10rem;"></div>
