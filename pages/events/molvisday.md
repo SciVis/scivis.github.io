@@ -39,7 +39,7 @@ The organizing committee: Robin Skånberg, Alexei Abrikossov, Alexander Bock, an
 
 <div align="center">
   <span ><img src="https://i0.wp.com/infravis.se/wp-content/uploads/2022/05/logo-Infravis-2048-300x130-1.jpeg" width="200"> </span>
-  <span ><img src="https://e-science.se/wp-content/uploads/2017/10/serc_logo_lores.png" width="200" style="background-color: black;" style="margin-right: 100px;"> </span>
+  <span ><img src="https://e-science.se/wp-content/uploads/2017/10/serc_logo_lores.png" width="200" style="background-color: black;margin-right: 100px;" > </span>
 </div>
 
 
