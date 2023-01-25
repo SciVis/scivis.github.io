@@ -35,7 +35,7 @@ In the second part of the day, all participants are welcome to present their own
 # Registration
 Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
   
-The organizing committee: Robin Skånberg, Alexei Abrikosov, Alexander Bock, and Mathieu Linares 
+The organizing committee: Robin Skånberg, Alexei Abrikossov, Alexander Bock, and Mathieu Linares 
 
 <div align="center">
   <span ><img src="https://i0.wp.com/infravis.se/wp-content/uploads/2022/05/logo-Infravis-2048-300x130-1.jpeg" width="200" </span>
