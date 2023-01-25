@@ -25,7 +25,7 @@ In the second part of the day, all participants are welcome to present their own
 # Tentative Program
   * 11:00-11:10 - Introduction and Presentation of the day
   * 11:10-11:35 - VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
-  * 11:35-12:00 - Moliverse: Contextually embedding the Microcosme in the Universe - Alexander Bock
+  * 11:35-12:00 - Moliverse: Contextually embedding the Microcosm in the Universe - Alexander Bock and Mathieu Linares
   
   * 12:00-13:00 - Lunch Break
   
@@ -39,7 +39,7 @@ The organizing committee: Robin Skånberg, Alexei Abrikossov, Alexander Bock, an
 
 <div align="center">
   <span ><img src="https://i0.wp.com/infravis.se/wp-content/uploads/2022/05/logo-Infravis-2048-300x130-1.jpeg" width="200"> </span>
-  <span ><img src="https://e-science.se/wp-content/uploads/2017/10/serc_logo_lores.png" width="200" style="background-color: black;" > </span>
+  <span ><img src="https://e-science.se/wp-content/uploads/2017/10/serc_logo_lores.png" width="200" style="background-color: black;" style="margin-right: 20px;"> </span>
 </div>
 
 
