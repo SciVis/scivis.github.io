@@ -7,7 +7,7 @@ header:
   title: ''
   image_fullwidth: header_dome.jpg
   caption: ''
-permalink: "/events/molvisday/"
+permalink: "/events/molvisday-2023/"
 skip_boilerplate: true
 ---
 
