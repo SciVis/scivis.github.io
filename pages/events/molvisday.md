@@ -23,11 +23,12 @@ To illustrate this feature, we will have the chance to hear a keynote lecture by
 In the second part of the day, all participants are welcome to present their own molecular simulation. To do so, please check the box in the registration form and upload your data together with a short description using the link provided. Preferred format for the trajectory include pdb, gro+xtc. The time per presenter (about 10-15 minutes) will depend on the number of submissions. 
  
 # Tentative Program
-  * 11:00-11:10 - Introduction and Presentation of the day
-  * 11:10-11:35 - VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
-  * 11:35-12:00 - Moliverse: Contextually embedding the Microcosm in the Universe - Alexander Bock and Mathieu Linares
+  * 10:30-10:45 - Introduction and Presentation of the day
+  * 10:45-11:00 - Analysi   - Talha Bin Masood
+  * 11:00-11:20 - VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
+  * 11:20-11:40 - Moliverse: Contextually embedding the Microcosmos in the Universe - Alexander Bock and Mathieu Linares
   
-  * 12:00-13:00 - Lunch Break
+  * 11:40-13:00 - Lunch Break
   
   * 13:00-14:00 - Presentation from Professor Erk Lindahl - TBA
   * 14:00-16:00 - Presentation from participants
@@ -35,7 +36,7 @@ In the second part of the day, all participants are welcome to present their own
 # Registration
 Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
   
-The organizing committee: Robin Skånberg, Alexei Abrikossov, Alexander Bock, and Mathieu Linares 
+The organizing committee: Robin Skånberg, Alexei Abrikossov, Ingrid Hotz, Alexander Bock, and Mathieu Linares 
 
 <div align="center">
   <span ><img src="https://i0.wp.com/infravis.se/wp-content/uploads/2022/05/logo-Infravis-2048-300x130-1.jpeg" width="200" style="padding: 5px;"> </span>
