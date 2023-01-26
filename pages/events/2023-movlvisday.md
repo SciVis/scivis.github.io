@@ -24,7 +24,7 @@ In the second part of the day, all participants are welcome to present their own
  
 # Tentative Program
   * 10:30-10:45 - Introduction and Presentation of the day
-  * 10:45-11:00 - Analysi   - Talha Bin Masood
+  * 10:45-11:00 - Visual Analysis of Electronic Densities and Transitions in Molecules - Talha Bin Masood
   * 11:00-11:20 - VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
   * 11:20-11:40 - Moliverse: Contextually embedding the Microcosmos in the Universe - Alexander Bock and Mathieu Linares
   
