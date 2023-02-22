@@ -30,7 +30,7 @@ In the second part of the day, all participants are welcome to present their own
   
   * 11:40-13:00 - Lunch Break
   
-  * 13:00-14:00 - Presentation from Professor Erk Lindahl - TBA
+  * 13:00-14:00 - Presentation from Professor Erik Lindahl - TBA
   * 14:00-16:00 - Presentation from participants
 
 # Registration
