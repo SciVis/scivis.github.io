@@ -20,7 +20,7 @@ The focus of the day is to present our recent progresses regarding molecular vis
   
 To illustrate this feature, we will have the chance to hear a keynote lecture by [Professor Erik Lindahl](https://www.scilifelab.se/researchers/erik-lindahl/) that will integrate MD visualization in the dome.
   
-In the second part of the day, all participants are welcome to present their own molecular simulation. To do so, please check the box in the registration form and upload your data together with a short description using the link provided. Preferred format for the trajectory includes pdb, gro+xtc. The time per presenter (about 10-15 minutes) will depend on the number of submissions. 
+In the second part of the day, participants will present their own molecular simulation. We do not accept submission anymore. If you have register for a presentation already, please upload your data together with a short description using this [link](https://liuonline-my.sharepoint.com/:f:/g/personal/matli20_liu_se/EoYd5aqirrxDmfwsKZZ9sg8BMB6RoZPyj0RGUd7SGcK8EQ). Preferred format for the trajectory includes pdb, gro+xtc. 
  
 # Tentative Program
   * 10:30-10:45 - Introduction and Presentation of the day
