@@ -32,7 +32,7 @@ In the second part of the day, participants will present their own molecular sim
   
   * 13:00-14:00 : Presentation from Professor Erik Lindahl - TBA
   * 14:00-16:30 : Presentation from participants
-    * 14:00-14:15 : Comparative study of binding sites in amyloid-β fibril for luminescent cationic, anionic, and neutral ligands - Yogesh Todarwal
+    * 14:00-14:15 : Comparative study of binding sites of amyloid-β for luminescent cationic, anionic, and neutral ligands - Yogesh Todarwal
     * 14:15-14:30 : Molecular Dynamics Simulations of Calcin Blocking Mechanism in Ryanodine Receptors - Yuxuan Zhuang
     * 14:30-14:45 : Interactive design and simulation of coarse-grained molecular dynamics in a web-browser - Joakim Bohlin 
     * 14:45-15:00 : Photoactive protein perspective - Rafael Carvalho Couto
