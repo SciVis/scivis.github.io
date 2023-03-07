@@ -30,7 +30,7 @@ In the second part of the day, participants will present their own molecular sim
   
   * 11:40-13:00 : Lunch Break
   
-  * 13:00-14:00 : Presentation from Professor Erik Lindahl - TBA
+  * 13:00-14:00 : Presentation from Professor Erik Lindahl - Peering into the molecular mechanisms of life with data, computers & visualization
   * 14:00-16:30 : Presentation from participants
     * 14:00-14:15 : Comparative study of binding sites of amyloid-β for luminescent cationic, anionic, and neutral ligands - Yogesh Todarwal
     * 14:15-14:30 : Molecular Dynamics Simulations of Calcin Blocking Mechanism in Ryanodine Receptors - Yuxuan Zhuang
