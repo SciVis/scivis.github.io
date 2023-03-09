@@ -23,20 +23,20 @@ To illustrate this feature, we will have the chance to hear a keynote lecture by
 In the second part of the day, participants will present their own molecular simulation. We do not accept submission anymore. If you have register for a presentation already, please upload your data together with a short description using this [link](https://liuonline-my.sharepoint.com/:f:/g/personal/matli20_liu_se/EoYd5aqirrxDmfwsKZZ9sg8BMB6RoZPyj0RGUd7SGcK8EQ). Preferred format for the trajectory includes pdb, gro+xtc. 
  
 # Tentative Program
-  * 10:30-10:45 : Introduction and Presentation of the day
+  * 10:30-10:45 : Introduction and Presentation of the day - Anders Ynnerman
   * 10:45-11:00 : Visual Analysis of Electronic Densities and Transitions in Molecules - Talha Bin Masood
   * 11:00-11:20 : VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
-  * 11:20-11:40 : Moliverse: Contextually embedding the Microcosmos in the Universe - Alexander Bock and Mathieu Linares
+  * 11:20-11:40 : Moliverse: Contextually embedding the Microcosmos in the Universe - Alexei Abrikossov, Alexander Bock and Mathieu Linares
   
-  * 11:40-13:00 : Lunch Break
+  * 11:40-12:45 : Lunch Break
   
-  * 13:00-14:00 : Presentation from Professor Erik Lindahl - Peering into the molecular mechanisms of life with data, computers & visualization
-  * 14:00-16:30 : Presentation from participants
-    * 14:00-14:15 : Comparative study of binding sites of amyloid-β for luminescent cationic, anionic, and neutral ligands - Yogesh Todarwal
-    * 14:15-14:30 : Molecular Dynamics Simulations of Calcin Blocking Mechanism in Ryanodine Receptors - Yuxuan Zhuang
-    * 14:30-14:45 : Interactive design and simulation of coarse-grained molecular dynamics in a web-browser - Joakim Bohlin 
-    * 14:45-15:00 : Photoactive protein perspective - Rafael Carvalho Couto
-    * 15:00-15:30 : Coffee Break
+  * 12:45-13:45 : Presentation from Professor Erik Lindahl - Peering into the molecular mechanisms of life with data, computers & visualization
+  * 13:45-16:30 : Presentation from participants
+    * 13:45-14:00 : Comparative study of binding sites of amyloid-β for luminescent cationic, anionic, and neutral ligands - Yogesh Todarwal
+    * 14:00-14:15 : Molecular Dynamics Simulations of Calcin Blocking Mechanism in Ryanodine Receptors - Yuxuan Zhuang
+    * 14:15-14:30 : Interactive design and simulation of coarse-grained molecular dynamics in a web-browser - Joakim Bohlin 
+    * 14:30-14:45 : Photoactive protein perspective - Rafael Carvalho Couto
+    * 14:45-15:30 : Coffee Break
     * 15:30-15:45 : Structure based engineering and design of efficient nicotine biosensor - Nandan Haloi 
     * 15:45-16:00 : Acrolein perspective and how quantum dynamics evolve - Pratip Chakraborty 
     * 16:00-16:15 : Molecular Visualization of Coarse-grained models: Cellulose Regeneration process - Jiu Pang 
