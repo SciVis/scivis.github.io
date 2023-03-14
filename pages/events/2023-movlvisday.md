@@ -22,7 +22,7 @@ To illustrate this feature, we will have the chance to hear a keynote lecture by
   
 In the second part of the day, participants will present their own molecular simulation. We do not accept submission anymore. If you have register for a presentation already, please upload your data together with a short description using this [link](https://liuonline-my.sharepoint.com/:f:/g/personal/matli20_liu_se/EoYd5aqirrxDmfwsKZZ9sg8BMB6RoZPyj0RGUd7SGcK8EQ). Preferred format for the trajectory includes pdb, gro+xtc. 
  
-# Tentative Program
+# Program
   * 10:30-10:45 : Introduction and Presentation of the day - Anders Ynnerman
   * 10:45-11:00 : Visual Analysis of Electronic Densities and Transitions in Molecules - Talha Bin Masood
   * 11:00-11:20 : VIAMD: A software for Visual Interactive Analysis of Molecular Dynamic - Robin Skånberg
