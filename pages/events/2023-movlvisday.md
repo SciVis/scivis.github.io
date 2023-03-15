@@ -21,6 +21,8 @@ The focus of the day is to present our recent progresses regarding molecular vis
 To illustrate this feature, we will have the chance to hear a keynote lecture by [Professor Erik Lindahl](https://www.scilifelab.se/researchers/erik-lindahl/) that will integrate MD visualization in the dome.
   
 In the second part of the day, participants will present their own molecular simulation.
+
+The organizing committee: Robin Skånberg, Alexei Abrikossov, Ingrid Hotz, Alexander Bock, and Mathieu Linares 
  
 # Program
   * 10:30-10:45 : Introduction and Presentation of the day - Anders Ynnerman
@@ -44,8 +46,6 @@ In the second part of the day, participants will present their own molecular sim
 
 # Registration
 Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
-  
-The organizing committee: Robin Skånberg, Alexei Abrikossov, Ingrid Hotz, Alexander Bock, and Mathieu Linares 
 
 # Sponsors
 This event is supported by [InfraVis](https://infravis.se/) and [SeRC](https://e-science.se/)
