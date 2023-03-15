@@ -11,7 +11,7 @@ permalink: "/events/molvisday-2023/"
 skip_boilerplate: true
 ---
 
-We are happy to announce the Molecular Visualization Day taking place at the [Visualisering Center C](https://visualiseringscenter.se/en) in Norrköping on the 16th of March 2023 from 10:30 to 16:40.
+We are happy to announce the Molecular Visualization Day taking place at the [Visualisering Center C](https://visualiseringscenter.se/en) in Norrköping on the 16th of March 2023 from 10:30 to 16:30.
 
 
 <center><img src="https://user-images.githubusercontent.com/38646069/213687592-a275fa4f-9107-4685-a663-fe602ddf6d9b.jpg"  width="500"></center>
