@@ -35,13 +35,12 @@ In the second part of the day, participants will present their own molecular sim
     * 13:45-14:00 : Comparative study of binding sites of amyloid-β for luminescent cationic, anionic, and neutral ligands - Yogesh Todarwal
     * 14:00-14:15 : Molecular Dynamics Simulations of Calcin Blocking Mechanism in Ryanodine Receptors - Yuxuan Zhuang
     * 14:15-14:30 : Interactive design and simulation of coarse-grained molecular dynamics in a web-browser - Joakim Bohlin 
-    * 14:30-14:45 : Toward rational design of excited-state proteins - Rafael Carvalho Couto
+    * 14:30-14:45 : Light-induced reactivity in atmospheric chemistry - Pratip Chakraborty
     * 14:45-15:30 : Coffee Break
     * 15:30-15:45 : Structure based engineering and design of efficient nicotine biosensor - Nandan Haloi 
-    * 15:45-16:00 : Light-induced reactivity in atmospheric chemistry - Pratip Chakraborty 
-    * 16:00-16:15 : Molecular Visualization of Coarse-grained models: Cellulose Regeneration process - Jiu Pang 
-    * 16:15-16:30 : Simulations of the Kv7.4 Channel in a Plasma Membrane - Ali Kusay 
-  * 16:30-16:40 : Conclusions
+    * 15:45-16:00 : Molecular Visualization of Coarse-grained models: Cellulose Regeneration process - Jiu Pang  
+    * 16:00-16:15 : Simulations of the Kv7.4 Channel in a Plasma Membrane - Ali Kusay 
+  * 16:15-16:30 : Conclusions
 
 # Registration
 Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
