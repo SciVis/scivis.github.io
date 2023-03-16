@@ -45,7 +45,7 @@ The organizing committee: Robin Skånberg, Alexei Abrikossov, Ingrid Hotz, Alexa
   * 16:15-16:30 : Conclusions
 
 # Registration
-Please follow this [link](https://forms.gle/2KqNizfB1LGNxtx97) for registration.
+Registration are now closed.
 
 # Sponsors
 This event is supported by [InfraVis](https://infravis.se/) and [SeRC](https://e-science.se/)
