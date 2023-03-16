@@ -47,6 +47,12 @@ The organizing committee: Robin Skånberg, Alexei Abrikossov, Ingrid Hotz, Alexa
 # Registration
 Registration are now closed.
 
+# Questionnaire
+
+[ MolVisDay Questionnaire - Part 1](https://forms.gle/PChp8N5iXt55bBGU7)
+
+[ MolVisDay Questionnaire - Part 2](https://forms.gle/HBEJjLn9Hdz8xjoB7)
+
 # Sponsors
 This event is supported by [InfraVis](https://infravis.se/) and [SeRC](https://e-science.se/)
 
