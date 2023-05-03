@@ -59,9 +59,15 @@
   side: left
   collection: exjobb
 
+- title: "Events"
+  url: "/events/"
+  side: left
+  collection: events
+
 - title: "Search"
   url: "/search/"
   side: right
+
 
 # - title: "Contact"
 #   url: "/contact/"
