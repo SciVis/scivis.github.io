@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
 name: "Norrköping Summer School on \"Topological Data Analysis in Visualization: Theory, Applications, Software\""
-title: "Summer School, Aug 21-25, 2023"
+title: "Topological Data Analysis in Visualization: Theory, Applications, Software"
 meta_title: "Norrköping Summer School"
 # subheadline: "Wufoo-powered contact forms"
-teaser: "Topological Data Analysis in Visualization: Theory, Applications, Software"
+teaser: "Summer School, Aug 21-25, 2023"
 header:
   image_fullwidth: summer_school_header.png
-  title: "Norrköping Summer School, 2023"
+  title: ""
 
 # sidebar: right
 # comments: true
@@ -36,7 +36,7 @@ Contents
 
 Topological Data Analysis (TDA) has become an established framework for the extraction and analysis of hidden structural features in complex data with applications to a wide variety of scientific domains including quantum chemistry, astrophysics, fluid dynamics, combustion, material sciences, biology, and data science. The genericity, efficiency, and robustness of topological methods have made them particularly well suited for the multi-scale, interactive analysis and visualization of the structural information of data.
 
-With the aim to broaden the participants' knowledge in TDA, its application to visual data analysis, and exposure to available software tools, we are organizing a summer school at Norrköping, Sweden during Aug 21-25, 2023. The primary target group of this summer school is Ph.D. students, post docs, master's students working in this field. For the program, we plan to have lectures by invited speakers in the morning, a short session of presentations from participants after lunch, and hands-on sessions with different software packages (including TTK, Paraview, Inviwo) in the afternoon. 
+With the aim to broaden the participants' knowledge in TDA, its application to visual data analysis, and exposure to available software tools, we are organizing a summer school at Norrköping, Sweden during Aug 21-25, 2023. The primary target group of this summer school is Ph.D. students, post docs, and master's students working in this field. For the program, we plan to have lectures by invited speakers in the morning, a short session of presentations from participants after lunch, and hands-on sessions with different software packages (including TTK, Paraview, Inviwo) in the afternoon. 
  
 The registration is free of cost, but the participants will need to arrange and pay for travel and accommodation themselves. Note that we have limited number of seats available.
 
@@ -44,26 +44,22 @@ The registration is free of cost, but the participants will need to arrange and 
 
 The tentative list of topics we aim to cover during this summer school include:
 
-- Mathematical Foundations: Manifolds, Morse functions, complexes, Persistent homology, ... 
-- Topological analysis of scientific data: Scalar, Vector, Tensor, and Multi-Field Topology 
-- Feature-based Visualization with Topological Descriptors: Comparison, Tracking, Uncertainty, ...  
-- Visual Representations of Topological Descriptors
-- Algorithms in Computational Topology 
-- Applications and Case Studies 
-- Software packages for TDA and Visualization
+- Mathematical foundations: manifolds, Morse functions, complexes, persistent homology, ... 
+- Topological analysis of scientific data: scalar, vector, tensor, and multi-Field topology 
+- Feature-based visualization with topological descriptors: comparison, tracking, uncertainty, ...  
+- Visual representations of topological descriptors
+- Algorithms in computational topology 
+- Applications and case studies 
+- Software packages for TDA and visualization
 
 ## Invited Speakers
-
-We are glad to confirm following expert speakers, with more to be announced soon.
-
-- [Prof. Cristoph Garth](https://vis.uni-kl.de/team/garth/), *Technische Universität Kaiserslautern*.
-- [Dr. Jonas Lukasczyk](https://www.jluk.de/), *Technische Universität Kaiserslautern*.
-- [Dr. Raghavendra Sridharamurthy](https://raghavendrags.github.io/), *SCI Institute, University of Utah*.
+Here is a list of confirmed speakers:
+- [Christoph Garth](https://vis.uni-kl.de/team/garth/), *Technische Universität Kaiserslautern*.
+- [Jonas Lukasczyk](https://www.jluk.de/), *Technische Universität Kaiserslautern*.
+- [Raghavendra Sridharamurthy](https://raghavendrags.github.io/), *SCI Institute, University of Utah*.
 - *More to be confirmed...*
 
 ## Program
-
-The tentative program for this event is as follows. 
 <table>
     <caption></caption>
     <thead>
@@ -102,7 +98,7 @@ The tentative program for this event is as follows.
         <tr>
             <th>Thursday, Aug 24</th>
             <td>
-                Vector, tensor, and multi-field topology.
+                Lectures on vector, tensor, and multi-field topology.
             </td>
             <td>
                 Student presentations followed by lab session on using TDA and visualization software.
@@ -111,7 +107,7 @@ The tentative program for this event is as follows.
         <tr>
             <th>Friday, Aug 25</th>
             <td>
-                Lectures on Comparison, Tracking, and Uncertainty visulization using topological descriptors.
+                Lectures on comparison, tracking, and uncertainty visulization using topological descriptors.
             </td>
             <td>
                 A short hands-on software session followed by closing remarks at 15:00.
@@ -124,11 +120,11 @@ The tentative program for this event is as follows.
 
 <iframe width="800px" height="1000px" src="https://forms.office.com/e/KufwEtD8ZY?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-## Organisers
+## Organizers
 
-- [Ingrid Hotz](https://scivis.github.io/staff/ingho32/), *Linköping University*. [ingrid.hotz@liu.se](mailto:ingrid.hotz@liu.se?subject=Summer School:)
-- [Talha Bin Masood](https://scivis.github.io/staff/talma90/), *Linköping University*. [talha.bin.masood@liu.se](mailto:talha.bin.masood@liu.se?subject=Summer School:)
-- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), *Indian Institute of Science, Bangalore*. [vijayn@iisc.ac.in](mailto:vijayn@iisc.ac.in?subject=Summer School:)
+- [Ingrid Hotz](https://scivis.github.io/staff/ingho32/), *Linköping University*, [ingrid.hotz@liu.se](mailto:ingrid.hotz@liu.se?subject=Summer School:)
+- [Talha Bin Masood](https://scivis.github.io/staff/talma90/), *Linköping University*, [talha.bin.masood@liu.se](mailto:talha.bin.masood@liu.se?subject=Summer School:)
+- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), *Indian Institute of Science, Bangalore*, [vijayn@iisc.ac.in](mailto:vijayn@iisc.ac.in?subject=Summer School:)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
