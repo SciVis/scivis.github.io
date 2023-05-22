@@ -45,7 +45,7 @@ The registration is free of cost, but the participants will need to arrange and 
 The tentative list of topics we aim to cover during this summer school include:
 
 - Mathematical foundations: manifolds, Morse functions, complexes, persistent homology, ... 
-- Topological analysis of scientific data: scalar, vector, tensor, and multi-Field topology 
+- Topological analysis of scientific data: scalar, vector, tensor, and multi-field topology 
 - Feature-based visualization with topological descriptors: comparison, tracking, uncertainty, ...  
 - Visual representations of topological descriptors
 - Algorithms in computational topology 
@@ -56,6 +56,7 @@ The tentative list of topics we aim to cover during this summer school include:
 Here is a list of confirmed speakers:
 - [Christoph Garth](https://vis.uni-kl.de/team/garth/), *Technische Universität Kaiserslautern*.
 - [Jonas Lukasczyk](https://www.jluk.de/), *Technische Universität Kaiserslautern*.
+- [Martina Scolamiero](https://www.kth.se/profile/scola), *KTH, Stockholm*.
 - [Raghavendra Sridharamurthy](https://raghavendrags.github.io/), *SCI Institute, University of Utah*.
 - *More to be confirmed...*
 
