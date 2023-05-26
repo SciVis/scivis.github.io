@@ -56,9 +56,9 @@ The tentative list of topics we aim to cover during this summer school include:
 Here is a list of confirmed speakers:
 - [Christoph Garth](https://vis.uni-kl.de/team/garth/), *Technische Universität Kaiserslautern*.
 - [Jonas Lukasczyk](https://www.jluk.de/), *Technische Universität Kaiserslautern*.
+- [Paul Rosen](https://www.sci.utah.edu/people/prosen.html), *SCI Institute, University of Utah*.
 - [Martina Scolamiero](https://www.kth.se/profile/scola), *KTH, Stockholm*.
 - [Raghavendra Sridharamurthy](https://raghavendrags.github.io/), *SCI Institute, University of Utah*.
-- *More to be confirmed...*
 
 ## Program
 <table>
