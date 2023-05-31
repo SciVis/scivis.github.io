@@ -120,7 +120,11 @@ Here is a list of confirmed speakers:
 ## Registration
 
 <iframe width="800px" height="1000px" src="https://forms.office.com/e/KufwEtD8ZY?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
+  
+## Travel grant 
+  
+The organizers have decided to offer full financial support for travel and accomodation of *one student*. To apply for this opportunity, a student should send an email to [ingrid.hotz@liu.se](mailto:ingrid.hotz@liu.se?subject=Summer School Travel grant:) with a letter of recommendation from their supervisor clearly specifying the student's merit, relevance of this summer school to the student's research, and justification of unavailibility of any other source of funding for this visit.
+  
 ## Organizers
 
 - [Ingrid Hotz](https://scivis.github.io/staff/ingho32/), *Linköping University*, [ingrid.hotz@liu.se](mailto:ingrid.hotz@liu.se?subject=Summer School:)
