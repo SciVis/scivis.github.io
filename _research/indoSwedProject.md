@@ -81,7 +81,7 @@ This is an ongoing collaboration between Indian Institute of Science, Bangalore 
                 <img src='/images/staff/employee_image_talma90.jpeg'>
                 <h4>Talha Bin Masood</h4>
             </a>
-            <p><b>Principal Research Engineer</b></p> 
+            <p><b>Assistant Professor</b></p> 
             <p>Dept. of Science and Technology, Linköping University</p>
         </div>
         </div>
