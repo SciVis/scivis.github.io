@@ -38,7 +38,14 @@ Topological Data Analysis (TDA) has become an established framework for the extr
 
 With the aim to broaden the participants' knowledge in TDA, its application to visual data analysis, and exposure to available software tools, we are organizing a summer school at Norrköping, Sweden during Aug 21-25, 2023. The primary target group of this summer school is Ph.D. students, post docs, and master's students working in this field. For the program, we plan to have lectures by invited speakers in the morning, a short session of presentations from participants after lunch, and hands-on sessions with different software packages (including TTK, Paraview, Inviwo) in the afternoon. 
  
-The registration is free of cost, but the participants will need to arrange and pay for travel and accommodation themselves. Note that we have limited number of seats available.
+The registration is free of cost, but the participants will need to arrange and pay for travel and accommodation themselves. Note that we have limited number of seats available. 
+
+This event is sponsered by [Swedish e-Science Research Centre (SeRC)](https://e-science.se) and [Vetenskapsrådet](https://www.vr.se/).
+
+<a href="https://e-science.se"><img src="/images/tdasummerschool2023/serc_logo.png" style="height:90px" alt="SeRC"/></a>
+
+<a href="https://www.vr.se/"><img src="/images/tdasummerschool2023/vr_logo.png" style="height:90px" alt="VR"/></a>
+
 
 ## Topics
 
