@@ -95,13 +95,13 @@ Here is a list of confirmed speakers:
 	    background-color:white;
 	}
 	.lecture {
-		border-left:7px solid #D9E1F2;
+		border-left:7px solid #93ade6;
 	}
 	.handson {
-		border-left:7px solid #E2EFDA;
+		border-left:7px solid #a4de81;
 	}
 	.studenttalk {
-		border-left:7px solid #FCE4D6;
+		border-left:7px solid #deab8e;
 	}
 	.social {
 		border-left:7px solid #DFDDED;
@@ -173,6 +173,8 @@ Here is a list of confirmed speakers:
     </tr>
 </table>
 
+You can click on individual talk and lectures to view their abstracts.
+
 
 ### Monday, Aug 21
 
@@ -200,12 +202,12 @@ Here is a list of confirmed speakers:
 	    <td class="papertime">09:00 &#8211; 10:30</td>
 	    <td>
 		    <div class="papertitle accordion">
-			    Mathematical Foundations I - Algebraic topology basics 
+			    Mathematical Foundations I - Algebraic Topology Basics 
 			    <br/>
 			    <div style="font-size:90%"><em>Vijay Natarajan (Indian Institute of Science, Bangalore)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>TBA</p>
+			    <p><b>Abstract:</b> Topology is the mathematical study of the connectivity of space. This study is often based on topological invariants, which help establish equivalence between spaces or help distinguish between them. This lecture will provide a gentle introduction to topology with a focus on topological invariants that are amenable to computation. After a quick introduction to homoemorphism and manifolds, we will study invariants such as the Euler Characteristic, Betti numbers, and homology groups. Next, we will study two applications to illustrate the use of the invariants — the surface classification theorem and critical point classification via lower link.</p>
 			    <p><b>Biography:</b> Vijay Natarajan is a Professor in the Department of Computer Science and Automation at Indian Institute of Science, Bangalore. He received his Ph.D. in computer science from Duke University and holds the B.E. degree in computer science and M.Sc. degree in mathematics from BITS Pilani. His research interests include scientific visualization, computational geometry, and computational topology. In current work, he is developing topological methods for time-varying and multi-field data visualization, and studying applications in biology, material science, and climate science.</p>
 		    </div>
 	    </td>
@@ -277,7 +279,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Jan Felix Senge (University of Bremen, Germany)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>Topological Data Analysis provides new approaches for the interpretation of (high dimensional) data exploiting underlying structures and relationships to be used as proxies for understanding qualitative similarities and differences. Suitable vectorization of proxies like the persistence diagram can enhance Machine Learning (ML) algorithms with an intermediate layer improving performance as well as giving (other) interpretations of the data. In this talk, we will briefly highlight some of the design choices and tools of TDA when introducing pipelines for persistent homology to understand the 2-dimensional structure of processed surfaces [1] as well as the 3-dimensional structures of pores [2]. Then we will focus on how different visualizations help practitioners to understand the structure. </p> 
+			    <p><b>Abstract:</b> Topological Data Analysis provides new approaches for the interpretation of (high dimensional) data exploiting underlying structures and relationships to be used as proxies for understanding qualitative similarities and differences. Suitable vectorization of proxies like the persistence diagram can enhance Machine Learning (ML) algorithms with an intermediate layer improving performance as well as giving (other) interpretations of the data. In this talk, we will briefly highlight some of the design choices and tools of TDA when introducing pipelines for persistent homology to understand the 2-dimensional structure of processed surfaces [1] as well as the 3-dimensional structures of pores [2]. Then we will focus on how different visualizations help practitioners to understand the structure. </p> 
 			    <p>
 			    <ol>
 		            <li> Senge, J.F., Astaraee, A.H., Dlotko, P., Bagherifard, S., Bosbach, W.A., Extending conventional surface roughness ISO parameters using topological data analysis for shot peened surfaces, Scientific Reports, 12, 5538 (2022). 
@@ -315,7 +317,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Dhani Nafday (KTH Royal Institute of Technology, Stockholm)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract: </b> We have modelled various periodic lattice distortions associated with charge density waves in bilayer NbSe<sub>2</sub> by means of ab-initio techniques. Our main finding is that in-plane displacement affects the energy hierarchy. Although a natural consequence of the enhanced degrees of freedom in low-dimensional systems, this finding is non-trivial because the direct-space structural details of the inner layers were not explored yet. We propose two independent techniques to observe our predictions, giving simulated scanning tunnelling microscopy (STM) images and diffraction scattering. Neat differences are noticed in the simulated STM images, as well as in the diffraction patterns. </p> 
+			    <p><b>Abstract: </b>We have modelled various periodic lattice distortions associated with charge density waves in bilayer NbSe<sub>2</sub> by means of ab-initio techniques. Our main finding is that in-plane displacement affects the energy hierarchy. Although a natural consequence of the enhanced degrees of freedom in low-dimensional systems, this finding is non-trivial because the direct-space structural details of the inner layers were not explored yet. We propose two independent techniques to observe our predictions, giving simulated scanning tunnelling microscopy (STM) images and diffraction scattering. Neat differences are noticed in the simulated STM images, as well as in the diffraction patterns. </p> 
 		    </div>
 	    </td>
     </tr>
@@ -329,7 +331,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Federico Sichetti (University of Genoa, Italy)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract: </b> I will briefly illustrate how TDA techniques can be applied to surface reconstruction, a classical geometry processing problem. </p> 
+			    <p><b>Abstract: </b>I will briefly illustrate how TDA techniques can be applied to surface reconstruction, a classical geometry processing problem. </p> 
 		    </div>
 	    </td>
     </tr>
@@ -356,8 +358,8 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Talha Bin Masood (Linköping University)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>TBA</p>
-			    <p><b>Biography:</b> Talha Bin Masood is an Assistant Professor at Linköping University in Sweden. He received his Ph.D. in Computer Science from the Indian Institute of Science, Bangalore. His research interests include scientific visualization, computational geometry, computational topology, and their applications to various scientific domains.</p>
+			    <p><b>Abstract:</b> In this lecture, I will discuss practical aspects of how topology is used for understanding the shape of data represented as a point cloud in some space. Some key ideas such as thickening, filtrations, and simplicial complexes will be described. I will then introduce three types of complexes that can be constructed as a result of this thickening, namely, Vietoris-Rips, Čech, and alpha complexes. We will learn about the relationship between them and their advantages and disadvantages. In the end, we will also take up some concrete simple examples of point cloud data and discuss how we can compute it's topological inavriants through persistent homology.</p>
+			    <p><b>Biography:</b> Talha Bin Masood is an Assistant Professor at Linköping University in Sweden. He received his Ph.D. in Computer Science from the Indian Institute of Science, Bangalore. After that, he worked as post doctoral researcher at Linköping University from 2018 to 2022. His research interests include scientific visualization, computational geometry, computational topology, and their applications to various scientific domains.</p>
 		    </div>
 	    </td>
 	</tr>
@@ -375,8 +377,8 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Jonas Lukasczyk (TU Kaiserslautern, Germany)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>Scalar field topology (SFT) deals with scalar functions defined on topological spaces, commonly referred to as scalar fields. Since scalar fields are very common data representations, SFT has successfully been applied in many research areas to characterize features. To this end, SFT provides several data abstractions, such as critical points, contours, merge/contour trees, Reeb graphs, ascending/descending manifolds, Morse-Smale complexes, fibers, and so forth. These abstractions capture the inherent structure of the input data, and due to their generality, they can describe a plethora of semantic features, including pressure minima in climate data, boundaries between mixing fluids in CFD simulations, dark matter halos in cosmology, and bonds in chemistry. This talk introduces these abstractions and demonstrates their application in a variety of research applications. </p>
-			    <p><b>Biography:</b> Jonas Lukasczyk  is a Staff Scientist at TU Kaiserslautern. He received his Ph.D. degree from the Visual Information Analysis Group, Technische Universitat Kaiserslautern, Germany, where he also studied applied computer science and mathematics. His recent work focuses on topology-based characterization of features and their evolution in large-scale simulations.</p>
+			    <p><b>Abstract:</b> Scalar field topology (SFT) deals with scalar functions defined on topological spaces, commonly referred to as scalar fields. Since scalar fields are very common data representations, SFT has successfully been applied in many research areas to characterize features. To this end, SFT provides several data abstractions, such as critical points, contours, merge/contour trees, Reeb graphs, ascending/descending manifolds, Morse-Smale complexes, fibers, and so forth. These abstractions capture the inherent structure of the input data, and due to their generality, they can describe a plethora of semantic features, including pressure minima in climate data, boundaries between mixing fluids in CFD simulations, dark matter halos in cosmology, and bonds in chemistry. This talk introduces these abstractions and demonstrates their application in a variety of research applications. </p>
+			    <p><b>Biography:</b> Jonas Lukasczyk is a Staff Scientist at TU Kaiserslautern. He received his Ph.D. degree from the Visual Information Analysis Group, Technische Universitat Kaiserslautern, Germany, where he also studied applied computer science and mathematics. His recent work focuses on topology-based characterization of features and their evolution in large-scale simulations. He is an active contributor to one of the flagship software libraries for topological analysis of scientific data within Visualization domain called Topology Toolkit (TTK).</p>
 		    </div>
 	    </td>
     </tr>
@@ -410,7 +412,7 @@ Here is a list of confirmed speakers:
 	    <td class="papertime">15:30 &#8211; 17:00</td>
 	    <td>
 		    <div class="othertitle">
-			    Introduction to Topology Toolkit 
+			    Introduction to <a href="https://topology-tool-kit.github.io/">Topology Toolkit (TTK)</a>
 			    <br/>
 			    <div style="font-size:90%"><em>Hands on session led by Jonas Lukasczyk (TU Kaiserslautern, Germany)</em></div>
 		    </div>
@@ -434,12 +436,12 @@ Here is a list of confirmed speakers:
 	    <td class="papertime">09:00 &#8211; 10:30</td>
 	    <td>
 		    <div class="papertitle accordion">
-			    Scalar Field Topology II: Morse-Smale complexes - theory, computation, and applications 
+			    Scalar Field Topology II: Morse-Smale complexes 
 			    <br/>
 			    <div style="font-size:90%"><em>Vijay Natarajan (Indian Institute of Science, Bangalore)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>TBA</p>
+			    <p><b>Abstract:</b> This lecture will continue the discussion on topological descriptors for scalar fields with a focus on the Morse-Smale complex. Ideas from Morse theory of smooth scalar functions can be transported to piecewise-linear functions and applied towards the study of scientific data. The Morse-Smale (MS) complex represents a partition of the domain of a scalar field into regions that exhibit uniform gradient flow behavior. The domain is partitioned into cells, each of which is defined by a pair of critical points of the scalar field. In this lecture, we will introduce the MS complex, study some characteristic properties, and outline an algorithm for computing the complex. The practical utility of the MS complex depends on the existence of methods for topological simplification that help identify and remove noise. Finally, we will describe some applications of the MS complex.</p>
 			    <p><b>Biography:</b> Vijay Natarajan is a Professor in the Department of Computer Science and Automation at Indian Institute of Science, Bangalore. He received his Ph.D. in computer science from Duke University and holds the B.E. degree in computer science and M.Sc. degree in mathematics from BITS Pilani. His research interests include scientific visualization, computational geometry, and computational topology. In current work, he is developing topological methods for time-varying and multi-field data visualization, and studying applications in biology, material science, and climate science.</p>
 		    </div>
 	    </td>
@@ -471,7 +473,7 @@ Here is a list of confirmed speakers:
 		<td class="time">14:00 &#8211; 19:00</td>
 		<td style="width:100%;">
 		    <div class="othertitle">
-			    Excursion to Söderköping followed by joint dinner
+			    Excursion to <a href="https://visit.soderkoping.se/en/">Söderköping</a> followed by joint dinner
 			    <br/>
 			    <div style="font-size:90%"><em>More details to be announced...</em></div>
 		    </div>
@@ -514,7 +516,7 @@ Here is a list of confirmed speakers:
 	    <td class="papertime">10:50 &#8211; 12:20</td>
 	    <td>
 		    <div class="othertitle">
-			    TTK session 2: Synergy with Inviwo 
+			    <a href="https://topology-tool-kit.github.io/">TTK</a> session 2: Synergy with <a href="https://inviwo.org/">Inviwo</a>
 			    <br/>
 			    <div style="font-size:90%"><em>Hands on session led by Jonas Lukasczyk (TU Kaiserslautern, Germany) and Peter Steneteg (Linköping University)</em></div>
 		    </div>
@@ -540,7 +542,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Fangfei Lan (University of Utah, USA)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>Atmospheric rivers (ARs) are long, narrow regions in the atmosphere that transport water vapor from the Earth's tropics. ARs have been of great interest to climate scientists because they are responsible for a large percentage of precipitation worldwide. In North America, ARs contribute significantly to water supply and flooding risk, especially in the western regions. However, ARs are difficult to characterize due to the lack of a universal definition and their varying shapes and sizes. Many AR detection tools (ARDTs) have been developed for different purposes, producing distinct AR boundaries. In this work, we study the ARs detected by an ensemble of algorithms. We quantify and visualize the uncertainty that arises due to the differences in these methods. We propose an uncertainty visualization framework that captures both the exterior and interior variability of an ensemble of ARs. For the exterior variation, we apply the principles of contour boxplots. For the interior variations, we introduce a topology-based summary of the AR that characterizes its underlying structure independent of its detection method. We visualize the agreements and disagreements among these summaries using a MetroSet-inspired visual encoding. Applying our framework to various representative AR detectors, we visually analyze their variations as part of an ensemble analysis. </p>
+			    <p><b>Abstract:</b> Atmospheric rivers (ARs) are long, narrow regions in the atmosphere that transport water vapor from the Earth's tropics. ARs have been of great interest to climate scientists because they are responsible for a large percentage of precipitation worldwide. In North America, ARs contribute significantly to water supply and flooding risk, especially in the western regions. However, ARs are difficult to characterize due to the lack of a universal definition and their varying shapes and sizes. Many AR detection tools (ARDTs) have been developed for different purposes, producing distinct AR boundaries. In this work, we study the ARs detected by an ensemble of algorithms. We quantify and visualize the uncertainty that arises due to the differences in these methods. We propose an uncertainty visualization framework that captures both the exterior and interior variability of an ensemble of ARs. For the exterior variation, we apply the principles of contour boxplots. For the interior variations, we introduce a topology-based summary of the AR that characterizes its underlying structure independent of its detection method. We visualize the agreements and disagreements among these summaries using a MetroSet-inspired visual encoding. Applying our framework to various representative AR detectors, we visually analyze their variations as part of an ensemble analysis. </p>
 		    </div>
 	    </td>
     </tr>
@@ -570,7 +572,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em> Emma Nilsson (Linköping University)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract: </b> In visualization applications using scalar field topology, extrema often represent features in the field, where a common task is to track the features over time and analyze their temporal evolution. Moreover, there are many different possibilities for tracking the extrema-based features. The talk focuses on gradient-based tracking of extrema, where the gradient is discrete, and the scalar field function is a piecewise linear function defined on the domain. I will cover hierarchies based on extrema, define correspondence probabilities between the extrema and how to compare different tracking approaches with each other within scalar field feature tracking. A real-world climate dataset will be used to illustrate how the presented techniques work in practice and how they compare to previous approaches. </p> 
+			    <p><b>Abstract: </b>In visualization applications using scalar field topology, extrema often represent features in the field, where a common task is to track the features over time and analyze their temporal evolution. Moreover, there are many different possibilities for tracking the extrema-based features. The talk focuses on gradient-based tracking of extrema, where the gradient is discrete, and the scalar field function is a piecewise linear function defined on the domain. I will cover hierarchies based on extrema, define correspondence probabilities between the extrema and how to compare different tracking approaches with each other within scalar field feature tracking. A real-world climate dataset will be used to illustrate how the presented techniques work in practice and how they compare to previous approaches. </p> 
 		    </div>
 	    </td>
     </tr>
@@ -584,7 +586,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em>Farhan Rasheed (Linköping University)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract: </b> We present a visual analysis environment based on a multi-scale partitioning of a 2d domain into regions bounded by cycles in weighted planar embedded graphs. The work has been inspired by an application in granular materials research, where the question of scale plays a fundamental role in the analysis of material properties. We propose an efficient algorithm to extract the hierarchical cycle structure using persistent homology. The core of the algorithm is a filtration on a dual graph exploiting Alexander’s duality. The resulting partitioning is the basis for the derivation of statistical properties that can be explored in a visual environment. We demonstrate the proposed pipeline on a few synthetic and one real-world data set. </p> 
+			    <p><b>Abstract: </b>We present a visual analysis environment based on a multi-scale partitioning of a 2d domain into regions bounded by cycles in weighted planar embedded graphs. The work has been inspired by an application in granular materials research, where the question of scale plays a fundamental role in the analysis of material properties. We propose an efficient algorithm to extract the hierarchical cycle structure using persistent homology. The core of the algorithm is a filtration on a dual graph exploiting Alexander’s duality. The resulting partitioning is the basis for the derivation of statistical properties that can be explored in a visual environment. We demonstrate the proposed pipeline on a few synthetic and one real-world data set. </p> 
 		    </div>
 	    </td>
     </tr>
@@ -602,7 +604,7 @@ Here is a list of confirmed speakers:
 			    <div style="font-size:90%"><em> Paul Rosen (SCI Institute, University of Utah, USA)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>Insights from data are highly influenced by the shape perceived in the data. However, two problems exist. First, data are often high dimensional, making their shape difficult to visualize. Second, once visualized, they often suffer from scalability and readability issues, even with modest amounts of data. By applying topology-based descriptors to these problems, approaches can utilize the shape for presenting and interacting with data in ways that are mathematically robust and correspond to human perception and cognition. This talk will discuss the applications of topology-based descriptors, namely persistent homology, contour trees, and mapper, in several commonly used visualization types, including scatterplots, line charts, node-link diagrams, and dimension reduction. </p>
+			    <p><b>Abstract:</b> Insights from data are highly influenced by the shape perceived in the data. However, two problems exist. First, data are often high dimensional, making their shape difficult to visualize. Second, once visualized, they often suffer from scalability and readability issues, even with modest amounts of data. By applying topology-based descriptors to these problems, approaches can utilize the shape for presenting and interacting with data in ways that are mathematically robust and correspond to human perception and cognition. This talk will discuss the applications of topology-based descriptors, namely persistent homology, contour trees, and mapper, in several commonly used visualization types, including scatterplots, line charts, node-link diagrams, and dimension reduction. </p>
 			    <p><b>Biography:</b> Paul Rosen is an Associate Professor in the Kahlert School of Computing and the Scientific Computing and Imaging Institute at the University of Utah. He received his Ph.D. from Purdue University in 2010. Subsequently, he was a Research Assistant Professor at the University of Utah from 2010 to 2015. He was then an Assistant and Associate Professor at the University of South Florida from 2015 to 2022. He has been the co-author of over 80 papers, 6 having received best paper awards or honorable mentions in the areas of computer graphics, data visualization, and topological data analysis. His research interests lie at the intersection of scientific and information visualization, where he utilizes a mix of human-centered design and geometry- and topology-based approaches to improve the efficacy of visualization tools. His research has been supported by the National Institutes of Health, the National Radio Astronomy Observatory, the Defense Intelligence Agency, and National Science Foundation grants, including an NSF CAREER Award in 2019. He is also one of the General Chairs for IEEE VIS 2024, which will be held in Tampa, Florida.</p>
 		    </div>
 	    </td>
