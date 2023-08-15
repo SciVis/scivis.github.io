@@ -173,8 +173,15 @@ Here is a list of confirmed speakers:
     </tr>
 </table>
 
-You can click on individual talk and lectures to view their abstracts.
-
+Please note:
+<ul>
+    <li> The venue for the lectures and hands-on sessions is the room <a href="https://old.liu.se/NavApp/faces/popup.jsp?object_type=location&object_id=645">KO23</a> located on the second floor and easily accessible from Entrance 14 of <a href="https://old.liu.se/karta/karta?l=en&sc=true&px_id=645&px_type=2">Kopparhammaren 2</a> at the <a href="https://liu.se/en/article/campus-norrkoping">Campus Norrköping</a>.
+    </li>
+    <li> All times are specified in CEST (UTC+2:00).
+    </li>
+    <li> You can click on individual talk and lectures to expand and view their abstracts.
+    </li>
+</ul>
 
 ### Monday, Aug 21
 
@@ -233,6 +240,19 @@ You can click on individual talk and lectures to view their abstracts.
 		    </div>
 	    </td>
     </tr>
+</table>
+
+<table class="session">
+
+	<tr class="coffee">
+		<td class="time">12:30 &#8211; 13:30</td>
+		<td style="width:100%;">
+		    <div class="othertitle">
+			    Lunch at <a href="https://visualiseringscenter.se/restaurang-cafe-c">Visualization center restaurant</a>.
+		    </div>
+		</td>
+	</tr>
+	
 </table>
 
 <table class="session">
@@ -386,6 +406,19 @@ You can click on individual talk and lectures to view their abstracts.
 
 <table class="session">
 
+	<tr class="coffee">
+		<td class="time">12:30 &#8211; 13:30</td>
+		<td style="width:100%;">
+		    <div class="othertitle">
+			    Lunch at <a href="https://visualiseringscenter.se/restaurang-cafe-c">Visualization center restaurant</a>.
+		    </div>
+		</td>
+	</tr>
+	
+</table>
+
+<table class="session">
+
 	<tr>
 		<td class="time">13:40 &#8211; 17:00</td>
 		<td class="title">
@@ -470,6 +503,19 @@ You can click on individual talk and lectures to view their abstracts.
 <table class="session">
 
 	<tr class="coffee">
+		<td class="time">12:30 &#8211; 13:30</td>
+		<td style="width:100%;">
+		    <div class="othertitle">
+			    Lunch at <a href="https://visualiseringscenter.se/restaurang-cafe-c">Visualization center restaurant</a>.
+		    </div>
+		</td>
+	</tr>
+	
+</table>
+
+<table class="session">
+
+	<tr class="coffee">
 		<td class="time">14:00 &#8211; 19:00</td>
 		<td style="width:100%;">
 		    <div class="othertitle">
@@ -522,6 +568,19 @@ You can click on individual talk and lectures to view their abstracts.
 		    </div>
 	    </td>
 	</tr>
+</table>
+
+<table class="session">
+
+	<tr class="coffee">
+		<td class="time">12:30 &#8211; 13:30</td>
+		<td style="width:100%;">
+		    <div class="othertitle">
+			    Lunch at <a href="https://visualiseringscenter.se/restaurang-cafe-c">Visualization center restaurant</a>.
+		    </div>
+		</td>
+	</tr>
+	
 </table>
 
 <table class="session">
@@ -652,6 +711,19 @@ You can click on individual talk and lectures to view their abstracts.
 	    </td>
 	</tr>
     
+</table>
+
+<table class="session">
+
+	<tr class="coffee">
+		<td class="time">12:30 &#8211; 13:30</td>
+		<td style="width:100%;">
+		    <div class="othertitle">
+			    Lunch at <a href="https://visualiseringscenter.se/restaurang-cafe-c">Visualization center restaurant</a>.
+		    </div>
+		</td>
+	</tr>
+	
 </table>
 
 <table class="session">
