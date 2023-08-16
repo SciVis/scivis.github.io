@@ -175,7 +175,7 @@ Here is a list of confirmed speakers:
 
 Please note:
 <ul>
-    <li> The venue for the lectures and hands-on sessions is the room <a href="https://old.liu.se/NavApp/faces/popup.jsp?object_type=location&object_id=645">KO23</a> located on the second floor and easily accessible from Entrance 14 of <a href="https://old.liu.se/karta/karta?l=en&sc=true&px_id=645&px_type=2">Kopparhammaren 2</a> at the <a href="https://liu.se/en/article/campus-norrkoping">Campus Norrköping</a>.
+    <li> The venue for the lectures and hands-on sessions is room <a href="https://old.liu.se/NavApp/faces/popup.jsp?object_type=location&object_id=645">KO23</a> located on the second floor and easily accessible from Entrance 14 of <a href="https://old.liu.se/karta/karta?l=en&sc=true&px_id=645&px_type=2">Kopparhammaren 2</a> at <a href="https://liu.se/en/article/campus-norrkoping">Campus Norrköping</a>.
     </li>
     <li> All times are specified in CEST (UTC+2:00).
     </li>
@@ -788,6 +788,9 @@ Registration for this event is now closed.
 - [Ingrid Hotz](https://scivis.github.io/staff/ingho32/), *Linköping University*, [ingrid.hotz@liu.se](mailto:ingrid.hotz@liu.se?subject=Summer School:)
 - [Talha Bin Masood](https://scivis.github.io/staff/talma90/), *Linköping University*, [talha.bin.masood@liu.se](mailto:talha.bin.masood@liu.se?subject=Summer School:)
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), *Indian Institute of Science, Bangalore*, [vijayn@iisc.ac.in](mailto:vijayn@iisc.ac.in?subject=Summer School:)
+
+<p style="font-size: 1.25em; margin: 1.152em 0 0 0;font-family: 'Volkhov', Georgia, Times, serif;font-weight: normal;padding: 0;line-height: 1.4;font-style: normal;color: #222222;text-rendering: optimizeLegibility;"> Event Coordinator </p>
+- [Agne Virsilaite Maras](https://liu.se/en/employee/agnvi93), *Linköping University*, [agne.virsilaite.maras@liu.se](mailto:agne.virsilaite.maras@liu.se?subject=Summer School:)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
