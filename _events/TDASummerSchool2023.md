@@ -357,6 +357,19 @@ Please note:
     </tr>
 </table>
 
+<table class="session">
+
+	<tr class="coffee">
+		<td class="time">17:30 &#8211; 19:00</td>
+		<td style="width:100%;">
+		    <div class="othertitle">
+			    A tour of <a href="https://visualiseringscenter.se/en">Norrköpings Visualiseringscenter</a> followed by a dome show.
+		    </div>
+		</td>
+	</tr>
+	
+</table>
+
 
 ### Tuesday, Aug 22
 
@@ -516,12 +529,18 @@ Please note:
 <table class="session">
 
 	<tr class="coffee">
-		<td class="time">14:00 &#8211; 19:00</td>
+		<td class="time">15:00 &#8211; 21:00</td>
 		<td style="width:100%;">
 		    <div class="othertitle">
-			    Excursion to <a href="https://visit.soderkoping.se/en/">Söderköping</a> followed by joint dinner
-			    <br/>
-			    <div style="font-size:90%"><em>More details to be announced...</em></div>
+			    Excursion to <a href="https://visit.soderkoping.se/en/">Söderköping</a> followed by joint dinner.
+			    <div style="font-size:90%"><em>
+			        <ul>
+			        <li>We leave Norrköping by bus at 15:00.</li>
+			        <li>We will have a short sightseeing tour of historical quarters in Söderköping.</li>
+			        <li>Finally, we end the day with a joint dinner at <a href="">Söderköpings Brunn</a> restaurant starting at 18:00.</li>
+			        </ul>
+			        </em>
+		        </div>
 		    </div>
 		</td>
 	</tr>
