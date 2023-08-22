@@ -363,7 +363,7 @@ Please note:
 		<td class="time">17:30 &#8211; 19:00</td>
 		<td style="width:100%;">
 		    <div class="othertitle">
-			    A tour of <a href="https://visualiseringscenter.se/en">Norrköpings Visualiseringscenter</a> followed by a dome show.
+			    A tour of <a href="https://visualiseringscenter.se/en">Norrköpings Visualiseringscenter</a> followed by a dome show hosted by <a href="https://liu.se/medarbetare/andyn27">Prof. Anders Ynnerman</a>.
 		    </div>
 		</td>
 	</tr>
@@ -567,7 +567,7 @@ Please note:
 			    <div style="font-size:90%"><em>Ingrid Hotz (Linköping University)</em></div>
 		    </div>
 		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>TBA</p>
+			    <p><b>Abstract:</b>In this lecture, I will discuss two topological concepts for the analysis of vector and tensor-valued fields. I will start with the limit-set topology assuming a continuous field as introduced into visualization by Helman and Hesselink, focussing on two- and three-dimensional fields. As an alternative, we take a brief look at the discrete vector field topology, which is based on Forman's discrete vector fields. Then we will discuss some approaches that have been considered for simplifying vector fields. Finally, I will talk about some challenges and open problems in vector/tensor field visualization.</p>
 			    <p><b>Biography:</b> Ingrid Hotz received her M.S. degree in theoretical Physics from the Ludwig Maximilian University in Munich Germany and the PhD degree from the Computer Science Department at the University of Kaiserslautern, Germany. During 2003-2006 she worked as a postdoctoral researcher at the Institute for Data Analysis and Visualization (IDAV) at the University of California. Then she was the leader of a research group at the Zuse Institute in Berlin Germany during 2006-2013. From 2013 to 2015 she was the head of the scientific visualization group at the German Aerospace Center (DLR). Since 2015 she is a Professor in Scientific Visualization at the Linköping University in Scientific Visualization and has an affiliation with the Center for Medical Image Science and Visualization (CMIV) in Linköping. The main focus of her research lies in the area of data analysis and scientific visualization, ranging from basic research questions to effective solutions to visualization problems in applications including flow analysis, engineering and physics, medical applications, and mechanical engineering ranging from small- to large-scale simulations.</p>
 		    </div>
 	    </td>
