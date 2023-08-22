@@ -503,7 +503,7 @@ Please note:
 		    <div class="papertitle accordion">
 			    Parallel and distributed algorithms for topological descriptors
 			    <br/>
-			    <div style="font-size:90%"><em>Christoph Garth (TU Kaiserslautern, Germany)</em></div>
+			    <div style="font-size:90%"><em>Vijay Natarajan (Indian Institute of Science, Bangalore) and Jonas Lukasczyk (TU Kaiserslautern, Germany)</em></div>
 		    </div>
 		    <div class="abstractpanel">
 			    <p><b>Abstract:</b>TBA</p>
