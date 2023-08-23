@@ -500,14 +500,10 @@ Please note:
 	<tr class="lecture">
 	    <td class="papertime">10:50 &#8211; 12:20</td>
 	    <td>
-		    <div class="papertitle accordion">
+		    <div class="papertitle">
 			    Parallel and distributed algorithms for topological descriptors
 			    <br/>
 			    <div style="font-size:90%"><em>Vijay Natarajan (Indian Institute of Science, Bangalore) and Jonas Lukasczyk (TU Kaiserslautern, Germany)</em></div>
-		    </div>
-		    <div class="abstractpanel">
-			    <p><b>Abstract:</b>TBA</p>
-			    <p><b>Biography:</b> Christoph Garth is a full professor in the Department of Computer Science at the University of Kaiserslautern, Germany, and leads the Scientific Visualization Lab there. After studying Mathematics and Computer Science at the University of Kaiserslautern and obtaining a Ph.D. in Computer Science in 2007, He was a postdoctoral researcher at the Institute for Data Analysis and Visualization at the University of California, Davis. Since 2011, he has been an assistant professor in Computer Science at the University of Kaiserslautern, and became a full professor in 2017. His research agenda encompasses large-scale data analysis and visualization, in-situ visualization, topology-based methods in visualization, and interdisciplinary applications of visualization. His goal is to develop theoretical insights into relevant and practical visualization techniques. He has helped pioneer Lagrangian techniques in flow visualization and demonstrate their utility in in situ scenarios.</p>
 		    </div>
 	    </td>
 	</tr>
