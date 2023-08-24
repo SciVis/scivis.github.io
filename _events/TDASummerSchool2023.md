@@ -500,7 +500,7 @@ Please note:
 	<tr class="lecture">
 	    <td class="papertime">10:50 &#8211; 12:20</td>
 	    <td>
-		    <div class="papertitle">
+		    <div class="othertitle">
 			    Parallel and distributed algorithms for topological descriptors
 			    <br/>
 			    <div style="font-size:90%"><em>Vijay Natarajan (Indian Institute of Science, Bangalore) and Jonas Lukasczyk (TU Kaiserslautern, Germany)</em></div>
@@ -579,7 +579,7 @@ Please note:
 		    <div class="othertitle">
 			    <a href="https://topology-tool-kit.github.io/">TTK</a> session 2: Synergy with <a href="https://inviwo.org/">Inviwo</a>
 			    <br/>
-			    <div style="font-size:90%"><em>Hands on session led by Jonas Lukasczyk (TU Kaiserslautern, Germany) and Peter Steneteg (Linköping University)</em></div>
+			    <div style="font-size:90%"><em>Hands on session led by Peter Steneteg (Linköping University) and Jonas Lukasczyk (TU Kaiserslautern, Germany)</em></div>
 		    </div>
 	    </td>
 	</tr>
@@ -683,6 +683,17 @@ Please note:
 		    </div>
 	    </td>
     </tr>
+
+    <tr class="handson">
+	    <td class="papertime">17:00 &#8211; 17:30</td>
+	    <td>
+		    <div class="othertitle">
+			    Pitch ideas for project work on Friday.
+			    <br/>
+			    <div style="font-size:90%"><em>Discussion session involving all teachers and students.</em></div>
+		    </div>
+	    </td>
+	</tr>
 </table>
 
 ### Friday, Aug 25
