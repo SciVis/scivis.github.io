@@ -806,8 +806,14 @@ Please note:
 	}
 </script>
 
-## Registration
-Registration for this event is now closed.
+## Photos
+<p style="text-align:center">
+<img src="https://raw.githubusercontent.com/SciVis/scivis.github.io/master/_events/NKP_summerschool_pic1.jpeg" alt="Outside Söderköping Brunn" />
+Summer school partipants at Söderköping viewpoint 
+
+<img src="https://raw.githubusercontent.com/SciVis/scivis.github.io/master/_events/NKP_summerschool_pic2.jpeg" alt="At Söderköping Viewpoint" />
+Outside Söderköping Brunn after joint dinner
+</p>
   
 ## Organizers
 
