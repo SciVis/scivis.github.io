@@ -6,7 +6,7 @@ contact: ["emmbr26", "alebo68"]
 place:  Scientific Computing and Imaging Institute, University of Utah, Salt Lake City
 people: 2
 project: OpenSpace
-published: true
+published: false
 state: open
 ---
 
