@@ -6,7 +6,7 @@ contact: ["emmbr26"]
 place:  NASA Goddard Space Flight Center, Greenbelt, Maryland
 people: 2
 project: OpenSpace
-published: true
+published: false
 state: ongoing
 ---
 
