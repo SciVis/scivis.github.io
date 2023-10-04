@@ -6,7 +6,7 @@ contact: ["emmbr26"]
 place:  American Museum of Natural History, New York City
 people: 2
 project: OpenSpace
-published: true
+published: false
 state: closed
 ---
 
