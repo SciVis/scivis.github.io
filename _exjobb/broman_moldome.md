@@ -6,7 +6,7 @@ contact: ["emmbr26", "alebo68", "matli20"]
 place:  Norrköping
 people: 1-2
 project: OpenSpace
-published: true
+published: false
 state: open
 ---
 
