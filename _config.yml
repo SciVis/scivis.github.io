@@ -89,6 +89,9 @@ collections:
   staff:
     output: true
     sort_by: title
+  alumni:
+    output: true
+    sort_by: title
   courses:
     output: true
   publications:
