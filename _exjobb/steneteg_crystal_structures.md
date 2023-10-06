@@ -17,4 +17,4 @@ In this project, you will investigate visualization techniques for enhancing the
 
 Finshed diploma work
 [Diva](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1328242) 
-[PDF](http://www.diva-portal.org/smash/get/diva2%253A1328242/FULLTEXT01.pdf)
+[PDF](http://www.diva-portal.org/smash/get/diva2:1328242/FULLTEXT01.pdf)
