@@ -2,7 +2,7 @@
 title: "Multi-scale visual analysis of cycle characteristics in spatially-embedded graphs"
 authors: "Farhan Rasheed, Talha Bin Masood, Tejas G. Murthy, Vijay Natarajan, Ingrid Hotz"
 scivis_authors: [ "farra01", "talma90", "ingho32", "indoSwed" ]
-venue: "Visual Informatics, 7(3), pages 49-58, 2023"
+venue: "Visual Informatics, 7(3), pages 49-58"
 year: 2023
 date: 2023-09-01
 doi: "10.1016/J.VISINF.2023.06.005"

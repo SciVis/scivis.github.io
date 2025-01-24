@@ -2,7 +2,7 @@
 title: "Aromatic hexazine [N<sub>6</sub>]<sup>4−</sup> anion featured in the complex structure of the high-pressure potassium nitrogen compound K<sub>9</sub>N<sub>56</sub>"
 authors: "Dominique Laniel, Florian Trybel, Yuqing Yin, Timofey Fedotenko, Saiana Khandarkhaeva, Andrey Aslandukov, Georgios Aprilis, Alexei I Abrikosov, Talha Bin Masood, Carlotta Giacobbe, Eleanor Lawrence Bright, Konstantin Glazyrin, Michael Hanfland, Jonathan Wright, Ingrid Hotz, Igor A Abrikosov, Leonid Dubrovinsky, and Natalia Dubrovinskaia"
 scivis_authors: [ "aleab47", "talma90", "ingho32" ]
-venue: "Nature Chemistry, 15(5), pages 641-646, 2023"
+venue: "Nature Chemistry, 15(5), pages 641-646"
 year: 2023
 date: 2023-03-06
 doi: "10.1038/s41557-023-01148-7"
