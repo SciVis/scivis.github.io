@@ -7,5 +7,5 @@ year: 2024
 date: 2024-08-23
 doi: "10.57717/cgt.v3i1.50"
 pdf: "https://www.cgt-journal.org/index.php/cgt/article/view/50/39"
-thumbnail: "/images/publications/2023_Bauer_Masood_SparsePH.png"
+thumbnail: "/images/publications/2024_Bauer_Masood_SparsePH.png"
 ---
