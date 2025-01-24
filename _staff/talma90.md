@@ -8,7 +8,7 @@ breadcrumb: true
 contact:
     email: talha.bin.masood@liu.se
     phone:
-    address: Kopparhammaren 2, Entrance 10B, Room 2049, Campus Norrköping
+    address: Kopparhammaren 2, Entrance 10B, Room 2053, Campus Norrköping
     orcid: 0000-0001-5352-1086
 ---
 

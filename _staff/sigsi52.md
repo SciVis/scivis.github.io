@@ -3,7 +3,7 @@ layout: staff
 title: Signe Sidwall Thygesen
 name: Signe Sidwall Thygesen
 position: PhD student
-staffimage: dummy.png
+staffimage: employee_image_sigsi52.jpeg
 breadcrumb: true
 contact:
     email: signe.sidwall.thygesen@liu.se
