@@ -6,5 +6,5 @@ venue: "Poster, EuroVis"
 year: 2025
 date: 2025-06-02
 pdf: "https://diglib.eg.org/bitstreams/f992e007-4823-456a-89a9-4c9c2d2a3c22/download"
-thumbnail: "/images/publications/2022_Rasheed_Jonsson_Nilsson_fMRIposter.png"
+thumbnail: "/images/publications/2025_Evers_Rasheed_Hotz_pieChartGlyphs.png"
 ---
