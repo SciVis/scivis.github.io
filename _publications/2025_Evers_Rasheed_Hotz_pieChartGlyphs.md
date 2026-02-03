@@ -1,5 +1,5 @@
 ---
-title: "Pie Chart Glyph Visualization of Uncertain Connected Components"
+title: "Pie chart glyph visualization of uncertain connected components"
 authors: "Marina Evers, Farhan Rasheed, Talha Bin Masood, Ingrid Hotz, Daniel Weiskopf"
 scivis_authors: [ "farra01", "talma90", "ingho32" ]
 venue: "Poster, EuroVis"

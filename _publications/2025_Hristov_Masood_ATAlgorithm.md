@@ -1,5 +1,5 @@
 ---
-title: "Arrange and Traverse Algorithm for Computation of Reeb Spaces of Piecewise Linear Maps"
+title: "Arrange and traverse algorithm for computation of Reeb spaces of piecewise linear maps"
 authors: "Petar Hristov, Daisuke Sakurai, Hamish Carr, Ingrid Hotz, Talha Bin Masood"
 scivis_authors: [ "pethr58", "ingho32", "talma90" ]
 venue: "EuroGraphics Symposium on Geometry Processing 2025, Bilbao, Spain. Computer Graphics Forum, 44(5), e70206"

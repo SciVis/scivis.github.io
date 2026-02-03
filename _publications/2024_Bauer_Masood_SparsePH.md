@@ -1,5 +1,5 @@
 ---
-title: " Keeping it sparse: Computing Persistent Homology revisited"
+title: " Keeping it sparse: Computing persistent homology revisited"
 authors: "Ulrich Bauer, Talha Bin Masood, Barbara Giunti, Guillaume Houry, Michael Kerber, Abhishek Rathod"
 scivis_authors: [ "talma90" ]
 venue: "Computing in Geometry and Topology, 3(1), pages 6:1-6:26"

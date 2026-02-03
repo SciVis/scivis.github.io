@@ -1,5 +1,5 @@
 ---
-title: "Exploring Electron Density Evolution using Merge Tree Mappings"
+title: "Exploring electron density evolution using merge tree mappings"
 authors: "Florian Wetzels, Talha Bin Masood, Nanna Holmgaard List, Ingrid Hotz, Christoph Garth"
 scivis_authors: [ "talma90", "ingho32" ]
 venue: "EuroVis (Short Papers) 2024, Odense, Denmark"

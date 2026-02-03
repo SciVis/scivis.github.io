@@ -1,8 +1,8 @@
 ---
-title: "Multi-field Visualization: Trait design and trait-induced merge trees"
+title: "Multi-field visualization: Trait design and trait-induced merge trees"
 authors: "Danhua Lei, Jochen Jankowai, Petar Hristov, Hamish Carr, Leif Denby, Talha Bin Masood, Ingrid Hotz"
 scivis_authors: [ "danle43", "jocja84", "pethr58", "talma90", "ingho32" ]
-venue: "IEEE Transactions on Visualization and Computer Graphics"
+venue: "IEEE Transactions on Visualization and Computer Graphics, 31(10), pages 6677-6690"
 year: 2025
 date: 2025-01-07
 doi: "10.1109/TVCG.2025.3525974"

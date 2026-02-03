@@ -1,5 +1,5 @@
 ---
-title: "An Overview of the Topology ToolKit"
+title: "An overview of the Topology ToolKit"
 authors: "Talha Bin Masood, Joseph Budin, Martin Falk, Guillaume Favelier, Christoph Garth, Charles Gueunet, Pierre Guillou, Lutz Hofmann, Petar Hristov, Adhitya Kamakshidasan, Christopher Kappe, Pavol Klacansky, Patrick Laurin, Joshua A. Levine, Jonas Lukasczyk, Daisuke Sakurai, Maxime Soler, Peter Steneteg, Julien Tierny, Will Usher, Jules Vidal, Michal Wozniak"
 scivis_authors: [ "talma90", "marfa45", "petst55" ]
 venue: "In Topological Methods in Data Analysis and Visualization VI. Ingrid Hotz, Talha Bin Masood, Filip Sadlo, Julien Tierny (Eds.), Springer Nature, Mathematics and Visualization Series, pages 327–342"

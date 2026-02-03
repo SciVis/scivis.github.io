@@ -1,5 +1,5 @@
 ---
-title: "Topological Methods in Data Analysis and Visualization VI"
+title: "Topological methods in data analysis and visualization VI"
 authors: "Ingrid Hotz, Talha Bin Masood, Filip Sadlo, Julien Tierny"
 scivis_authors: [ "ingho32", "talma90" ]
 venue: "Mathematics and Visualization Series, Springer"

@@ -1,5 +1,5 @@
 ---
-title: "Segmentation Driven Peeling for Visual Analysis of Electronic Transitions"
+title: "Segmentation driven peeling for visual analysis of electronic transitions"
 authors: "Mohit Sharma, Talha Bin Masood, Signe Sidwall Thygesen, Mathieu Linares, Ingrid Hotz, Vijay Natarajan"
 scivis_authors: [ "mohsh14", "talma90", "sigsi52", "matli20", "ingho32", "indoSwed"]
 venue: "IEEE Visualization Conference (VIS), New Orleans, USA, pages 96-100" 

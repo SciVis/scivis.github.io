@@ -1,5 +1,5 @@
 ---
-title: "Topology-Based Feature Design and Tracking for Multi-center Cyclones"
+title: "Topology-based feature design and tracking for multi-center cyclones"
 authors: "Wito Engelke, Talha Bin Masood, Jakob Beran, Rodrigo Caballero, Ingrid Hotz"
 scivis_authors: [ "witen91", "talma90", "ingho32" ]
 venue: "In Topological Methods in Data Analysis and Visualization VI. Ingrid Hotz, Talha Bin Masood, Filip Sadlo, Julien Tierny (Eds.), Springer Nature, Mathematics and Visualization Series, pages 71–85"

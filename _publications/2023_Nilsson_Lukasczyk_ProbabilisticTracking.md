@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Gradient-Based Extrema Tracking"
+title: "Probabilistic gradient-based extrema tracking"
 authors: "Emma Nilsson, Jonas Lukasczyk, Talha Bin Masood, Christoph Garth, Ingrid Hotz"
 scivis_authors: [ "emmni91", "talma90", "ingho32" ]
 venue: "Topological Data Analysis and Visualization (TopoInVis 2023), Melbourne, Australia, pages 72-81"

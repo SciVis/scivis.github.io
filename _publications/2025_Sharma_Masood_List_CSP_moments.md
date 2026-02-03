@@ -1,8 +1,8 @@
 ---
-title: "Continuous Scatterplot and Image Moments for Time-Varying Bivariate Field Analysis of Electronic Structure Evolution"
+title: "Continuous scatterplot and image moments for time-varying bivariate field analysis of electronic structure evolution"
 authors: "Mohit Sharma, Talha Bin Masood, Nanna Holmgaard List, Ingrid Hotz, Vijay Natarajan"
 scivis_authors: [ "mohsh14", "talma90", "ingho32" ]
-venue: "IEEE Transactions on Visualization and Computer Graphics"
+venue: "IEEE Transactions on Visualization and Computer Graphics, 31(10), pages 7229-7242"
 year: 2025
 date: 2025-02-18
 doi: "10.1109/TVCG.2025.3543619"

@@ -1,5 +1,5 @@
 ---
-title: "Level of Detail Visual Analysis of Structures in Solid-State Materials"
+title: "Level of detail visual analysis of structures in solid-state materials"
 authors: "Signe Sidwall Thygesen, Alexei I Abrikosov, Peter Steneteg, Talha Bin Masood, Ingrid Hotz"
 scivis_authors: [ "sigsi52", "aleab47", "petst55", "talma90", "ingho32" ]
 venue: "EuroVis (Short Papers) 2023, Leipzig, Germany"

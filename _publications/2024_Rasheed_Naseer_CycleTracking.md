@@ -1,5 +1,5 @@
 ---
-title: "Multi-scale Cycle Tracking in Dynamic Planar Graphs"
+title: "Multi-scale cycle tracking in dynamic planar graphs"
 authors: "Farhan Rasheed, Abrar Naseer, Emma Nilsson, Talha Bin Masood, Ingrid Hotz"
 scivis_authors: [ "farra01", "emmni91", "talma90", "ingho32", "indoSwed" ]
 venue: "Topological Data Analysis and Visualization (TopoInVis 2024), Florida, USA, pages 44-54"
