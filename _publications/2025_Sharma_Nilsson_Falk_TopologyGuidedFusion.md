@@ -6,7 +6,7 @@ venue: "Poster, Eurographics Workshop on Visual Computing for Biology and Medici
 year: 2025
 date: 2025-10-01
 pdf: "https://conferences.eg.org/vcbm2025/wp-content/uploads/sites/26/2025/09/Topology-Guided-Volume-Fusion-for-Multi-Energy-Spectral-Computed-Tomography.pdf"
-thumbnail: "2025_Sharma_Nilsson_Falk_TopologyGuidedFusion.png"
+thumbnail: "/images/publications/2025_Sharma_Nilsson_Falk_TopologyGuidedFusion.png"
 link: "https://conferences.eg.org/vcbm2025/wp-content/uploads/sites/26/2025/09/Poster-Topology-Guided-Volume-Fusion-for-Multi-Energy-Spectral-Computed-Tomography.pdf"
 link_title: "Poster"
 annotation: "Best Poster Award"
